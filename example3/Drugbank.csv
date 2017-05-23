@@ -1,0 +1,2709 @@
+Name,Name,Actions,Species,Database
+Theophylline, 1A1,"substrate, inhibitor",Not Specified,DrugBank
+Gefitinib, 1A1,"substrate, inhibitor",Not Specified,DrugBank
+Melatonin, 1A1,"substrate, inhibitor",Not Specified,DrugBank
+Resveratrol, 1A1,"substrate, inhibitor",Not Specified,DrugBank
+Menadione, 1A1,"substrate, inducer",Not Specified,DrugBank
+Nicotine, 1A1,"substrate, inducer",Not Specified,DrugBank
+Troglitazone, 1A1,substrate,Not Specified,DrugBank
+Acetaminophen, 1A1,substrate,Not Specified,DrugBank
+Chlorzoxazone, 1A1,substrate,Not Specified,DrugBank
+Progesterone, 1A1,substrate,Not Specified,DrugBank
+Prazosin, 1A1,substrate,Not Specified,DrugBank
+Dronabinol, 1A1,substrate,Not Specified,DrugBank
+Flutamide, 1A1,substrate,Not Specified,DrugBank
+Haloperidol, 1A1,substrate,Not Specified,DrugBank
+Oxaliplatin, 1A1,substrate,Not Specified,DrugBank
+Erlotinib, 1A1,substrate,Not Specified,DrugBank
+Toremifene, 1A1,substrate,Not Specified,DrugBank
+Cinnarizine, 1A1,substrate,Not Specified,DrugBank
+Clonidine, 1A1,substrate,Not Specified,DrugBank
+Diclofenac, 1A1,substrate,Not Specified,DrugBank
+Chloroquine, 1A1,substrate,Not Specified,DrugBank
+Amodiaquine, 1A1,substrate,Not Specified,DrugBank
+Testosterone, 1A1,substrate,Not Specified,DrugBank
+Estrone, 1A1,substrate,Not Specified,DrugBank
+Tamoxifen, 1A1,substrate,Not Specified,DrugBank
+Warfarin, 1A1,substrate,Not Specified,DrugBank
+Daunorubicin, 1A1,substrate,Not Specified,DrugBank
+Pentamidine, 1A1,substrate,Not Specified,DrugBank
+Riluzole, 1A1,substrate,Not Specified,DrugBank
+Tretinoin, 1A1,substrate,Not Specified,DrugBank
+Estradiol, 1A1,substrate,Not Specified,DrugBank
+Dacarbazine, 1A1,substrate,Not Specified,DrugBank
+Granisetron, 1A1,substrate,Not Specified,DrugBank
+Azelastine, 1A1,substrate,Not Specified,DrugBank
+Thalidomide, 1A1,substrate,Not Specified,DrugBank
+Fluvastatin, 1A1,substrate,Not Specified,DrugBank
+Amiodarone, 1A1,substrate,Not Specified,DrugBank
+Carvedilol, 1A1,substrate,Not Specified,DrugBank
+Dasatinib, 1A1,substrate,Not Specified,DrugBank
+Clenbuterol, 1A1,substrate,Not Specified,DrugBank
+Phenacetin, 1A1,substrate,Not Specified,DrugBank
+Debrisoquin, 1A1,substrate,Not Specified,DrugBank
+Flunarizine, 1A1,substrate,Not Specified,DrugBank
+Lorcaserin, 1A1,substrate,Not Specified,DrugBank
+Tesmilifene, 1A1,substrate,Not Specified,DrugBank
+Banoxantrone, 1A1,substrate,Not Specified,DrugBank
+Dapagliflozin, 1A1,substrate,Not Specified,DrugBank
+Vitamin A, 1A1,"inhibitor, inducer",Not Specified,DrugBank
+Quinine, 1A1,"inhibitor, inducer",Not Specified,DrugBank
+Ketoconazole, 1A1,"inhibitor, inducer",Not Specified,DrugBank
+Dexamethasone, 1A1,"inhibitor, inducer",Not Specified,DrugBank
+Ellagic Acid, 1A1,"inhibitor, inducer",Not Specified,DrugBank
+Pyridoxine, 1A1,inhibitor,Not Specified,DrugBank
+Cholecalciferol, 1A1,inhibitor,Not Specified,DrugBank
+Fluvoxamine, 1A1,inhibitor,Not Specified,DrugBank
+Bortezomib, 1A1,inhibitor,Not Specified,DrugBank
+Caffeine, 1A1,inhibitor,Not Specified,DrugBank
+Sildenafil, 1A1,inhibitor,Not Specified,DrugBank
+Ticlopidine, 1A1,inhibitor,Not Specified,DrugBank
+Nitroprusside, 1A1,inhibitor,Not Specified,DrugBank
+Amlodipine, 1A1,inhibitor,Not Specified,DrugBank
+Methoxsalen, 1A1,inhibitor,Not Specified,DrugBank
+Propranolol, 1A1,inhibitor,Not Specified,DrugBank
+Sulindac, 1A1,inhibitor,Not Specified,DrugBank
+Dexmedetomidine, 1A1,inhibitor,Not Specified,DrugBank
+Propofol, 1A1,inhibitor,Not Specified,DrugBank
+Ethanol, 1A1,inhibitor,Not Specified,DrugBank
+Quinidine, 1A1,inhibitor,Not Specified,DrugBank
+Clobetasol propionate, 1A1,inhibitor,Not Specified,DrugBank
+Norfloxacin, 1A1,inhibitor,Not Specified,DrugBank
+Isoprenaline, 1A1,inhibitor,Not Specified,DrugBank
+Ouabain, 1A1,inhibitor,Not Specified,DrugBank
+Nifedipine, 1A1,inhibitor,Not Specified,DrugBank
+Arsenic trioxide, 1A1,inhibitor,Not Specified,DrugBank
+Mibefradil, 1A1,inhibitor,Not Specified,DrugBank
+Omeprazole, 1A1,inducer,Not Specified,DrugBank
+Clozapine, 1A1,inducer,Not Specified,DrugBank
+Streptozocin, 1A1,inducer,Not Specified,DrugBank
+Lansoprazole, 1A1,inducer,Not Specified,DrugBank
+Picrotoxin, 1A1,inducer,Not Specified,DrugBank
+Albendazole, 1A1,inducer,Not Specified,DrugBank
+Clofibrate, 1A1,inducer,Not Specified,DrugBank
+Mebendazole, 1A1,inducer,Not Specified,DrugBank
+Fluorescein, 1A1,inducer,Not Specified,DrugBank
+Thiabendazole, 1A1,inducer,Not Specified,DrugBank
+Dicyclomine, 1A1,inducer,Not Specified,DrugBank
+Clomifene, 1A1,inducer,Not Specified,DrugBank
+Primaquine, 1A1,inducer,Not Specified,DrugBank
+Rabeprazole, 1A1,inducer,Not Specified,DrugBank
+Itraconazole, 1A1,inducer,Not Specified,DrugBank
+Phenobarbital, 1A1,inducer,Not Specified,DrugBank
+Bezafibrate, 1A1,inducer,Not Specified,DrugBank
+2-Methoxyestradiol, 1A1,,Not Specified,DrugBank
+Azimilide, 1A1,,Not Specified,DrugBank
+Benzyl alcohol, 1A1,,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2B6,Actions,Not Specified,DrugBank
+Cholecalciferol, 2B6,inhibitor,Not Specified,DrugBank
+Fluvoxamine, 2B6,inhibitor,Not Specified,DrugBank
+Nicotine, 2B6,substrate,Not Specified,DrugBank
+Tramadol, 2B6,substrate,Not Specified,DrugBank
+Troglitazone, 2B6,inducer,Not Specified,DrugBank
+Erythromycin, 2B6,substrate,Not Specified,DrugBank
+Ticlopidine, 2B6,inhibitor,Not Specified,DrugBank
+Citalopram, 2B6,inhibitor,Not Specified,DrugBank
+Nelfinavir, 2B6,inhibitor,Not Specified,DrugBank
+Temazepam, 2B6,substrate,Not Specified,DrugBank
+Nevirapine, 2B6,"substrate, inducer",Not Specified,DrugBank
+Phenytoin, 2B6,inducer,Not Specified,DrugBank
+Clotrimazole, 2B6,"inhibitor, inducer",Not Specified,DrugBank
+Lidocaine, 2B6,substrate,Not Specified,DrugBank
+Venlafaxine, 2B6,inhibitor,Not Specified,DrugBank
+Ropivacaine, 2B6,substrate,Not Specified,DrugBank
+Valproic Acid, 2B6,substrate,Not Specified,DrugBank
+Amitriptyline, 2B6,substrate,Not Specified,DrugBank
+Methadone, 2B6,substrate,Not Specified,DrugBank
+Clobazam, 2B6,substrate,Not Specified,DrugBank
+Mexiletine, 2B6,substrate,Not Specified,DrugBank
+Amlodipine, 2B6,inhibitor,Not Specified,DrugBank
+Sorafenib, 2B6,"substrate, inhibitor",Not Specified,DrugBank
+Nitric Oxide, 2B6,inhibitor,Not Specified,DrugBank
+Cerivastatin, 2B6,inducer,Not Specified,DrugBank
+Pethidine, 2B6,substrate,Not Specified,DrugBank
+Imipramine, 2B6,substrate,Not Specified,DrugBank
+Fluoxetine, 2B6,substrate,Not Specified,DrugBank
+Raloxifene, 2B6,inhibitor,Not Specified,DrugBank
+Ritonavir, 2B6,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Dextromethorphan, 2B6,substrate,Not Specified,DrugBank
+Cisplatin, 2B6,inhibitor,Not Specified,DrugBank
+Cyclophosphamide, 2B6,"substrate, inducer",Not Specified,DrugBank
+Mephenytoin, 2B6,substrate,Not Specified,DrugBank
+Carbamazepine, 2B6,inducer,Not Specified,DrugBank
+Cinnarizine, 2B6,substrate,Not Specified,DrugBank
+Diclofenac, 2B6,substrate,Not Specified,DrugBank
+Cisapride, 2B6,substrate,Not Specified,DrugBank
+Nicardipine, 2B6,inducer,Not Specified,DrugBank
+Testosterone, 2B6,"substrate, inducer",Not Specified,DrugBank
+Efavirenz, 2B6,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Clofibrate, 2B6,inducer,Not Specified,DrugBank
+Simvastatin, 2B6,inducer,Not Specified,DrugBank
+Estrone, 2B6,substrate,Not Specified,DrugBank
+Verapamil, 2B6,"substrate, inducer",Not Specified,DrugBank
+Tamoxifen, 2B6,"substrate, inhibitor",Not Specified,DrugBank
+Midazolam, 2B6,substrate,Not Specified,DrugBank
+Amprenavir, 2B6,inhibitor,Not Specified,DrugBank
+Paroxetine, 2B6,inhibitor,Not Specified,DrugBank
+Modafinil, 2B6,"inhibitor, inducer",Not Specified,DrugBank
+Carbinoxamine, 2B6,substrate,Not Specified,DrugBank
+Epinastine, 2B6,substrate,Not Specified,DrugBank
+Isoflurane, 2B6,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Tretinoin, 2B6,substrate,Not Specified,DrugBank
+Clopidogrel, 2B6,"substrate, inhibitor",Not Specified,DrugBank
+Irinotecan, 2B6,substrate,Not Specified,DrugBank
+Methimazole, 2B6,inhibitor,Not Specified,DrugBank
+Malathion, 2B6,substrate,Not Specified,DrugBank
+Roxithromycin, 2B6,inhibitor,Not Specified,DrugBank
+Primidone, 2B6,inducer,Not Specified,DrugBank
+Propofol, 2B6,substrate,Not Specified,DrugBank
+Diazepam, 2B6,substrate,Not Specified,DrugBank
+Brompheniramine, 2B6,substrate,Not Specified,DrugBank
+Loperamide, 2B6,substrate,Not Specified,DrugBank
+Methylphenobarbital, 2B6,substrate,Not Specified,DrugBank
+Perphenazine, 2B6,substrate,Not Specified,DrugBank
+Benzphetamine, 2B6,substrate,Not Specified,DrugBank
+Ethanol, 2B6,inhibitor,Not Specified,DrugBank
+Quinidine, 2B6,inhibitor,Not Specified,DrugBank
+Azelastine, 2B6,inhibitor,Not Specified,DrugBank
+Doxorubicin, 2B6,inhibitor,Not Specified,DrugBank
+Ketoconazole, 2B6,inhibitor,Not Specified,DrugBank
+Methoxyflurane, 2B6,substrate,Not Specified,DrugBank
+Selegiline, 2B6,substrate,Not Specified,DrugBank
+Memantine, 2B6,inhibitor,Not Specified,DrugBank
+Rifampicin, 2B6,inducer,Not Specified,DrugBank
+Promethazine, 2B6,substrate,Not Specified,DrugBank
+Perhexiline, 2B6,substrate,Not Specified,DrugBank
+Diphenhydramine, 2B6,substrate,Not Specified,DrugBank
+Atorvastatin, 2B6,inducer,Not Specified,DrugBank
+Fluvastatin, 2B6,inducer,Not Specified,DrugBank
+Sertraline, 2B6,"substrate, inhibitor",Not Specified,DrugBank
+Miconazole, 2B6,inhibitor,Not Specified,DrugBank
+Nifedipine, 2B6,inducer,Not Specified,DrugBank
+Sulfinpyrazone, 2B6,inducer,Not Specified,DrugBank
+Desipramine, 2B6,inhibitor,Not Specified,DrugBank
+Bupropion, 2B6,"substrate, inhibitor",Not Specified,DrugBank
+Halothane, 2B6,substrate,Not Specified,DrugBank
+Itraconazole, 2B6,inhibitor,Not Specified,DrugBank
+Orphenadrine, 2B6,"inhibitor, inducer",Not Specified,DrugBank
+Phenobarbital, 2B6,inducer,Not Specified,DrugBank
+Ifosfamide, 2B6,substrate,Not Specified,DrugBank
+Domperidone, 2B6,substrate,Not Specified,DrugBank
+Ketamine, 2B6,substrate,Not Specified,DrugBank
+Dexamethasone, 2B6,inducer,Not Specified,DrugBank
+Sevoflurane, 2B6,substrate,Not Specified,DrugBank
+Fosphenytoin, 2B6,inducer,Not Specified,DrugBank
+Colchicine, 2B6,inhibitor,Not Specified,DrugBank
+Antipyrine, 2B6,"substrate, inhibitor",Not Specified,DrugBank
+Ethylmorphine, 2B6,substrate,Not Specified,DrugBank
+Ritonavir, 2B6,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Raloxifene, 2B6,inhibitor,Not Specified,DrugBank
+Fluoxetine, 2B6,substrate,Not Specified,DrugBank
+Imipramine, 2B6,substrate,Not Specified,DrugBank
+Pethidine, 2B6,substrate,Not Specified,DrugBank
+Cerivastatin, 2B6,inducer,Not Specified,DrugBank
+Nitric Oxide, 2B6,inhibitor,Not Specified,DrugBank
+Sorafenib, 2B6,"substrate, inhibitor",Not Specified,DrugBank
+Amlodipine, 2B6,inhibitor,Not Specified,DrugBank
+Mexiletine, 2B6,substrate,Not Specified,DrugBank
+Clobazam, 2B6,substrate,Not Specified,DrugBank
+Methadone, 2B6,substrate,Not Specified,DrugBank
+Amitriptyline, 2B6,substrate,Not Specified,DrugBank
+Valproic Acid, 2B6,substrate,Not Specified,DrugBank
+Ropivacaine, 2B6,substrate,Not Specified,DrugBank
+Venlafaxine, 2B6,inhibitor,Not Specified,DrugBank
+Lidocaine, 2B6,substrate,Not Specified,DrugBank
+Clotrimazole, 2B6,"inhibitor, inducer",Not Specified,DrugBank
+Phenytoin, 2B6,inducer,Not Specified,DrugBank
+Nevirapine, 2B6,"substrate, inducer",Not Specified,DrugBank
+Temazepam, 2B6,substrate,Not Specified,DrugBank
+Nelfinavir, 2B6,inhibitor,Not Specified,DrugBank
+Citalopram, 2B6,inhibitor,Not Specified,DrugBank
+Ticlopidine, 2B6,inhibitor,Not Specified,DrugBank
+Erythromycin, 2B6,substrate,Not Specified,DrugBank
+Troglitazone, 2B6,inducer,Not Specified,DrugBank
+Tramadol, 2B6,substrate,Not Specified,DrugBank
+Nicotine, 2B6,substrate,Not Specified,DrugBank
+Fluvoxamine, 2B6,inhibitor,Not Specified,DrugBank
+Cholecalciferol, 2B6,inhibitor,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2C18,Actions,Not Specified,DrugBank
+Pegvisomant, 2C18,inhibitor,Not Specified,DrugBank
+Dapsone, 2C18,substrate,Not Specified,DrugBank
+Phenytoin, 2C18,substrate,Not Specified,DrugBank
+Lidocaine, 2C18,substrate,Not Specified,DrugBank
+Valproic Acid, 2C18,inhibitor,Not Specified,DrugBank
+Methadone, 2C18,substrate,Not Specified,DrugBank
+Omeprazole, 2C18,substrate,Not Specified,DrugBank
+Clobazam, 2C18,substrate,Not Specified,DrugBank
+Lansoprazole, 2C18,substrate,Not Specified,DrugBank
+Imipramine, 2C18,substrate,Not Specified,DrugBank
+Cyclophosphamide, 2C18,substrate,Not Specified,DrugBank
+Diclofenac, 2C18,substrate,Not Specified,DrugBank
+Verapamil, 2C18,substrate,Not Specified,DrugBank
+Warfarin, 2C18,substrate,Not Specified,DrugBank
+Tretinoin, 2C18,substrate,Not Specified,DrugBank
+Propofol, 2C18,substrate,Not Specified,DrugBank
+Diazepam, 2C18,substrate,Not Specified,DrugBank
+Perphenazine, 2C18,substrate,Not Specified,DrugBank
+Buprenorphine, 2C18,substrate,Not Specified,DrugBank
+Diphenhydramine, 2C18,substrate,Not Specified,DrugBank
+Tolbutamide, 2C18,substrate,Not Specified,DrugBank
+Desipramine, 2C18,substrate,Not Specified,DrugBank
+Phenobarbital, 2C18,inducer,Not Specified,DrugBank
+Ifosfamide, 2C18,substrate,Not Specified,DrugBank
+Troleandomycin, 2C18,inhibitor,Not Specified,DrugBank
+Aminophenazone, 2C18,substrate,Not Specified,DrugBank
+Antipyrine, 2C18,substrate,Not Specified,DrugBank
+Clotiazepam, 2C18,substrate,Not Specified,DrugBank
+Vilazodone, 2C18,substrate,Not Specified,DrugBank
+4-METHYL-N-METHYL-N-(2-PHENYL-2H-PYRAZOL-3-YL)BENZENESULFONAMIDE, 2C18,,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 3A7,Actions,Not Specified,DrugBank
+Cyclosporine, 3A7,"substrate, inducer",Not Specified,DrugBank
+Fluvoxamine, 3A7,inhibitor,Not Specified,DrugBank
+Fluconazole, 3A7,inhibitor,Not Specified,DrugBank
+Troglitazone, 3A7,"inhibitor, inducer",Not Specified,DrugBank
+Erythromycin, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Caffeine, 3A7,substrate,Not Specified,DrugBank
+Sildenafil, 3A7,substrate,Not Specified,DrugBank
+Nelfinavir, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Indinavir, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Lovastatin, 3A7,substrate,Not Specified,DrugBank
+Ziprasidone, 3A7,substrate,Not Specified,DrugBank
+Dapsone, 3A7,substrate,Not Specified,DrugBank
+Phenytoin, 3A7,inducer,Not Specified,DrugBank
+Clotrimazole, 3A7,inducer,Not Specified,DrugBank
+Lidocaine, 3A7,substrate,Not Specified,DrugBank
+Codeine, 3A7,substrate,Not Specified,DrugBank
+Methadone, 3A7,substrate,Not Specified,DrugBank
+Terfenadine, 3A7,substrate,Not Specified,DrugBank
+Diltiazem, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Amlodipine, 3A7,substrate,Not Specified,DrugBank
+Progesterone, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Sorafenib, 3A7,substrate,Not Specified,DrugBank
+Nisoldipine, 3A7,substrate,Not Specified,DrugBank
+Alprazolam, 3A7,substrate,Not Specified,DrugBank
+Zolpidem, 3A7,substrate,Not Specified,DrugBank
+Cerivastatin, 3A7,substrate,Not Specified,DrugBank
+Chloramphenicol, 3A7,inhibitor,Not Specified,DrugBank
+Imipramine, 3A7,substrate,Not Specified,DrugBank
+Quinine, 3A7,substrate,Not Specified,DrugBank
+Buspirone, 3A7,substrate,Not Specified,DrugBank
+Oxycodone, 3A7,substrate,Not Specified,DrugBank
+Cimetidine, 3A7,inhibitor,Not Specified,DrugBank
+Haloperidol, 3A7,substrate,Not Specified,DrugBank
+Ritonavir, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Dextromethorphan, 3A7,substrate,Not Specified,DrugBank
+Lercanidipine, 3A7,substrate,Not Specified,DrugBank
+Cyclophosphamide, 3A7,substrate,Not Specified,DrugBank
+Ciprofloxacin, 3A7,inhibitor,Not Specified,DrugBank
+Vincristine, 3A7,substrate,Not Specified,DrugBank
+Carbamazepine, 3A7,substrate,Not Specified,DrugBank
+Propranolol, 3A7,substrate,Not Specified,DrugBank
+Voriconazole, 3A7,inhibitor,Not Specified,DrugBank
+Fluticasone Propionate, 3A7,substrate,Not Specified,DrugBank
+Ethosuximide, 3A7,substrate,Not Specified,DrugBank
+Cisapride, 3A7,substrate,Not Specified,DrugBank
+Imatinib, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Testosterone, 3A7,substrate,Not Specified,DrugBank
+Astemizole, 3A7,substrate,Not Specified,DrugBank
+Simvastatin, 3A7,substrate,Not Specified,DrugBank
+Dextropropoxyphene, 3A7,inducer,Not Specified,DrugBank
+Trazodone, 3A7,substrate,Not Specified,DrugBank
+Verapamil, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Aprepitant, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Tamoxifen, 3A7,substrate,Not Specified,DrugBank
+Midazolam, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Eplerenone, 3A7,substrate,Not Specified,DrugBank
+Delavirdine, 3A7,inhibitor,Not Specified,DrugBank
+Norethindrone, 3A7,substrate,Not Specified,DrugBank
+Nateglinide, 3A7,substrate,Not Specified,DrugBank
+Risperidone, 3A7,substrate,Not Specified,DrugBank
+Hydrocortisone, 3A7,substrate,Not Specified,DrugBank
+Tretinoin, 3A7,substrate,Not Specified,DrugBank
+Irinotecan, 3A7,substrate,Not Specified,DrugBank
+Phenelzine, 3A7,inhibitor,Not Specified,DrugBank
+Estradiol, 3A7,substrate,Not Specified,DrugBank
+Alfentanil, 3A7,substrate,Not Specified,DrugBank
+Fentanyl, 3A7,substrate,Not Specified,DrugBank
+Diazepam, 3A7,substrate,Not Specified,DrugBank
+Mifepristone, 3A7,inhibitor,Not Specified,DrugBank
+Oxazepam, 3A7,substrate,Not Specified,DrugBank
+Tacrolimus, 3A7,substrate,Not Specified,DrugBank
+Sirolimus, 3A7,substrate,Not Specified,DrugBank
+Triazolam, 3A7,substrate,Not Specified,DrugBank
+Ondansetron, 3A7,substrate,Not Specified,DrugBank
+Cocaine, 3A7,substrate,Not Specified,DrugBank
+Quinidine, 3A7,substrate,Not Specified,DrugBank
+Buprenorphine, 3A7,substrate,Not Specified,DrugBank
+Salmeterol, 3A7,substrate,Not Specified,DrugBank
+Zalcitabine, 3A7,substrate,Not Specified,DrugBank
+Zaleplon, 3A7,substrate,Not Specified,DrugBank
+Telithromycin, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Felodipine, 3A7,substrate,Not Specified,DrugBank
+Ketoconazole, 3A7,inhibitor,Not Specified,DrugBank
+Rifampicin, 3A7,inducer,Not Specified,DrugBank
+Nitrendipine, 3A7,substrate,Not Specified,DrugBank
+Praziquantel, 3A7,substrate,Not Specified,DrugBank
+Norfloxacin, 3A7,inhibitor,Not Specified,DrugBank
+Atorvastatin, 3A7,substrate,Not Specified,DrugBank
+Pimozide, 3A7,substrate,Not Specified,DrugBank
+Chlorphenamine, 3A7,substrate,Not Specified,DrugBank
+Nifedipine, 3A7,substrate,Not Specified,DrugBank
+Amiodarone, 3A7,inhibitor,Not Specified,DrugBank
+Nefazodone, 3A7,inhibitor,Not Specified,DrugBank
+Cilostazol, 3A7,substrate,Not Specified,DrugBank
+Itraconazole, 3A7,inhibitor,Not Specified,DrugBank
+Phenobarbital, 3A7,inducer,Not Specified,DrugBank
+Ifosfamide, 3A7,substrate,Not Specified,DrugBank
+Domperidone, 3A7,substrate,Not Specified,DrugBank
+Rifapentine, 3A7,inducer,Not Specified,DrugBank
+Clarithromycin, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Finasteride, 3A7,substrate,Not Specified,DrugBank
+Quetiapine, 3A7,substrate,Not Specified,DrugBank
+Levomethadyl Acetate, 3A7,substrate,Not Specified,DrugBank
+Paclitaxel, 3A7,substrate,Not Specified,DrugBank
+Saquinavir, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Dexamethasone, 3A7,"substrate, inducer",Not Specified,DrugBank
+Aripiprazole, 3A7,substrate,Not Specified,DrugBank
+Docetaxel, 3A7,substrate,Not Specified,DrugBank
+Sunitinib, 3A7,substrate,Not Specified,DrugBank
+Mibefradil, 3A7,inhibitor,Not Specified,DrugBank
+Aminophenazone, 3A7,substrate,Not Specified,DrugBank
+Ethylmorphine, 3A7,substrate,Not Specified,DrugBank
+Dehydroepiandrosterone, 3A7,"substrate, inhibitor",Not Specified,DrugBank
+Iloperidone, 3A7,substrate,Not Specified,DrugBank
+dehydroepiandrosterone sulfate, 3A7,substrate,Not Specified,DrugBank
+Temsirolimus, 3A7,substrate,Not Specified,DrugBank
+Gestodene, 3A7,inhibitor,Not Specified,DrugBank
+Seproxetine, 3A7,inhibitor,Not Specified,DrugBank
+Daclatasvir, 3A7,substrate,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 1A2,Actions,Not Specified,DrugBank
+Insulin Regular, 1A2,inducer,Not Specified,DrugBank
+Insulin Lispro, 1A2,inducer,Not Specified,DrugBank
+Insulin Glargine, 1A2,inducer,Not Specified,DrugBank
+"Insulin, porcine", 1A2,inducer,Not Specified,DrugBank
+Menadione, 1A2,"substrate, inducer",Not Specified,DrugBank
+Fluvoxamine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Nicotine, 1A2,"substrate, inducer",Not Specified,DrugBank
+Bortezomib, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Phentermine, 1A2,inhibitor,Not Specified,DrugBank
+Betaxolol, 1A2,substrate,Not Specified,DrugBank
+Erythromycin, 1A2,inhibitor,Not Specified,DrugBank
+Caffeine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Azithromycin, 1A2,inhibitor,Not Specified,DrugBank
+Ticlopidine, 1A2,inhibitor,Not Specified,DrugBank
+Pantoprazole, 1A2,"substrate, inducer",Not Specified,DrugBank
+Citalopram, 1A2,inhibitor,Not Specified,DrugBank
+Nelfinavir, 1A2,inhibitor,Not Specified,DrugBank
+Nevirapine, 1A2,inhibitor,Not Specified,DrugBank
+Ziprasidone, 1A2,substrate,Not Specified,DrugBank
+Clotrimazole, 1A2,inhibitor,Not Specified,DrugBank
+Anagrelide, 1A2,substrate,Not Specified,DrugBank
+Carmustine, 1A2,substrate,Not Specified,DrugBank
+Ropinirole, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Theophylline, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Lidocaine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Conjugated Estrogens, 1A2,substrate,Not Specified,DrugBank
+Ropivacaine, 1A2,substrate,Not Specified,DrugBank
+Bupivacaine, 1A2,substrate,Not Specified,DrugBank
+Tenofovir, 1A2,inhibitor,Not Specified,DrugBank
+Valproic Acid, 1A2,inhibitor,Not Specified,DrugBank
+Zolmitriptan, 1A2,substrate,Not Specified,DrugBank
+Acetaminophen, 1A2,substrate,Not Specified,DrugBank
+Amitriptyline, 1A2,substrate,Not Specified,DrugBank
+Nitroprusside, 1A2,inhibitor,Not Specified,DrugBank
+Methadone, 1A2,substrate,Not Specified,DrugBank
+Olanzapine, 1A2,substrate,Not Specified,DrugBank
+Omeprazole, 1A2,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Pyrazinamide, 1A2,substrate,Not Specified,DrugBank
+Chlorzoxazone, 1A2,substrate,Not Specified,DrugBank
+Aminoglutethimide, 1A2,inducer,Not Specified,DrugBank
+Clozapine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Grepafloxacin, 1A2,substrate,Not Specified,DrugBank
+Norepinephrine, 1A2,inhibitor,Not Specified,DrugBank
+Mirtazapine, 1A2,substrate,Not Specified,DrugBank
+Palonosetron, 1A2,substrate,Not Specified,DrugBank
+Mexiletine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Amlodipine, 1A2,inhibitor,Not Specified,DrugBank
+Tacrine, 1A2,substrate,Not Specified,DrugBank
+Triamterene, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Phenylephrine, 1A2,inducer,Not Specified,DrugBank
+Progesterone, 1A2,substrate,Not Specified,DrugBank
+Phenylpropanolamine, 1A2,inhibitor,Not Specified,DrugBank
+Sorafenib, 1A2,inhibitor,Not Specified,DrugBank
+Griseofulvin, 1A2,inducer,Not Specified,DrugBank
+Nisoldipine, 1A2,inhibitor,Not Specified,DrugBank
+Rosiglitazone, 1A2,inhibitor,Not Specified,DrugBank
+Secobarbital, 1A2,inducer,Not Specified,DrugBank
+Promazine, 1A2,substrate,Not Specified,DrugBank
+Zolpidem, 1A2,substrate,Not Specified,DrugBank
+Streptozocin, 1A2,inducer,Not Specified,DrugBank
+Nitric Oxide, 1A2,substrate,Not Specified,DrugBank
+Lansoprazole, 1A2,inducer,Not Specified,DrugBank
+Imipramine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Nabumetone, 1A2,substrate,Not Specified,DrugBank
+Enoxacin, 1A2,inhibitor,Not Specified,DrugBank
+Quinine, 1A2,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Fluoxetine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Duloxetine, 1A2,substrate,Not Specified,DrugBank
+Chlorpromazine, 1A2,substrate,Not Specified,DrugBank
+Pefloxacin, 1A2,inhibitor,Not Specified,DrugBank
+Flutamide, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Cimetidine, 1A2,inhibitor,Not Specified,DrugBank
+Haloperidol, 1A2,substrate,Not Specified,DrugBank
+Ritonavir, 1A2,"substrate, inducer",Not Specified,DrugBank
+Albendazole, 1A2,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Alitretinoin, 1A2,inhibitor,Not Specified,DrugBank
+Oxaliplatin, 1A2,substrate,Not Specified,DrugBank
+Erlotinib, 1A2,substrate,Not Specified,DrugBank
+Mephenytoin, 1A2,substrate,Not Specified,DrugBank
+Rofecoxib, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Ciprofloxacin, 1A2,inhibitor,Not Specified,DrugBank
+Toremifene, 1A2,substrate,Not Specified,DrugBank
+Nortriptyline, 1A2,substrate,Not Specified,DrugBank
+Fluorouracil, 1A2,substrate,Not Specified,DrugBank
+Zafirlukast, 1A2,inhibitor,Not Specified,DrugBank
+Methoxsalen, 1A2,inhibitor,Not Specified,DrugBank
+Carbamazepine, 1A2,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Cinnarizine, 1A2,substrate,Not Specified,DrugBank
+Propranolol, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Atropine, 1A2,inhibitor,Not Specified,DrugBank
+Clonidine, 1A2,substrate,Not Specified,DrugBank
+Diclofenac, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Cisapride, 1A2,substrate,Not Specified,DrugBank
+Sulindac, 1A2,inhibitor,Not Specified,DrugBank
+Nafcillin, 1A2,inducer,Not Specified,DrugBank
+Rifabutin, 1A2,substrate,Not Specified,DrugBank
+Imatinib, 1A2,substrate,Not Specified,DrugBank
+Fluphenazine, 1A2,inhibitor,Not Specified,DrugBank
+Efavirenz, 1A2,inhibitor,Not Specified,DrugBank
+Guanabenz, 1A2,substrate,Not Specified,DrugBank
+Dexmedetomidine, 1A2,inhibitor,Not Specified,DrugBank
+Estrone, 1A2,substrate,Not Specified,DrugBank
+Verapamil, 1A2,substrate,Not Specified,DrugBank
+Epinephrine, 1A2,inhibitor,Not Specified,DrugBank
+Aprepitant, 1A2,substrate,Not Specified,DrugBank
+Tamoxifen, 1A2,substrate,Not Specified,DrugBank
+Losartan, 1A2,inhibitor,Not Specified,DrugBank
+Thioridazine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Warfarin, 1A2,substrate,Not Specified,DrugBank
+Daunorubicin, 1A2,substrate,Not Specified,DrugBank
+Ergotamine, 1A2,substrate,Not Specified,DrugBank
+Tizanidine, 1A2,substrate,Not Specified,DrugBank
+Delavirdine, 1A2,inhibitor,Not Specified,DrugBank
+Imiquimod, 1A2,substrate,Not Specified,DrugBank
+Thiabendazole, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Meclizine, 1A2,inhibitor,Not Specified,DrugBank
+Pentamidine, 1A2,substrate,Not Specified,DrugBank
+Riluzole, 1A2,substrate,Not Specified,DrugBank
+Zileuton, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Modafinil, 1A2,"inhibitor,inducer",Not Specified,DrugBank
+Tranylcypromine, 1A2,inhibitor,Not Specified,DrugBank
+Clopidogrel, 1A2,substrate,Not Specified,DrugBank
+Methimazole, 1A2,inhibitor,Not Specified,DrugBank
+Malathion, 1A2,substrate,Not Specified,DrugBank
+Etoposide, 1A2,substrate,Not Specified,DrugBank
+Roxithromycin, 1A2,inhibitor,Not Specified,DrugBank
+Estradiol, 1A2,substrate,Not Specified,DrugBank
+Naproxen, 1A2,substrate,Not Specified,DrugBank
+Primidone, 1A2,inducer,Not Specified,DrugBank
+Pentoxifylline, 1A2,substrate,Not Specified,DrugBank
+Propofol, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Diazepam, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Trifluoperazine, 1A2,substrate,Not Specified,DrugBank
+Perphenazine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Dacarbazine, 1A2,substrate,Not Specified,DrugBank
+Terbinafine, 1A2,substrate,Not Specified,DrugBank
+Ranitidine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Clomifene, 1A2,inhibitor,Not Specified,DrugBank
+Ethanol, 1A2,substrate,Not Specified,DrugBank
+Ondansetron, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Quinidine, 1A2,inhibitor,Not Specified,DrugBank
+Dinoprostone, 1A2,substrate,Not Specified,DrugBank
+Almotriptan, 1A2,substrate,Not Specified,DrugBank
+Buprenorphine, 1A2,inhibitor,Not Specified,DrugBank
+Cyclobenzaprine, 1A2,substrate,Not Specified,DrugBank
+Maprotiline, 1A2,substrate,Not Specified,DrugBank
+Isoniazid, 1A2,inhibitor,Not Specified,DrugBank
+Isoniazid, 1A2,,Not Specified,DrugBank
+Rizatriptan, 1A2,substrate,Not Specified,DrugBank
+Desloratadine, 1A2,inhibitor,Not Specified,DrugBank
+Alosetron, 1A2,substrate,Not Specified,DrugBank
+Azelastine, 1A2,substrate,Not Specified,DrugBank
+Edetic Acid, 1A2,inhibitor,Not Specified,DrugBank
+Telithromycin, 1A2,substrate,Not Specified,DrugBank
+Lomefloxacin, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Ramelteon, 1A2,substrate,Not Specified,DrugBank
+Dopamine, 1A2,inhibitor,Not Specified,DrugBank
+Frovatriptan, 1A2,substrate,Not Specified,DrugBank
+Levobupivacaine, 1A2,substrate,Not Specified,DrugBank
+Tioconazole, 1A2,inhibitor,Not Specified,DrugBank
+Cinacalcet, 1A2,substrate,Not Specified,DrugBank
+Clobetasol propionate, 1A2,inhibitor,Not Specified,DrugBank
+Ketoconazole, 1A2,inhibitor,Not Specified,DrugBank
+Methoxyflurane, 1A2,substrate,Not Specified,DrugBank
+Irbesartan, 1A2,inhibitor,Not Specified,DrugBank
+Selegiline, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Thalidomide, 1A2,substrate,Not Specified,DrugBank
+Rifampicin, 1A2,inducer,Not Specified,DrugBank
+Tocainide, 1A2,inhibitor,Not Specified,DrugBank
+Praziquantel, 1A2,substrate,Not Specified,DrugBank
+Norfloxacin, 1A2,inhibitor,Not Specified,DrugBank
+Melatonin, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Diphenhydramine, 1A2,substrate,Not Specified,DrugBank
+Tegaserod, 1A2,inhibitor,Not Specified,DrugBank
+Primaquine, 1A2,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Hesperetin, 1A2,substrate,Not Specified,DrugBank
+Fluvastatin, 1A2,inhibitor,Not Specified,DrugBank
+Leflunomide, 1A2,substrate,Not Specified,DrugBank
+Pimozide, 1A2,substrate,Not Specified,DrugBank
+Sertraline, 1A2,substrate,Not Specified,DrugBank
+Miconazole, 1A2,inhibitor,Not Specified,DrugBank
+Nifedipine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Amiodarone, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Rabeprazole, 1A2,inducer,Not Specified,DrugBank
+Proguanil, 1A2,substrate,Not Specified,DrugBank
+Carvedilol, 1A2,substrate,Not Specified,DrugBank
+Levofloxacin, 1A2,inhibitor,Not Specified,DrugBank
+Doxepin, 1A2,substrate,Not Specified,DrugBank
+Desipramine, 1A2,substrate,Not Specified,DrugBank
+Bupropion, 1A2,substrate,Not Specified,DrugBank
+Ofloxacin, 1A2,inhibitor,Not Specified,DrugBank
+Cilostazol, 1A2,substrate,Not Specified,DrugBank
+Moclobemide, 1A2,inhibitor,Not Specified,DrugBank
+Phenobarbital, 1A2,inducer,Not Specified,DrugBank
+Propafenone, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Domperidone, 1A2,substrate,Not Specified,DrugBank
+Dexfenfluramine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Bromocriptine, 1A2,inhibitor,Not Specified,DrugBank
+Clarithromycin, 1A2,inhibitor,Not Specified,DrugBank
+Anastrozole, 1A2,inhibitor,Not Specified,DrugBank
+Aminophylline, 1A2,substrate,Not Specified,DrugBank
+Gemfibrozil, 1A2,inhibitor,Not Specified,DrugBank
+Clomipramine, 1A2,substrate,Not Specified,DrugBank
+Dasatinib, 1A2,substrate,Not Specified,DrugBank
+Lumiracoxib, 1A2,substrate,Not Specified,DrugBank
+Oxtriphylline, 1A2,substrate,Not Specified,DrugBank
+Insulin Aspart, 1A2,inducer,Not Specified,DrugBank
+Insulin Detemir, 1A2,inducer,Not Specified,DrugBank
+Insulin Glulisine, 1A2,inducer,Not Specified,DrugBank
+Hexobarbital, 1A2,substrate,Not Specified,DrugBank
+Rasagiline, 1A2,substrate,Not Specified,DrugBank
+Mibefradil, 1A2,inhibitor,Not Specified,DrugBank
+Methotrimeprazine, 1A2,inhibitor,Not Specified,DrugBank
+Temafloxacin, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Clenbuterol, 1A2,substrate,Not Specified,DrugBank
+Theobromine, 1A2,substrate,Not Specified,DrugBank
+Acenocoumarol, 1A2,substrate,Not Specified,DrugBank
+Aminophenazone, 1A2,substrate,Not Specified,DrugBank
+Antipyrine, 1A2,substrate,Not Specified,DrugBank
+Flunitrazepam, 1A2,substrate,Not Specified,DrugBank
+Bromazepam, 1A2,substrate,Not Specified,DrugBank
+Lopinavir, 1A2,inhibitor,Not Specified,DrugBank
+Pipotiazine, 1A2,substrate,Not Specified,DrugBank
+Thiothixene, 1A2,substrate,Not Specified,DrugBank
+Etoricoxib, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Genistein, 1A2,substrate,Not Specified,DrugBank
+Resveratrol, 1A2,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Phenacetin, 1A2,substrate,Not Specified,DrugBank
+Estropipate, 1A2,substrate,Not Specified,DrugBank
+Dantron, 1A2,inducer,Not Specified,DrugBank
+Flunarizine, 1A2,substrate,Not Specified,DrugBank
+Lorcaserin, 1A2,substrate,Not Specified,DrugBank
+Clevidipine, 1A2,substrate,Not Specified,DrugBank
+Iloperidone, 1A2,substrate,Not Specified,DrugBank
+RHIIP, 1A2,inducer,Not Specified,DrugBank
+Rotigotine, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+inhaled insulin, 1A2,inducer,Not Specified,DrugBank
+HIIP, 1A2,inducer,Not Specified,DrugBank
+lidocaine patch, 1A2,,Not Specified,DrugBank
+GTS-21, 1A2,,Not Specified,DrugBank
+Abiraterone, 1A2,inhibitor,Not Specified,DrugBank
+Mianserin, 1A2,substrate,Not Specified,DrugBank
+Eltrombopag, 1A2,"substrate, inhibitor",Not Specified,DrugBank
+Asenapine, 1A2,substrate,Not Specified,DrugBank
+Simeprevir, 1A2,inhibitor,Not Specified,DrugBank
+Dapagliflozin, 1A2,substrate,Not Specified,DrugBank
+Armodafinil, 1A2,inducer,Not Specified,DrugBank
+Pazopanib, 1A2,substrate,Not Specified,DrugBank
+Agomelatine, 1A2,inhibitor,Not Specified,DrugBank
+Apixaban, 1A2,substrate,Not Specified,DrugBank
+Axitinib, 1A2,substrate,Not Specified,DrugBank
+Nilvadipine, 1A2,inhibitor,Not Specified,DrugBank
+beta-Naphthoflavone, 1A2,inducer,Not Specified,DrugBank
+Benzyl alcohol, 1A2,substrate,Not Specified,DrugBank
+Niclosamide, 1A2,inhibitor,Not Specified,DrugBank
+Sulconazole, 1A2,inhibitor,Not Specified,DrugBank
+2-PHENYL-4H-BENZO[H]CHROMEN-4-ONE, 1A2,,Not Specified,DrugBank
+Rilpivirine, 1A2,inducer,Not Specified,DrugBank
+Vemurafenib, 1A2,inhibitor,Not Specified,DrugBank
+Pomalidomide, 1A2,substrate,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2C8,Actions,Not Specified,DrugBank
+Lumacaftor, 2C8,"inhibitor, inducer",Not Specified,DrugBank
+Olodaterol, 2C8,substrate,Not Specified,DrugBank
+Idelalisib, 2C8,inhibitor,Not Specified,DrugBank
+Levomilnacipran, 2C8,substrate,Not Specified,DrugBank
+Dabrafenib, 2C8,substrate,Not Specified,DrugBank
+Trametinib, 2C8,inhibitor,Not Specified,DrugBank
+Ponatinib, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Enzalutamide, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Regorafenib, 2C8,inhibitor,Not Specified,DrugBank
+Pitavastatin, 2C8,substrate,Not Specified,DrugBank
+Vismodegib, 2C8,inhibitor,Not Specified,DrugBank
+"(5R)-5-(4-{[(2R)-6-HYDROXY-2,5,7,8-TETRAMETHYL-3,4-DIHYDRO-2H-CHROMEN-2-YL]METHOXY}BENZYL)-1,3-THIAZOLIDINE-2,4-DIONE", 2C8,,Not Specified,DrugBank
+Cabazitaxel, 2C8,substrate,Not Specified,DrugBank
+Benzyl alcohol, 2C8,substrate,Not Specified,DrugBank
+Ketobemidone, 2C8,substrate,Not Specified,DrugBank
+Sulfaphenazole, 2C8,inhibitor,Not Specified,DrugBank
+Nilvadipine, 2C8,inhibitor,Not Specified,DrugBank
+Apixaban, 2C8,substrate,Not Specified,DrugBank
+Pazopanib, 2C8,substrate,Not Specified,DrugBank
+Eltrombopag, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Abiraterone, 2C8,inhibitor,Not Specified,DrugBank
+Beraprost, 2C8,substrate,Not Specified,DrugBank
+Nilotinib, 2C8,inhibitor,Not Specified,DrugBank
+Licofelone, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Quercetin, 2C8,inhibitor,Not Specified,DrugBank
+Palmitic Acid, 2C8,,Not Specified,DrugBank
+Rutin, 2C8,inhibitor,Not Specified,DrugBank
+Liotrix, 2C8,inhibitor,Not Specified,DrugBank
+Antipyrine, 2C8,substrate,Not Specified,DrugBank
+Aminophenazone, 2C8,substrate,Not Specified,DrugBank
+Colchicine, 2C8,"inhibitor, inducer",Not Specified,DrugBank
+Bezafibrate, 2C8,inhibitor,Not Specified,DrugBank
+Troleandomycin, 2C8,inhibitor,Not Specified,DrugBank
+Fosphenytoin, 2C8,"substrate, inducer",Not Specified,DrugBank
+Sitagliptin, 2C8,substrate,Not Specified,DrugBank
+Lapatinib, 2C8,substrate,Not Specified,DrugBank
+Gemfibrozil, 2C8,"inhibitor, inducer",Not Specified,DrugBank
+Dexamethasone, 2C8,inducer,Not Specified,DrugBank
+Saquinavir, 2C8,inhibitor,Not Specified,DrugBank
+Paclitaxel, 2C8,substrate,Not Specified,DrugBank
+Ketamine, 2C8,substrate,Not Specified,DrugBank
+Halofantrine, 2C8,substrate,Not Specified,DrugBank
+Rifapentine, 2C8,inducer,Not Specified,DrugBank
+Zopiclone, 2C8,substrate,Not Specified,DrugBank
+Domperidone, 2C8,substrate,Not Specified,DrugBank
+Naloxone, 2C8,substrate,Not Specified,DrugBank
+Propafenone, 2C8,inhibitor,Not Specified,DrugBank
+Ifosfamide, 2C8,"substrate, inducer",Not Specified,DrugBank
+Phenobarbital, 2C8,inducer,Not Specified,DrugBank
+Bupropion, 2C8,substrate,Not Specified,DrugBank
+Sulfinpyrazone, 2C8,substrate,Not Specified,DrugBank
+Pioglitazone, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Tolbutamide, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Amiodarone, 2C8,substrate,Not Specified,DrugBank
+Nifedipine, 2C8,inhibitor,Not Specified,DrugBank
+Fluvastatin, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Tegaserod, 2C8,inhibitor,Not Specified,DrugBank
+Atorvastatin, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Oxybutynin, 2C8,inhibitor,Not Specified,DrugBank
+Ibuprofen, 2C8,substrate,Not Specified,DrugBank
+Rifampicin, 2C8,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Fenofibrate, 2C8,inhibitor,Not Specified,DrugBank
+Selegiline, 2C8,substrate,Not Specified,DrugBank
+Probenecid, 2C8,inducer,Not Specified,DrugBank
+Irbesartan, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Ketoconazole, 2C8,inhibitor,Not Specified,DrugBank
+Felodipine, 2C8,inhibitor,Not Specified,DrugBank
+Sulfamethoxazole, 2C8,inhibitor,Not Specified,DrugBank
+Ketoprofen, 2C8,inhibitor,Not Specified,DrugBank
+Tioconazole, 2C8,inhibitor,Not Specified,DrugBank
+Ethinyl Estradiol, 2C8,inhibitor,Not Specified,DrugBank
+Azelastine, 2C8,substrate,Not Specified,DrugBank
+Isoniazid, 2C8,inhibitor,Not Specified,DrugBank
+Isoniazid, 2C8,,Not Specified,DrugBank
+Phenprocoumon, 2C8,substrate,Not Specified,DrugBank
+Acetylsalicylic acid, 2C8,substrate,Not Specified,DrugBank
+Salmeterol, 2C8,inhibitor,Not Specified,DrugBank
+Buprenorphine, 2C8,substrate,Not Specified,DrugBank
+Almotriptan, 2C8,substrate,Not Specified,DrugBank
+Metronidazole, 2C8,inhibitor,Not Specified,DrugBank
+Repaglinide, 2C8,substrate,Not Specified,DrugBank
+Quinidine, 2C8,substrate,Not Specified,DrugBank
+Cocaine, 2C8,inhibitor,Not Specified,DrugBank
+Triazolam, 2C8,inhibitor,Not Specified,DrugBank
+Terbinafine, 2C8,substrate,Not Specified,DrugBank
+Perphenazine, 2C8,substrate,Not Specified,DrugBank
+Loperamide, 2C8,substrate,Not Specified,DrugBank
+Brompheniramine, 2C8,substrate,Not Specified,DrugBank
+Diazepam, 2C8,substrate,Not Specified,DrugBank
+Propofol, 2C8,substrate,Not Specified,DrugBank
+Meloxicam, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Tazarotene, 2C8,substrate,Not Specified,DrugBank
+Candesartan, 2C8,inhibitor,Not Specified,DrugBank
+Primidone, 2C8,inducer,Not Specified,DrugBank
+Naproxen, 2C8,substrate,Not Specified,DrugBank
+Mefenamic acid, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Estradiol, 2C8,substrate,Not Specified,DrugBank
+Phenelzine, 2C8,inhibitor,Not Specified,DrugBank
+Etoposide, 2C8,inhibitor,Not Specified,DrugBank
+Mometasone, 2C8,inhibitor,Not Specified,DrugBank
+Clopidogrel, 2C8,inhibitor,Not Specified,DrugBank
+Tretinoin, 2C8,substrate,Not Specified,DrugBank
+Carbinoxamine, 2C8,substrate,Not Specified,DrugBank
+Hydrocortisone, 2C8,inducer,Not Specified,DrugBank
+Pentamidine, 2C8,substrate,Not Specified,DrugBank
+Paroxetine, 2C8,inhibitor,Not Specified,DrugBank
+Delavirdine, 2C8,inhibitor,Not Specified,DrugBank
+Amprenavir, 2C8,substrate,Not Specified,DrugBank
+Mycophenolate mofetil, 2C8,substrate,Not Specified,DrugBank
+Warfarin, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Thioridazine, 2C8,inhibitor,Not Specified,DrugBank
+Losartan, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Tamoxifen, 2C8,inhibitor,Not Specified,DrugBank
+Nilutamide, 2C8,inhibitor,Not Specified,DrugBank
+Verapamil, 2C8,substrate,Not Specified,DrugBank
+Dextropropoxyphene, 2C8,inhibitor,Not Specified,DrugBank
+Simvastatin, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Testosterone, 2C8,substrate,Not Specified,DrugBank
+Nicardipine, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Paramethadione, 2C8,substrate,Not Specified,DrugBank
+Amodiaquine, 2C8,substrate,Not Specified,DrugBank
+Chloroquine, 2C8,substrate,Not Specified,DrugBank
+Cisapride, 2C8,substrate,Not Specified,DrugBank
+Medroxyprogesterone Acetate, 2C8,inhibitor,Not Specified,DrugBank
+Diclofenac, 2C8,substrate,Not Specified,DrugBank
+Carbamazepine, 2C8,"substrate, inducer",Not Specified,DrugBank
+Piroxicam, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Zafirlukast, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Fluorouracil, 2C8,substrate,Not Specified,DrugBank
+Rofecoxib, 2C8,substrate,Not Specified,DrugBank
+Mephenytoin, 2C8,substrate,Not Specified,DrugBank
+Cyclophosphamide, 2C8,"substrate, inducer",Not Specified,DrugBank
+Erlotinib, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Dextromethorphan, 2C8,substrate,Not Specified,DrugBank
+Ritonavir, 2C8,"inhibitor, inducer",Not Specified,DrugBank
+Cimetidine, 2C8,inhibitor,Not Specified,DrugBank
+Zidovudine, 2C8,substrate,Not Specified,DrugBank
+Raloxifene, 2C8,inhibitor,Not Specified,DrugBank
+Montelukast, 2C8,inhibitor,Not Specified,DrugBank
+Quinine, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Loratadine, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Levothyroxine, 2C8,inhibitor,Not Specified,DrugBank
+Lansoprazole, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Chloramphenicol, 2C8,inhibitor,Not Specified,DrugBank
+Trimethoprim, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Cerivastatin, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Spironolactone, 2C8,inhibitor,Not Specified,DrugBank
+Secobarbital, 2C8,inducer,Not Specified,DrugBank
+Rosiglitazone, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Eszopiclone, 2C8,substrate,Not Specified,DrugBank
+Sorafenib, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Progesterone, 2C8,substrate,Not Specified,DrugBank
+Amlodipine, 2C8,inhibitor,Not Specified,DrugBank
+Mirtazapine, 2C8,substrate,Not Specified,DrugBank
+Clozapine, 2C8,substrate,Not Specified,DrugBank
+Sulfadiazine, 2C8,substrate,Not Specified,DrugBank
+Trimethadione, 2C8,substrate,Not Specified,DrugBank
+Diltiazem, 2C8,substrate,Not Specified,DrugBank
+Terfenadine, 2C8,inhibitor,Not Specified,DrugBank
+Omeprazole, 2C8,substrate,Not Specified,DrugBank
+Methadone, 2C8,substrate,Not Specified,DrugBank
+Amitriptyline, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Acetaminophen, 2C8,substrate,Not Specified,DrugBank
+Valproic Acid, 2C8,inhibitor,Not Specified,DrugBank
+Morphine, 2C8,substrate,Not Specified,DrugBank
+Lidocaine, 2C8,substrate,Not Specified,DrugBank
+Theophylline, 2C8,substrate,Not Specified,DrugBank
+Clotrimazole, 2C8,inhibitor,Not Specified,DrugBank
+Diethylstilbestrol, 2C8,inhibitor,Not Specified,DrugBank
+Phenytoin, 2C8,"substrate, inducer",Not Specified,DrugBank
+Dapsone, 2C8,substrate,Not Specified,DrugBank
+Temazepam, 2C8,substrate,Not Specified,DrugBank
+Lovastatin, 2C8,inhibitor,Not Specified,DrugBank
+Torasemide, 2C8,substrate,Not Specified,DrugBank
+Ticlopidine, 2C8,inhibitor,Not Specified,DrugBank
+Pyrimethamine, 2C8,inhibitor,Not Specified,DrugBank
+Caffeine, 2C8,substrate,Not Specified,DrugBank
+Troglitazone, 2C8,"substrate, inhibitor",Not Specified,DrugBank
+Bortezomib, 2C8,inhibitor,Not Specified,DrugBank
+Nicotine, 2C8,substrate,Not Specified,DrugBank
+Pravastatin, 2C8,inhibitor,Not Specified,DrugBank
+Cholecalciferol, 2C8,inhibitor,Not Specified,DrugBank
+Cyclosporine, 2C8,inhibitor,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name,2.00E+01,Actions,Not Specified,DrugBank
+Aldesleukin,2.00E+01,inhibitor,Not Specified,DrugBank
+Enfuvirtide,2.00E+01,substrate,Not Specified,DrugBank
+S-Adenosylmethionine,2.00E+01,inhibitor,Not Specified,DrugBank
+Folic Acid,2.00E+01,substrate,Not Specified,DrugBank
+Menadione,2.00E+01,substrate,Not Specified,DrugBank
+Fluvoxamine,2.00E+01,substrate,Not Specified,DrugBank
+Nicotine,2.00E+01,"substrate, inhibitor",Not Specified,DrugBank
+Caffeine,2.00E+01,substrate,Not Specified,DrugBank
+Sildenafil,2.00E+01,"substrate, inhibitor",Not Specified,DrugBank
+Ticlopidine,2.00E+01,inhibitor,Not Specified,DrugBank
+Citalopram,2.00E+01,substrate,Not Specified,DrugBank
+Enflurane,2.00E+01,substrate,Not Specified,DrugBank
+Dapsone,2.00E+01,substrate,Not Specified,DrugBank
+Diethylstilbestrol,2.00E+01,inhibitor,Not Specified,DrugBank
+Clotrimazole,2.00E+01,inhibitor,Not Specified,DrugBank
+Sulfanilamide,2.00E+01,inhibitor,Not Specified,DrugBank
+Theophylline,2.00E+01,substrate,Not Specified,DrugBank
+Acetaminophen,2.00E+01,substrate,Not Specified,DrugBank
+Amitriptyline,2.00E+01,"substrate, inhibitor",Not Specified,DrugBank
+Trimethadione,2.00E+01,substrate,Not Specified,DrugBank
+Chlorzoxazone,2.00E+01,"substrate, inhibitor",Not Specified,DrugBank
+Sulfadiazine,2.00E+01,substrate,Not Specified,DrugBank
+Clozapine,2.00E+01,inhibitor,Not Specified,DrugBank
+Meprobamate,2.00E+01,substrate,Not Specified,DrugBank
+Mexiletine,2.00E+01,substrate,Not Specified,DrugBank
+Streptozocin,2.00E+01,inducer,Not Specified,DrugBank
+Imipramine,2.00E+01,inhibitor,Not Specified,DrugBank
+Quinine,2.00E+01,substrate,Not Specified,DrugBank
+Chlorpromazine,2.00E+01,inhibitor,Not Specified,DrugBank
+Cimetidine,2.00E+01,inhibitor,Not Specified,DrugBank
+Ritonavir,2.00E+01,inhibitor,Not Specified,DrugBank
+Dextromethorphan,2.00E+01,substrate,Not Specified,DrugBank
+Oxaliplatin,2.00E+01,substrate,Not Specified,DrugBank
+Nortriptyline,2.00E+01,inhibitor,Not Specified,DrugBank
+Zafirlukast,2.00E+01,inhibitor,Not Specified,DrugBank
+Diclofenac,2.00E+01,inhibitor,Not Specified,DrugBank
+Ethosuximide,2.00E+01,substrate,Not Specified,DrugBank
+Thiopental,2.00E+01,inhibitor,Not Specified,DrugBank
+Paramethadione,2.00E+01,substrate,Not Specified,DrugBank
+Nicardipine,2.00E+01,substrate,Not Specified,DrugBank
+Fluphenazine,2.00E+01,inhibitor,Not Specified,DrugBank
+Dexmedetomidine,2.00E+01,substrate,Not Specified,DrugBank
+Clofibrate,2.00E+01,inducer,Not Specified,DrugBank
+Estrone,2.00E+01,substrate,Not Specified,DrugBank
+Tamoxifen,2.00E+01,substrate,Not Specified,DrugBank
+Thioridazine,2.00E+01,inhibitor,Not Specified,DrugBank
+Midazolam,2.00E+01,inhibitor,Not Specified,DrugBank
+Flurazepam,2.00E+01,inhibitor,Not Specified,DrugBank
+Methazolamide,2.00E+01,inhibitor,Not Specified,DrugBank
+Carbinoxamine,2.00E+01,substrate,Not Specified,DrugBank
+Tranylcypromine,2.00E+01,inhibitor,Not Specified,DrugBank
+Isoflurane,2.00E+01,substrate,Not Specified,DrugBank
+Methimazole,2.00E+01,inhibitor,Not Specified,DrugBank
+Etoposide,2.00E+01,substrate,Not Specified,DrugBank
+Phenelzine,2.00E+01,inducer,Not Specified,DrugBank
+Propofol,2.00E+01,"substrate, inhibitor",Not Specified,DrugBank
+Disulfiram,2.00E+01,inhibitor,Not Specified,DrugBank
+Diazepam,2.00E+01,inhibitor,Not Specified,DrugBank
+Brompheniramine,2.00E+01,substrate,Not Specified,DrugBank
+Dacarbazine,2.00E+01,substrate,Not Specified,DrugBank
+Clomifene,2.00E+01,inhibitor,Not Specified,DrugBank
+Isosorbide Dinitrate,2.00E+01,inhibitor,Not Specified,DrugBank
+Ethanol,2.00E+01,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Ondansetron,2.00E+01,substrate,Not Specified,DrugBank
+Quinidine,2.00E+01,substrate,Not Specified,DrugBank
+Almotriptan,2.00E+01,substrate,Not Specified,DrugBank
+Felbamate,2.00E+01,substrate,Not Specified,DrugBank
+Isoniazid,2.00E+01,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Alosetron,2.00E+01,inhibitor,Not Specified,DrugBank
+Azelastine,2.00E+01,inhibitor,Not Specified,DrugBank
+Tioconazole,2.00E+01,inhibitor,Not Specified,DrugBank
+Metyrapone,2.00E+01,inhibitor,Not Specified,DrugBank
+Methoxyflurane,2.00E+01,substrate,Not Specified,DrugBank
+Selegiline,2.00E+01,inhibitor,Not Specified,DrugBank
+Thalidomide,2.00E+01,substrate,Not Specified,DrugBank
+Rifampicin,2.00E+01,inducer,Not Specified,DrugBank
+Clonazepam,2.00E+01,inhibitor,Not Specified,DrugBank
+Tegaserod,2.00E+01,inhibitor,Not Specified,DrugBank
+Pilocarpine,2.00E+01,substrate,Not Specified,DrugBank
+Pimozide,2.00E+01,inhibitor,Not Specified,DrugBank
+Miconazole,2.00E+01,inhibitor,Not Specified,DrugBank
+Nifedipine,2.00E+01,inhibitor,Not Specified,DrugBank
+Econazole,2.00E+01,inhibitor,Not Specified,DrugBank
+Proguanil,2.00E+01,substrate,Not Specified,DrugBank
+Carvedilol,2.00E+01,substrate,Not Specified,DrugBank
+Desipramine,2.00E+01,inhibitor,Not Specified,DrugBank
+Bupropion,2.00E+01,substrate,Not Specified,DrugBank
+Halothane,2.00E+01,substrate,Not Specified,DrugBank
+Itraconazole,2.00E+01,inhibitor,Not Specified,DrugBank
+Orphenadrine,2.00E+01,,Not Specified,DrugBank
+Phenobarbital,2.00E+01,"substrate, inducer",Not Specified,DrugBank
+Dexfenfluramine,2.00E+01,inhibitor,Not Specified,DrugBank
+Zopiclone,2.00E+01,substrate,Not Specified,DrugBank
+Mitoxantrone,2.00E+01,substrate,Not Specified,DrugBank
+Fomepizole,2.00E+01,inhibitor,Not Specified,DrugBank
+Aminophylline,2.00E+01,substrate,Not Specified,DrugBank
+Dexamethasone,2.00E+01,inducer,Not Specified,DrugBank
+Sevoflurane,2.00E+01,substrate,Not Specified,DrugBank
+Glucosamine,2.00E+01,substrate,Not Specified,DrugBank
+Hexobarbital,2.00E+01,,Not Specified,DrugBank
+Colchicine,2.00E+01,inducer,Not Specified,DrugBank
+Methotrimeprazine,2.00E+01,inhibitor,Not Specified,DrugBank
+Theobromine,2.00E+01,substrate,Not Specified,DrugBank
+Antipyrine,2.00E+01,substrate,Not Specified,DrugBank
+Flunitrazepam,2.00E+01,inhibitor,Not Specified,DrugBank
+Bromazepam,2.00E+01,inhibitor,Not Specified,DrugBank
+Ursodeoxycholic acid,2.00E+01,"inhibitor, inducer",Not Specified,DrugBank
+Nitrazepam,2.00E+01,inhibitor,Not Specified,DrugBank
+Etoricoxib,2.00E+01,inhibitor,Not Specified,DrugBank
+Nicotinamide,2.00E+01,inhibitor,Not Specified,DrugBank
+Phenacetin,2.00E+01,substrate,Not Specified,DrugBank
+Glycerol,2.00E+01,inducer,Not Specified,DrugBank
+Bifonazole,2.00E+01,inhibitor,Not Specified,DrugBank
+Tirapazamine,2.00E+01,substrate,Not Specified,DrugBank
+Clevidipine,2.00E+01,substrate,Not Specified,DrugBank
+Iloperidone,2.00E+01,substrate,Not Specified,DrugBank
+Aplidine,2.00E+01,,Not Specified,DrugBank
+Trabectedin,2.00E+01,substrate,Not Specified,DrugBank
+GTS-21,2.00E+01,,Not Specified,DrugBank
+Rufinamide,2.00E+01,inhibitor,Not Specified,DrugBank
+Dalfampridine,2.00E+01,substrate,Not Specified,DrugBank
+Ethanolamine Oleate,2.00E+01,substrate,Not Specified,DrugBank
+Nilvadipine,2.00E+01,substrate,Not Specified,DrugBank
+Aniline,2.00E+01,substrate,Not Specified,DrugBank
+Benzyl alcohol,2.00E+01,substrate,Not Specified,DrugBank
+Ellagic Acid,2.00E+01,inhibitor,Not Specified,DrugBank
+Fingolimod,2.00E+01,substrate,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 3A5,Actions,Not Specified,DrugBank
+Cyclosporine, 3A5,"substrate, inducer",Not Specified,DrugBank
+Pravastatin, 3A5,substrate,Not Specified,DrugBank
+Fluvoxamine, 3A5,inhibitor,Not Specified,DrugBank
+Fluconazole, 3A5,inhibitor,Not Specified,DrugBank
+Troglitazone, 3A5,"inhibitor, inducer",Not Specified,DrugBank
+Erythromycin, 3A5,inhibitor,Not Specified,DrugBank
+Caffeine, 3A5,substrate,Not Specified,DrugBank
+Sildenafil, 3A5,substrate,Not Specified,DrugBank
+Reserpine, 3A5,inducer,Not Specified,DrugBank
+Nelfinavir, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Indinavir, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Lovastatin, 3A5,substrate,Not Specified,DrugBank
+Nevirapine, 3A5,substrate,Not Specified,DrugBank
+Ziprasidone, 3A5,substrate,Not Specified,DrugBank
+Dapsone, 3A5,substrate,Not Specified,DrugBank
+Phenytoin, 3A5,inducer,Not Specified,DrugBank
+Argatroban, 3A5,substrate,Not Specified,DrugBank
+Lidocaine, 3A5,substrate,Not Specified,DrugBank
+Valproic Acid, 3A5,substrate,Not Specified,DrugBank
+Gefitinib, 3A5,,Not Specified,DrugBank
+Codeine, 3A5,substrate,Not Specified,DrugBank
+Amitriptyline, 3A5,substrate,Not Specified,DrugBank
+Methadone, 3A5,substrate,Not Specified,DrugBank
+Terfenadine, 3A5,substrate,Not Specified,DrugBank
+Diltiazem, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Amlodipine, 3A5,substrate,Not Specified,DrugBank
+Nimodipine, 3A5,substrate,Not Specified,DrugBank
+Beclomethasone, 3A5,inducer,Not Specified,DrugBank
+Progesterone, 3A5,substrate,Not Specified,DrugBank
+Sorafenib, 3A5,substrate,Not Specified,DrugBank
+Nisoldipine, 3A5,substrate,Not Specified,DrugBank
+Alprazolam, 3A5,substrate,Not Specified,DrugBank
+Zolpidem, 3A5,substrate,Not Specified,DrugBank
+Cerivastatin, 3A5,substrate,Not Specified,DrugBank
+Teniposide, 3A5,substrate,Not Specified,DrugBank
+Chloramphenicol, 3A5,inhibitor,Not Specified,DrugBank
+Quinine, 3A5,substrate,Not Specified,DrugBank
+Fluoxetine, 3A5,substrate,Not Specified,DrugBank
+Buspirone, 3A5,substrate,Not Specified,DrugBank
+Oxycodone, 3A5,substrate,Not Specified,DrugBank
+Flutamide, 3A5,substrate,Not Specified,DrugBank
+Cimetidine, 3A5,inhibitor,Not Specified,DrugBank
+Haloperidol, 3A5,substrate,Not Specified,DrugBank
+Ritonavir, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Dextromethorphan, 3A5,substrate,Not Specified,DrugBank
+Lercanidipine, 3A5,substrate,Not Specified,DrugBank
+Erlotinib, 3A5,substrate,Not Specified,DrugBank
+Cyclophosphamide, 3A5,substrate,Not Specified,DrugBank
+Ciprofloxacin, 3A5,inhibitor,Not Specified,DrugBank
+Nortriptyline, 3A5,substrate,Not Specified,DrugBank
+Vincristine, 3A5,substrate,Not Specified,DrugBank
+Carbamazepine, 3A5,inducer,Not Specified,DrugBank
+Propranolol, 3A5,substrate,Not Specified,DrugBank
+Clonidine, 3A5,substrate,Not Specified,DrugBank
+Voriconazole, 3A5,inhibitor,Not Specified,DrugBank
+Fluticasone Propionate, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Ethosuximide, 3A5,substrate,Not Specified,DrugBank
+Cisapride, 3A5,substrate,Not Specified,DrugBank
+Chloroquine, 3A5,substrate,Not Specified,DrugBank
+Imatinib, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Nicardipine, 3A5,inhibitor,Not Specified,DrugBank
+Testosterone, 3A5,substrate,Not Specified,DrugBank
+Astemizole, 3A5,substrate,Not Specified,DrugBank
+Simvastatin, 3A5,substrate,Not Specified,DrugBank
+Estrone, 3A5,substrate,Not Specified,DrugBank
+Trazodone, 3A5,substrate,Not Specified,DrugBank
+Verapamil, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Aprepitant, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Tamoxifen, 3A5,substrate,Not Specified,DrugBank
+Losartan, 3A5,substrate,Not Specified,DrugBank
+Midazolam, 3A5,substrate,Not Specified,DrugBank
+Mycophenolate mofetil, 3A5,substrate,Not Specified,DrugBank
+Daunorubicin, 3A5,inducer,Not Specified,DrugBank
+Eplerenone, 3A5,substrate,Not Specified,DrugBank
+Amprenavir, 3A5,substrate,Not Specified,DrugBank
+Delavirdine, 3A5,inhibitor,Not Specified,DrugBank
+Norethindrone, 3A5,substrate,Not Specified,DrugBank
+Nateglinide, 3A5,substrate,Not Specified,DrugBank
+Risperidone, 3A5,substrate,Not Specified,DrugBank
+Pentamidine, 3A5,substrate,Not Specified,DrugBank
+Hydrocortisone, 3A5,substrate,Not Specified,DrugBank
+Modafinil, 3A5,"inhibitor, inducer",Not Specified,DrugBank
+Tretinoin, 3A5,substrate,Not Specified,DrugBank
+Clopidogrel, 3A5,substrate,Not Specified,DrugBank
+Irinotecan, 3A5,substrate,Not Specified,DrugBank
+Etoposide, 3A5,"substrate, inducer",Not Specified,DrugBank
+Oxcarbazepine, 3A5,inducer,Not Specified,DrugBank
+Phenelzine, 3A5,inhibitor,Not Specified,DrugBank
+Estradiol, 3A5,substrate,Not Specified,DrugBank
+Sulfasalazine, 3A5,substrate,Not Specified,DrugBank
+Alfentanil, 3A5,substrate,Not Specified,DrugBank
+Fentanyl, 3A5,substrate,Not Specified,DrugBank
+Disulfiram, 3A5,substrate,Not Specified,DrugBank
+Diazepam, 3A5,substrate,Not Specified,DrugBank
+Mifepristone, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Oxazepam, 3A5,substrate,Not Specified,DrugBank
+Vardenafil, 3A5,substrate,Not Specified,DrugBank
+Ranitidine, 3A5,inhibitor,Not Specified,DrugBank
+Tacrolimus, 3A5,substrate,Not Specified,DrugBank
+Sirolimus, 3A5,substrate,Not Specified,DrugBank
+Granisetron, 3A5,substrate,Not Specified,DrugBank
+Triazolam, 3A5,substrate,Not Specified,DrugBank
+Ondansetron, 3A5,substrate,Not Specified,DrugBank
+Cocaine, 3A5,substrate,Not Specified,DrugBank
+Buprenorphine, 3A5,substrate,Not Specified,DrugBank
+Salmeterol, 3A5,substrate,Not Specified,DrugBank
+Zalcitabine, 3A5,substrate,Not Specified,DrugBank
+Zaleplon, 3A5,substrate,Not Specified,DrugBank
+Azelastine, 3A5,substrate,Not Specified,DrugBank
+Telithromycin, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Felodipine, 3A5,substrate,Not Specified,DrugBank
+Ketoconazole, 3A5,inhibitor,Not Specified,DrugBank
+Thalidomide, 3A5,inducer,Not Specified,DrugBank
+Rifampicin, 3A5,inducer,Not Specified,DrugBank
+Nitrendipine, 3A5,substrate,Not Specified,DrugBank
+Praziquantel, 3A5,substrate,Not Specified,DrugBank
+Norfloxacin, 3A5,inhibitor,Not Specified,DrugBank
+Oxybutynin, 3A5,substrate,Not Specified,DrugBank
+Atorvastatin, 3A5,substrate,Not Specified,DrugBank
+Fluvastatin, 3A5,substrate,Not Specified,DrugBank
+Rosuvastatin, 3A5,inhibitor,Not Specified,DrugBank
+Pimozide, 3A5,substrate,Not Specified,DrugBank
+Quinacrine, 3A5,substrate,Not Specified,DrugBank
+Chlorphenamine, 3A5,substrate,Not Specified,DrugBank
+Nifedipine, 3A5,substrate,Not Specified,DrugBank
+Amiodarone, 3A5,inhibitor,Not Specified,DrugBank
+Dutasteride, 3A5,substrate,Not Specified,DrugBank
+Nefazodone, 3A5,inhibitor,Not Specified,DrugBank
+Cilostazol, 3A5,substrate,Not Specified,DrugBank
+Itraconazole, 3A5,inhibitor,Not Specified,DrugBank
+Phenobarbital, 3A5,inducer,Not Specified,DrugBank
+Ifosfamide, 3A5,substrate,Not Specified,DrugBank
+Domperidone, 3A5,substrate,Not Specified,DrugBank
+Rifapentine, 3A5,inducer,Not Specified,DrugBank
+Clarithromycin, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Finasteride, 3A5,substrate,Not Specified,DrugBank
+Halofantrine, 3A5,substrate,Not Specified,DrugBank
+Quetiapine, 3A5,substrate,Not Specified,DrugBank
+Levomethadyl Acetate, 3A5,substrate,Not Specified,DrugBank
+Paclitaxel, 3A5,substrate,Not Specified,DrugBank
+Saquinavir, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Dexamethasone, 3A5,"substrate, inducer",Not Specified,DrugBank
+Aripiprazole, 3A5,substrate,Not Specified,DrugBank
+Docetaxel, 3A5,substrate,Not Specified,DrugBank
+Dasatinib, 3A5,substrate,Not Specified,DrugBank
+Lapatinib, 3A5,substrate,Not Specified,DrugBank
+Paliperidone, 3A5,,Not Specified,DrugBank
+Sunitinib, 3A5,substrate,Not Specified,DrugBank
+Troleandomycin, 3A5,,Not Specified,DrugBank
+Mibefradil, 3A5,inhibitor,Not Specified,DrugBank
+Dexloxiglumide, 3A5,,Not Specified,DrugBank
+Iloperidone, 3A5,substrate,Not Specified,DrugBank
+Azimilide, 3A5,,Not Specified,DrugBank
+ado-trastuzumab emtansine, 3A5,substrate,Not Specified,DrugBank
+Rivaroxaban, 3A5,substrate,Not Specified,DrugBank
+Udenafil, 3A5,substrate,Not Specified,DrugBank
+Temsirolimus, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Saxagliptin, 3A5,substrate,Not Specified,DrugBank
+Armodafinil, 3A5,inducer,Not Specified,DrugBank
+Cethromycin, 3A5,substrate,Not Specified,DrugBank
+Apixaban, 3A5,substrate,Not Specified,DrugBank
+Axitinib, 3A5,substrate,Not Specified,DrugBank
+Artemether, 3A5,substrate,Not Specified,DrugBank
+Gestodene, 3A5,inhibitor,Not Specified,DrugBank
+Seproxetine, 3A5,inhibitor,Not Specified,DrugBank
+Cabazitaxel, 3A5,substrate,Not Specified,DrugBank
+Crizotinib, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Brentuximab vedotin, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Boceprevir, 3A5,"substrate, inhibitor",Not Specified,DrugBank
+Perampanel, 3A5,substrate,Not Specified,DrugBank
+Enzalutamide, 3A5,inhibitor,Not Specified,DrugBank
+Ponatinib, 3A5,substrate,Not Specified,DrugBank
+Ibrutinib, 3A5,substrate,Not Specified,DrugBank
+Daclatasvir, 3A5,substrate,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2A6,Actions,Not Specified,DrugBank
+Menadione, 2A6,inhibitor,Not Specified,DrugBank
+Amphetamine, 2A6,inhibitor,Not Specified,DrugBank
+Nicotine, 2A6,"substrate, inhibitor",Not Specified,DrugBank
+Azithromycin, 2A6,inhibitor,Not Specified,DrugBank
+Eletriptan, 2A6,inducer,Not Specified,DrugBank
+Nevirapine, 2A6,substrate,Not Specified,DrugBank
+Diethylstilbestrol, 2A6,inhibitor,Not Specified,DrugBank
+Clotrimazole, 2A6,inhibitor,Not Specified,DrugBank
+Lidocaine, 2A6,substrate,Not Specified,DrugBank
+Pentobarbital, 2A6,inducer,Not Specified,DrugBank
+Valproic Acid, 2A6,"substrate, inducer",Not Specified,DrugBank
+Acetaminophen, 2A6,substrate,Not Specified,DrugBank
+Chlorzoxazone, 2A6,substrate,Not Specified,DrugBank
+Clozapine, 2A6,substrate,Not Specified,DrugBank
+Amlodipine, 2A6,inhibitor,Not Specified,DrugBank
+Progesterone, 2A6,substrate,Not Specified,DrugBank
+Rosiglitazone, 2A6,inhibitor,Not Specified,DrugBank
+Dronabinol, 2A6,substrate,Not Specified,DrugBank
+Montelukast, 2A6,substrate,Not Specified,DrugBank
+Zidovudine, 2A6,substrate,Not Specified,DrugBank
+Cyclophosphamide, 2A6,substrate,Not Specified,DrugBank
+Fluorouracil, 2A6,substrate,Not Specified,DrugBank
+Methoxsalen, 2A6,"substrate, inhibitor",Not Specified,DrugBank
+Cinnarizine, 2A6,substrate,Not Specified,DrugBank
+Cisapride, 2A6,substrate,Not Specified,DrugBank
+Clofibrate, 2A6,inhibitor,Not Specified,DrugBank
+Tamoxifen, 2A6,substrate,Not Specified,DrugBank
+Flurazepam, 2A6,substrate,Not Specified,DrugBank
+Tranylcypromine, 2A6,inhibitor,Not Specified,DrugBank
+Tretinoin, 2A6,substrate,Not Specified,DrugBank
+Methimazole, 2A6,inhibitor,Not Specified,DrugBank
+Propofol, 2A6,substrate,Not Specified,DrugBank
+Prednisolone, 2A6,inhibitor,Not Specified,DrugBank
+Clomifene, 2A6,inhibitor,Not Specified,DrugBank
+Buprenorphine, 2A6,inhibitor,Not Specified,DrugBank
+Isoniazid, 2A6,inhibitor,Not Specified,DrugBank
+Azelastine, 2A6,inhibitor,Not Specified,DrugBank
+Formoterol, 2A6,substrate,Not Specified,DrugBank
+Letrozole, 2A6,"substrate, inhibitor",Not Specified,DrugBank
+Metyrapone, 2A6,inhibitor,Not Specified,DrugBank
+Ketoconazole, 2A6,inhibitor,Not Specified,DrugBank
+Methoxyflurane, 2A6,substrate,Not Specified,DrugBank
+Selegiline, 2A6,substrate,Not Specified,DrugBank
+Memantine, 2A6,inhibitor,Not Specified,DrugBank
+Rifampicin, 2A6,"substrate, inhibitorinducer",Not Specified,DrugBank
+Norfloxacin, 2A6,inhibitor,Not Specified,DrugBank
+Pilocarpine, 2A6,"substrate, inhibitor",Not Specified,DrugBank
+Miconazole, 2A6,inhibitor,Not Specified,DrugBank
+Nifedipine, 2A6,substrate,Not Specified,DrugBank
+Amiodarone, 2A6,inhibitor,Not Specified,DrugBank
+Desipramine, 2A6,inhibitor,Not Specified,DrugBank
+Bupropion, 2A6,substrate,Not Specified,DrugBank
+Halothane, 2A6,substrate,Not Specified,DrugBank
+Phenobarbital, 2A6,"inhibitor, inducer",Not Specified,DrugBank
+Ifosfamide, 2A6,substrate,Not Specified,DrugBank
+Dexfenfluramine, 2A6,inhibitor,Not Specified,DrugBank
+Fomepizole, 2A6,inhibitor,Not Specified,DrugBank
+Dexamethasone, 2A6,inducer,Not Specified,DrugBank
+Sevoflurane, 2A6,substrate,Not Specified,DrugBank
+Arformoterol, 2A6,substrate,Not Specified,DrugBank
+Amobarbital, 2A6,inducer,Not Specified,DrugBank
+Troleandomycin, 2A6,inhibitor,Not Specified,DrugBank
+Antipyrine, 2A6,substrate,Not Specified,DrugBank
+Flunitrazepam, 2A6,substrate,Not Specified,DrugBank
+Phenacetin, 2A6,substrate,Not Specified,DrugBank
+2H-1-BENZOPYRAN-2-ONE, 2A6,,Not Specified,DrugBank
+Flunarizine, 2A6,substrate,Not Specified,DrugBank
+Lorcaserin, 2A6,substrate,Not Specified,DrugBank
+Ezogabine, 2A6,inhibitor,Not Specified,DrugBank
+Aplidine, 2A6,,Not Specified,DrugBank
+Dapagliflozin, 2A6,substrate,Not Specified,DrugBank
+Nilvadipine, 2A6,inhibitor,Not Specified,DrugBank
+Sulfaphenazole, 2A6,inhibitor,Not Specified,DrugBank
+"N,N-DIMETHYL(5-(PYRIDIN-3-YL)FURAN-2-YL)METHANAMINE", 2A6,,Not Specified,DrugBank
+N-METHYL(5-(PYRIDIN-3-YL)FURAN-2-YL)METHANAMINE, 2A6,,Not Specified,DrugBank
+(5-(PYRIDIN-3-YL)FURAN-2-YL)METHANAMINE, 2A6,,Not Specified,DrugBank
+"4,4'-DIPYRIDYL DISULFIDE", 2A6,,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2D6,Actions,Not Specified,DrugBank
+Cyclosporine, 2D6,inhibitor,Not Specified,DrugBank
+Cholecalciferol, 2D6,inhibitor,Not Specified,DrugBank
+Pravastatin, 2D6,inhibitor,Not Specified,DrugBank
+Fluvoxamine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Amphetamine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Nicotine, 2D6,substrate,Not Specified,DrugBank
+Cevimeline, 2D6,substrate,Not Specified,DrugBank
+Bortezomib, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Phentermine, 2D6,inhibitor,Not Specified,DrugBank
+Tramadol, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Betaxolol, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Caffeine, 2D6,substrate,Not Specified,DrugBank
+Sildenafil, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Pyrimethamine, 2D6,inhibitor,Not Specified,DrugBank
+Ticlopidine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Trospium, 2D6,inhibitor,Not Specified,DrugBank
+Midodrine, 2D6,inhibitor,Not Specified,DrugBank
+Citalopram, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Eletriptan, 2D6,substrate,Not Specified,DrugBank
+Nelfinavir, 2D6,inhibitor,Not Specified,DrugBank
+Indinavir, 2D6,inhibitor,Not Specified,DrugBank
+Lovastatin, 2D6,inhibitor,Not Specified,DrugBank
+Reboxetine, 2D6,"inhibitor, inducer",Not Specified,DrugBank
+Nevirapine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Ranolazine, 2D6,inhibitor,Not Specified,DrugBank
+Benzatropine, 2D6,substrate,Not Specified,DrugBank
+Ziprasidone, 2D6,inhibitor,Not Specified,DrugBank
+Clotrimazole, 2D6,inhibitor,Not Specified,DrugBank
+Sulfanilamide, 2D6,inhibitor,Not Specified,DrugBank
+Metoprolol, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Ropinirole, 2D6,inhibitor,Not Specified,DrugBank
+Amsacrine, 2D6,substrate,Not Specified,DrugBank
+Theophylline, 2D6,substrate,Not Specified,DrugBank
+Lidocaine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Clemastine, 2D6,inhibitor,Not Specified,DrugBank
+Venlafaxine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Atomoxetine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Morphine, 2D6,substrate,Not Specified,DrugBank
+Ropivacaine, 2D6,substrate,Not Specified,DrugBank
+Bupivacaine, 2D6,substrate,Not Specified,DrugBank
+Acetaminophen, 2D6,substrate,Not Specified,DrugBank
+Gefitinib, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Codeine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Amitriptyline, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Hydromorphone, 2D6,substrate,Not Specified,DrugBank
+Ipratropium bromide, 2D6,substrate,Not Specified,DrugBank
+Methadone, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Olanzapine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Nitrofural, 2D6,substrate,Not Specified,DrugBank
+Omeprazole, 2D6,inhibitor,Not Specified,DrugBank
+Terfenadine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Diltiazem, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Protriptyline, 2D6,substrate,Not Specified,DrugBank
+Clobazam, 2D6,inhibitor,Not Specified,DrugBank
+Chlorzoxazone, 2D6,substrate,Not Specified,DrugBank
+Mefloquine, 2D6,inhibitor,Not Specified,DrugBank
+Vinorelbine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Clozapine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Mirtazapine, 2D6,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Timolol, 2D6,substrate,Not Specified,DrugBank
+Palonosetron, 2D6,substrate,Not Specified,DrugBank
+Mexiletine, 2D6,substrate,Not Specified,DrugBank
+Amlodipine, 2D6,inhibitor,Not Specified,DrugBank
+Progesterone, 2D6,substrate,Not Specified,DrugBank
+Sorafenib, 2D6,inhibitor,Not Specified,DrugBank
+Remoxipride, 2D6,substrate,Not Specified,DrugBank
+Rosiglitazone, 2D6,inhibitor,Not Specified,DrugBank
+Methylphenidate, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Zolpidem, 2D6,substrate,Not Specified,DrugBank
+Triprolidine, 2D6,inhibitor,Not Specified,DrugBank
+Prochlorperazine, 2D6,substrate,Not Specified,DrugBank
+Cerivastatin, 2D6,inhibitor,Not Specified,DrugBank
+Lansoprazole, 2D6,inhibitor,Not Specified,DrugBank
+Pethidine, 2D6,substrate,Not Specified,DrugBank
+Loratadine, 2D6,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Imipramine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Quinine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Fluoxetine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Chlordiazepoxide, 2D6,substrate,Not Specified,DrugBank
+Duloxetine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Chlorpromazine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Celecoxib, 2D6,inhibitor,Not Specified,DrugBank
+Buspirone, 2D6,substrate,Not Specified,DrugBank
+Darifenacin, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Oxycodone, 2D6,substrate,Not Specified,DrugBank
+Cimetidine, 2D6,inhibitor,Not Specified,DrugBank
+Haloperidol, 2D6,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Ritonavir, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Dextromethorphan, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Carteolol, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Lercanidipine, 2D6,inhibitor,Not Specified,DrugBank
+Erlotinib, 2D6,substrate,Not Specified,DrugBank
+Cyclophosphamide, 2D6,substrate,Not Specified,DrugBank
+Mephenytoin, 2D6,substrate,Not Specified,DrugBank
+Nortriptyline, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Amoxapine, 2D6,substrate,Not Specified,DrugBank
+Zafirlukast, 2D6,inhibitor,Not Specified,DrugBank
+Hydroxyzine, 2D6,inhibitor,Not Specified,DrugBank
+Cephalexin, 2D6,substrate,Not Specified,DrugBank
+Cinnarizine, 2D6,substrate,Not Specified,DrugBank
+Vinblastine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Propranolol, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Fenfluramine, 2D6,inhibitor,Not Specified,DrugBank
+Clonidine, 2D6,substrate,Not Specified,DrugBank
+Lisuride, 2D6,substrate,Not Specified,DrugBank
+Doxazosin, 2D6,substrate,Not Specified,DrugBank
+Piperazine, 2D6,substrate,Not Specified,DrugBank
+Labetalol, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Cisapride, 2D6,inhibitor,Not Specified,DrugBank
+Chloroquine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Bisoprolol, 2D6,substrate,Not Specified,DrugBank
+Amodiaquine, 2D6,inhibitor,Not Specified,DrugBank
+Imatinib, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Nicardipine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Fluphenazine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Efavirenz, 2D6,inhibitor,Not Specified,DrugBank
+Niacin, 2D6,inhibitor,Not Specified,DrugBank
+Dexmedetomidine, 2D6,inhibitor,Not Specified,DrugBank
+Astemizole, 2D6,substrate,Not Specified,DrugBank
+Simvastatin, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Dextropropoxyphene, 2D6,inhibitor,Not Specified,DrugBank
+Trazodone, 2D6,substrate,Not Specified,DrugBank
+Verapamil, 2D6,inhibitor,Not Specified,DrugBank
+Histamine Phosphate, 2D6,inhibitor,Not Specified,DrugBank
+Galantamine, 2D6,substrate,Not Specified,DrugBank
+Tamoxifen, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Thioridazine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Nicergoline, 2D6,substrate,Not Specified,DrugBank
+Amprenavir, 2D6,substrate,Not Specified,DrugBank
+Methazolamide, 2D6,inhibitor,Not Specified,DrugBank
+Delavirdine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Tamsulosin, 2D6,substrate,Not Specified,DrugBank
+Paroxetine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Trimipramine, 2D6,substrate,Not Specified,DrugBank
+Nateglinide, 2D6,substrate,Not Specified,DrugBank
+Risperidone, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Pentamidine, 2D6,substrate,Not Specified,DrugBank
+Carbinoxamine, 2D6,inhibitor,Not Specified,DrugBank
+Epinastine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Tranylcypromine, 2D6,inhibitor,Not Specified,DrugBank
+Dolasetron, 2D6,substrate,Not Specified,DrugBank
+Methimazole, 2D6,inhibitor,Not Specified,DrugBank
+Tripelennamine, 2D6,inhibitor,Not Specified,DrugBank
+Minaprine, 2D6,substrate,Not Specified,DrugBank
+Biperiden, 2D6,inhibitor,Not Specified,DrugBank
+Propofol, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Mifepristone, 2D6,inhibitor,Not Specified,DrugBank
+Brompheniramine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Loperamide, 2D6,substrate,Not Specified,DrugBank
+Donepezil, 2D6,substrate,Not Specified,DrugBank
+Perphenazine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Pseudoephedrine, 2D6,substrate,Not Specified,DrugBank
+Terbinafine, 2D6,inhibitor,Not Specified,DrugBank
+Ranitidine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Alprenolol, 2D6,substrate,Not Specified,DrugBank
+Granisetron, 2D6,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Ondansetron, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Cocaine, 2D6,inhibitor,Not Specified,DrugBank
+Quinidine, 2D6,inhibitor,Not Specified,DrugBank
+Phenformin, 2D6,substrate,Not Specified,DrugBank
+Almotriptan, 2D6,substrate,Not Specified,DrugBank
+Buprenorphine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Cyclobenzaprine, 2D6,substrate,Not Specified,DrugBank
+Tipranavir, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Mesoridazine, 2D6,substrate,Not Specified,DrugBank
+Maprotiline, 2D6,substrate,Not Specified,DrugBank
+Zalcitabine, 2D6,substrate,Not Specified,DrugBank
+Fexofenadine, 2D6,inhibitor,Not Specified,DrugBank
+Isoniazid, 2D6,inhibitor,Not Specified,DrugBank
+Hydrocodone, 2D6,substrate,Not Specified,DrugBank
+Pindolol, 2D6,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Desloratadine, 2D6,inhibitor,Not Specified,DrugBank
+Azelastine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Telithromycin, 2D6,inhibitor,Not Specified,DrugBank
+Formoterol, 2D6,substrate,Not Specified,DrugBank
+Dopamine, 2D6,substrate,Not Specified,DrugBank
+Rivastigmine, 2D6,inhibitor,Not Specified,DrugBank
+Doxorubicin, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Hydroxyurea, 2D6,inhibitor,Not Specified,DrugBank
+Cinacalcet, 2D6,inhibitor,Not Specified,DrugBank
+Felodipine, 2D6,inhibitor,Not Specified,DrugBank
+Ketoconazole, 2D6,inhibitor,Not Specified,DrugBank
+Methoxyflurane, 2D6,substrate,Not Specified,DrugBank
+Irbesartan, 2D6,inhibitor,Not Specified,DrugBank
+Procainamide, 2D6,substrate,Not Specified,DrugBank
+Tolterodine, 2D6,substrate,Not Specified,DrugBank
+Selegiline, 2D6,inhibitor,Not Specified,DrugBank
+Praziquantel, 2D6,inhibitor,Not Specified,DrugBank
+Oxybutynin, 2D6,inhibitor,Not Specified,DrugBank
+Promethazine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Mequitazine, 2D6,substrate,Not Specified,DrugBank
+Perhexiline, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Diphenhydramine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Atorvastatin, 2D6,inhibitor,Not Specified,DrugBank
+Tegaserod, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Primaquine, 2D6,inhibitor,Not Specified,DrugBank
+Dimethyl sulfoxide, 2D6,inhibitor,Not Specified,DrugBank
+Fluvastatin, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Oxamniquine, 2D6,inhibitor,Not Specified,DrugBank
+Pimozide, 2D6,inhibitor,Not Specified,DrugBank
+Sertraline, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Methyprylon, 2D6,substrate,Not Specified,DrugBank
+Miconazole, 2D6,inhibitor,Not Specified,DrugBank
+Chlorphenamine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Nifedipine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Amiodarone, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Bicalutamide, 2D6,inhibitor,Not Specified,DrugBank
+Rabeprazole, 2D6,inhibitor,Not Specified,DrugBank
+Proguanil, 2D6,inhibitor,Not Specified,DrugBank
+Pioglitazone, 2D6,inhibitor,Not Specified,DrugBank
+Carvedilol, 2D6,substrate,Not Specified,DrugBank
+Doxepin, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Nefazodone, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Desipramine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Bupropion, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Halothane, 2D6,substrate,Not Specified,DrugBank
+Cilostazol, 2D6,substrate,Not Specified,DrugBank
+Itraconazole, 2D6,inhibitor,Not Specified,DrugBank
+Moclobemide, 2D6,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Escitalopram, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Idarubicin, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Propafenone, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Domperidone, 2D6,substrate,Not Specified,DrugBank
+Pergolide, 2D6,inhibitor,Not Specified,DrugBank
+Dexfenfluramine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Oxymorphone, 2D6,substrate,Not Specified,DrugBank
+Acebutolol, 2D6,inhibitor,Not Specified,DrugBank
+Flecainide, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Captopril, 2D6,substrate,Not Specified,DrugBank
+Rifapentine, 2D6,inducer,Not Specified,DrugBank
+Lomustine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Halofantrine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Quetiapine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Encainide, 2D6,substrate,Not Specified,DrugBank
+Saquinavir, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Metoclopramide, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Dexamethasone, 2D6,inducer,Not Specified,DrugBank
+Levodopa, 2D6,substrate,Not Specified,DrugBank
+Aripiprazole, 2D6,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Clomipramine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Bepridil, 2D6,substrate,Not Specified,DrugBank
+Paliperidone, 2D6,,Not Specified,DrugBank
+Arformoterol, 2D6,substrate,Not Specified,DrugBank
+Mibefradil, 2D6,inhibitor,Not Specified,DrugBank
+Yohimbine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Methotrimeprazine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Tiotropium, 2D6,substrate,Not Specified,DrugBank
+Ciclesonide, 2D6,,Not Specified,DrugBank
+Aminophenazone, 2D6,substrate,Not Specified,DrugBank
+Ajmaline, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Aprindine, 2D6,substrate,Not Specified,DrugBank
+Antipyrine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Glutethimide, 2D6,inducer,Not Specified,DrugBank
+Ethylmorphine, 2D6,substrate,Not Specified,DrugBank
+4-Methoxyamphetamine, 2D6,substrate,Not Specified,DrugBank
+Dihydrocodeine, 2D6,substrate,Not Specified,DrugBank
+1-(2-Phenylethyl)-4-phenyl-4-acetoxypiperidine, 2D6,,Not Specified,DrugBank
+Dextroamphetamine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Methamphetamine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Oxprenolol, 2D6,inhibitor,Not Specified,DrugBank
+Lopinavir, 2D6,inhibitor,Not Specified,DrugBank
+Hydroxychloroquine, 2D6,inhibitor,Not Specified,DrugBank
+Pipotiazine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Thiothixene, 2D6,inhibitor,Not Specified,DrugBank
+Zuclopenthixol, 2D6,substrate,Not Specified,DrugBank
+Etoricoxib, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Rutin, 2D6,inhibitor,Not Specified,DrugBank
+Nicotinamide, 2D6,inhibitor,Not Specified,DrugBank
+Acetylcholine, 2D6,substrate,Not Specified,DrugBank
+Phenacetin, 2D6,substrate,Not Specified,DrugBank
+Debrisoquin, 2D6,substrate,Not Specified,DrugBank
+Flunarizine, 2D6,substrate,Not Specified,DrugBank
+Tetrabenazine, 2D6,substrate,Not Specified,DrugBank
+Dronedarone, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Nebivolol, 2D6,substrate,Not Specified,DrugBank
+Nilotinib, 2D6,inhibitor,Not Specified,DrugBank
+Lorcaserin, 2D6,substrate,Not Specified,DrugBank
+Bicifadine, 2D6,,Not Specified,DrugBank
+Tesmilifene, 2D6,substrate,Not Specified,DrugBank
+Clevidipine, 2D6,substrate,Not Specified,DrugBank
+Iloperidone, 2D6,substrate,Not Specified,DrugBank
+Trabectedin, 2D6,substrate,Not Specified,DrugBank
+Rotigotine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Abiraterone, 2D6,inhibitor,Not Specified,DrugBank
+Cariprazine, 2D6,substrate,Not Specified,DrugBank
+Sertindole, 2D6,substrate,Not Specified,DrugBank
+Mianserin, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Alogliptin, 2D6,substrate,Not Specified,DrugBank
+Tapentadol, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Asenapine, 2D6,inhibitor,Not Specified,DrugBank
+Temsirolimus, 2D6,inhibitor,Not Specified,DrugBank
+Dapagliflozin, 2D6,substrate,Not Specified,DrugBank
+Pazopanib, 2D6,substrate,Not Specified,DrugBank
+Esmirtazapine, 2D6,substrate,Not Specified,DrugBank
+Vilazodone, 2D6,substrate,Not Specified,DrugBank
+Mepyramine, 2D6,inhibitor,Not Specified,DrugBank
+Artemether, 2D6,substrate,Not Specified,DrugBank
+Dexmethylphenidate, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Fesoterodine, 2D6,substrate,Not Specified,DrugBank
+Lumefantrine, 2D6,inhibitor,Not Specified,DrugBank
+Bufuralol, 2D6,substrate,Not Specified,DrugBank
+Sparteine, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Sulfaphenazole, 2D6,inhibitor,Not Specified,DrugBank
+Benzyl alcohol, 2D6,substrate,Not Specified,DrugBank
+Methylnaltrexone, 2D6,inhibitor,Not Specified,DrugBank
+Fingolimod, 2D6,substrate,Not Specified,DrugBank
+Vemurafenib, 2D6,inhibitor,Not Specified,DrugBank
+Mirabegron, 2D6,"substrate, inhibitor",Not Specified,DrugBank
+Enzalutamide, 2D6,inhibitor,Not Specified,DrugBank
+Ponatinib, 2D6,substrate,Not Specified,DrugBank
+Levomilnacipran, 2D6,substrate,Not Specified,DrugBank
+Eliglustat, 2D6,substrate,Not Specified,DrugBank
+Netupitant, 2D6,substrate,Not Specified,DrugBank
+Naloxegol, 2D6,inhibitor,Not Specified,DrugBank
+Ibrutinib, 2D6,substrate,Not Specified,DrugBank
+Cobicistat, 2D6,inhibitor,Not Specified,DrugBank
+Umeclidinium, 2D6,substrate,Not Specified,DrugBank
+Brexpiprazole, 2D6,substrate,Not Specified,DrugBank
+Rolapitant, 2D6,inhibitor,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 4A11,Actions,Not Specified,DrugBank
+Pegvisomant, 4A11,inhibitor,Not Specified,DrugBank
+NADH, 4A11,,Not Specified,DrugBank
+Lansoprazole, 4A11,inducer,Not Specified,DrugBank
+Cisplatin, 4A11,inducer,Not Specified,DrugBank
+Clofibrate, 4A11,"substrate, inducer",Not Specified,DrugBank
+Estrone, 4A11,substrate,Not Specified,DrugBank
+Pentamidine, 4A11,substrate,Not Specified,DrugBank
+Tretinoin, 4A11,substrate,Not Specified,DrugBank
+Ethanol, 4A11,inducer,Not Specified,DrugBank
+Rifampicin, 4A11,inducer,Not Specified,DrugBank
+Phenobarbital, 4A11,inducer,Not Specified,DrugBank
+Dexamethasone, 4A11,inducer,Not Specified,DrugBank
+Aplidine, 4A11,,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name," 11B1, mitochondrial",Actions,Not Specified,DrugBank
+Fluconazole," 11B1, mitochondrial",inhibitor,Not Specified,DrugBank
+Phenytoin," 11B1, mitochondrial",inhibitor,Not Specified,DrugBank
+Clotrimazole," 11B1, mitochondrial",inhibitor,Not Specified,DrugBank
+Etomidate," 11B1, mitochondrial",inhibitor,Not Specified,DrugBank
+Spironolactone," 11B1, mitochondrial","inhibitor, inducer",Not Specified,DrugBank
+Cimetidine," 11B1, mitochondrial",inhibitor,Not Specified,DrugBank
+Mitotane," 11B1, mitochondrial",inducer,Not Specified,DrugBank
+Hydrocortisone," 11B1, mitochondrial",substrate,Not Specified,DrugBank
+Metyrapone," 11B1, mitochondrial",inhibitor,Not Specified,DrugBank
+Metyrapone," 11B1, mitochondrial",inhibitor,Not Specified,DrugBank
+Ketoconazole," 11B1, mitochondrial",inhibitor,Not Specified,DrugBank
+Miconazole," 11B1, mitochondrial",inhibitor,Not Specified,DrugBank
+Metoclopramide," 11B1, mitochondrial",inhibitor,Not Specified,DrugBank
+Mibefradil," 11B1, mitochondrial",inhibitor,Not Specified,DrugBank
+Aldosterone," 11B1, mitochondrial",substrate,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2C19,Actions,Not Specified,DrugBank
+Pegvisomant, 2C19,inhibitor,Not Specified,DrugBank
+Cyclosporine, 2C19,inhibitor,Not Specified,DrugBank
+Enfuvirtide, 2C19,substrate,Not Specified,DrugBank
+Cholecalciferol, 2C19,inhibitor,Not Specified,DrugBank
+Fluvoxamine, 2C19,inhibitor,Not Specified,DrugBank
+Nicotine, 2C19,substrate,Not Specified,DrugBank
+Bortezomib, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Fluconazole, 2C19,inhibitor,Not Specified,DrugBank
+Troglitazone, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Sildenafil, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Ticlopidine, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Pantoprazole, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Torasemide, 2C19,inhibitor,Not Specified,DrugBank
+Citalopram, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Eletriptan, 2C19,substrate,Not Specified,DrugBank
+Nelfinavir, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Indinavir, 2C19,inhibitor,Not Specified,DrugBank
+Lovastatin, 2C19,inhibitor,Not Specified,DrugBank
+Temazepam, 2C19,substrate,Not Specified,DrugBank
+Oxiconazole, 2C19,substrate,Not Specified,DrugBank
+Benzatropine, 2C19,substrate,Not Specified,DrugBank
+Dapsone, 2C19,substrate,Not Specified,DrugBank
+Phenytoin, 2C19,"substrate, inducer",Not Specified,DrugBank
+Clotrimazole, 2C19,inhibitor,Not Specified,DrugBank
+Sulfanilamide, 2C19,inhibitor,Not Specified,DrugBank
+Metoprolol, 2C19,substrate,Not Specified,DrugBank
+Topiramate, 2C19,inhibitor,Not Specified,DrugBank
+Venlafaxine, 2C19,substrate,Not Specified,DrugBank
+Atomoxetine, 2C19,substrate,Not Specified,DrugBank
+Bupivacaine, 2C19,substrate,Not Specified,DrugBank
+Pentobarbital, 2C19,substrate,Not Specified,DrugBank
+Valproic Acid, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Gefitinib, 2C19,inhibitor,Not Specified,DrugBank
+Amitriptyline, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Indomethacin, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Methadone, 2C19,substrate,Not Specified,DrugBank
+Olanzapine, 2C19,inhibitor,Not Specified,DrugBank
+Omeprazole, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Diltiazem, 2C19,substrate,Not Specified,DrugBank
+Trimethadione, 2C19,substrate,Not Specified,DrugBank
+Clobazam, 2C19,substrate,Not Specified,DrugBank
+Aminoglutethimide, 2C19,inducer,Not Specified,DrugBank
+Clozapine, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Meprobamate, 2C19,substrate,Not Specified,DrugBank
+Timolol, 2C19,substrate,Not Specified,DrugBank
+Carisoprodol, 2C19,substrate,Not Specified,DrugBank
+Progesterone, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Sorafenib, 2C19,inhibitor,Not Specified,DrugBank
+Rosiglitazone, 2C19,inhibitor,Not Specified,DrugBank
+Promazine, 2C19,substrate,Not Specified,DrugBank
+Zolpidem, 2C19,substrate,Not Specified,DrugBank
+Cerivastatin, 2C19,inhibitor,Not Specified,DrugBank
+Teniposide, 2C19,substrate,Not Specified,DrugBank
+Chloramphenicol, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Lansoprazole, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Pethidine, 2C19,substrate,Not Specified,DrugBank
+Loratadine, 2C19,"inhibitor, inducer",Not Specified,DrugBank
+Imipramine, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Quinine, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Dronabinol, 2C19,substrate,Not Specified,DrugBank
+Fluoxetine, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Zidovudine, 2C19,substrate,Not Specified,DrugBank
+Flutamide, 2C19,substrate,Not Specified,DrugBank
+Cimetidine, 2C19,inhibitor,Not Specified,DrugBank
+Haloperidol, 2C19,substrate,Not Specified,DrugBank
+Ritonavir, 2C19,"inhibitor, inducer",Not Specified,DrugBank
+Dextromethorphan, 2C19,substrate,Not Specified,DrugBank
+Cyclophosphamide, 2C19,substrate,Not Specified,DrugBank
+Mephenytoin, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Nortriptyline, 2C19,substrate,Not Specified,DrugBank
+Adinazolam, 2C19,substrate,Not Specified,DrugBank
+Zafirlukast, 2C19,inhibitor,Not Specified,DrugBank
+Carbamazepine, 2C19,"inhibitor, inducer",Not Specified,DrugBank
+Propranolol, 2C19,substrate,Not Specified,DrugBank
+Valdecoxib, 2C19,inhibitor,Not Specified,DrugBank
+Voriconazole, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Diclofenac, 2C19,substrate,Not Specified,DrugBank
+Doxazosin, 2C19,substrate,Not Specified,DrugBank
+Cisapride, 2C19,substrate,Not Specified,DrugBank
+Imatinib, 2C19,substrate,Not Specified,DrugBank
+Nicardipine, 2C19,inhibitor,Not Specified,DrugBank
+Testosterone, 2C19,substrate,Not Specified,DrugBank
+Efavirenz, 2C19,inhibitor,Not Specified,DrugBank
+Prednisone, 2C19,inducer,Not Specified,DrugBank
+Simvastatin, 2C19,inhibitor,Not Specified,DrugBank
+Verapamil, 2C19,substrate,Not Specified,DrugBank
+Nilutamide, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Chlorpropamide, 2C19,substrate,Not Specified,DrugBank
+Aprepitant, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Tamoxifen, 2C19,substrate,Not Specified,DrugBank
+Losartan, 2C19,inhibitor,Not Specified,DrugBank
+Thioridazine, 2C19,substrate,Not Specified,DrugBank
+Warfarin, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Amprenavir, 2C19,inhibitor,Not Specified,DrugBank
+Methazolamide, 2C19,inhibitor,Not Specified,DrugBank
+Delavirdine, 2C19,inhibitor,Not Specified,DrugBank
+Norethindrone, 2C19,inducer,Not Specified,DrugBank
+Trimipramine, 2C19,substrate,Not Specified,DrugBank
+Esomeprazole, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Pentamidine, 2C19,substrate,Not Specified,DrugBank
+Modafinil, 2C19,"inhibitor, inducer",Not Specified,DrugBank
+Carbinoxamine, 2C19,substrate,Not Specified,DrugBank
+Tranylcypromine, 2C19,inhibitor,Not Specified,DrugBank
+Ethotoin, 2C19,inhibitor,Not Specified,DrugBank
+Clopidogrel, 2C19,substrate,Not Specified,DrugBank
+Methimazole, 2C19,inhibitor,Not Specified,DrugBank
+Oxcarbazepine, 2C19,inhibitor,Not Specified,DrugBank
+Phenelzine, 2C19,inhibitor,Not Specified,DrugBank
+Estradiol, 2C19,substrate,Not Specified,DrugBank
+Primidone, 2C19,"substrate, inducer",Not Specified,DrugBank
+Propofol, 2C19,substrate,Not Specified,DrugBank
+Diazepam, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Phensuximide, 2C19,inhibitor,Not Specified,DrugBank
+Brompheniramine, 2C19,substrate,Not Specified,DrugBank
+Methylphenobarbital, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Perphenazine, 2C19,substrate,Not Specified,DrugBank
+Terbinafine, 2C19,substrate,Not Specified,DrugBank
+Ranitidine, 2C19,substrate,Not Specified,DrugBank
+Ethanol, 2C19,inhibitor,Not Specified,DrugBank
+Zonisamide, 2C19,inhibitor,Not Specified,DrugBank
+Almotriptan, 2C19,substrate,Not Specified,DrugBank
+Buprenorphine, 2C19,inhibitor,Not Specified,DrugBank
+Famotidine, 2C19,substrate,Not Specified,DrugBank
+Tipranavir, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Acetylsalicylic acid, 2C19,inducer,Not Specified,DrugBank
+Felbamate, 2C19,inhibitor,Not Specified,DrugBank
+Isoniazid, 2C19,inhibitor,Not Specified,DrugBank
+Isoniazid, 2C19,,Not Specified,DrugBank
+Telmisartan, 2C19,inhibitor,Not Specified,DrugBank
+Desloratadine, 2C19,inhibitor,Not Specified,DrugBank
+Azelastine, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Ramelteon, 2C19,substrate,Not Specified,DrugBank
+Formoterol, 2C19,substrate,Not Specified,DrugBank
+Dopamine, 2C19,substrate,Not Specified,DrugBank
+Tioconazole, 2C19,inhibitor,Not Specified,DrugBank
+Glyburide, 2C19,substrate,Not Specified,DrugBank
+Guanfacine, 2C19,substrate,Not Specified,DrugBank
+Ketoconazole, 2C19,inhibitor,Not Specified,DrugBank
+Probenecid, 2C19,inhibitor,Not Specified,DrugBank
+Tolterodine, 2C19,substrate,Not Specified,DrugBank
+Selegiline, 2C19,substrate,Not Specified,DrugBank
+Thalidomide, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Memantine, 2C19,inhibitor,Not Specified,DrugBank
+Rifampicin, 2C19,inducer,Not Specified,DrugBank
+Ibuprofen, 2C19,substrate,Not Specified,DrugBank
+Praziquantel, 2C19,substrate,Not Specified,DrugBank
+Amoxicillin, 2C19,substrate,Not Specified,DrugBank
+Melatonin, 2C19,substrate,Not Specified,DrugBank
+Diphenhydramine, 2C19,substrate,Not Specified,DrugBank
+Atorvastatin, 2C19,inhibitor,Not Specified,DrugBank
+Dimethyl sulfoxide, 2C19,inhibitor,Not Specified,DrugBank
+Fluvastatin, 2C19,inhibitor,Not Specified,DrugBank
+Rosuvastatin, 2C19,substrate,Not Specified,DrugBank
+Pimozide, 2C19,inhibitor,Not Specified,DrugBank
+Sertraline, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Miconazole, 2C19,inhibitor,Not Specified,DrugBank
+Amiodarone, 2C19,substrate,Not Specified,DrugBank
+Gliclazide, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Tolbutamide, 2C19,substrate,Not Specified,DrugBank
+Bicalutamide, 2C19,inhibitor,Not Specified,DrugBank
+Rabeprazole, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Proguanil, 2C19,substrate,Not Specified,DrugBank
+Pioglitazone, 2C19,inhibitor,Not Specified,DrugBank
+Doxepin, 2C19,substrate,Not Specified,DrugBank
+Desipramine, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Cilostazol, 2C19,substrate,Not Specified,DrugBank
+Moclobemide, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Phenobarbital, 2C19,"substrate, inducer",Not Specified,DrugBank
+Escitalopram, 2C19,substrate,Not Specified,DrugBank
+Podofilox, 2C19,substrate,Not Specified,DrugBank
+Ifosfamide, 2C19,substrate,Not Specified,DrugBank
+Dexfenfluramine, 2C19,inhibitor,Not Specified,DrugBank
+Clarithromycin, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Quetiapine, 2C19,substrate,Not Specified,DrugBank
+Saquinavir, 2C19,inhibitor,Not Specified,DrugBank
+Dexamethasone, 2C19,inducer,Not Specified,DrugBank
+Gemfibrozil, 2C19,inhibitor,Not Specified,DrugBank
+Clomipramine, 2C19,substrate,Not Specified,DrugBank
+Lapatinib, 2C19,substrate,Not Specified,DrugBank
+Arformoterol, 2C19,substrate,Not Specified,DrugBank
+Lumiracoxib, 2C19,substrate,Not Specified,DrugBank
+Glucosamine, 2C19,substrate,Not Specified,DrugBank
+Fosphenytoin, 2C19,"substrate, inducer",Not Specified,DrugBank
+Hexobarbital, 2C19,substrate,Not Specified,DrugBank
+Troleandomycin, 2C19,inhibitor,Not Specified,DrugBank
+Acenocoumarol, 2C19,substrate,Not Specified,DrugBank
+Aminophenazone, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Antipyrine, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Flunitrazepam, 2C19,substrate,Not Specified,DrugBank
+Bromazepam, 2C19,substrate,Not Specified,DrugBank
+Clotiazepam, 2C19,substrate,Not Specified,DrugBank
+Quazepam, 2C19,substrate,Not Specified,DrugBank
+Lopinavir, 2C19,"inhibitor, inducer",Not Specified,DrugBank
+Pipotiazine, 2C19,substrate,Not Specified,DrugBank
+Etoricoxib, 2C19,inhibitor,Not Specified,DrugBank
+Phenacetin, 2C19,substrate,Not Specified,DrugBank
+Bifonazole, 2C19,inhibitor,Not Specified,DrugBank
+Lorcaserin, 2C19,substrate,Not Specified,DrugBank
+Clevidipine, 2C19,inhibitor,Not Specified,DrugBank
+Ospemifene, 2C19,substrate,Not Specified,DrugBank
+Trabectedin, 2C19,substrate,Not Specified,DrugBank
+Methsuximide, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Tapentadol, 2C19,substrate,Not Specified,DrugBank
+Prasugrel, 2C19,substrate,Not Specified,DrugBank
+Sitaxentan, 2C19,inhibitor,Not Specified,DrugBank
+Armodafinil, 2C19,inhibitor,Not Specified,DrugBank
+Etravirine, 2C19,"substrate, inhibitor",Not Specified,DrugBank
+Apixaban, 2C19,substrate,Not Specified,DrugBank
+Axitinib, 2C19,substrate,Not Specified,DrugBank
+Artemether, 2C19,"substrate, inducer",Not Specified,DrugBank
+Nilvadipine, 2C19,inhibitor,Not Specified,DrugBank
+Ketobemidone, 2C19,substrate,Not Specified,DrugBank
+Vismodegib, 2C19,inhibitor,Not Specified,DrugBank
+Rilpivirine, 2C19,inhibitor,Not Specified,DrugBank
+Tofacitinib, 2C19,substrate,Not Specified,DrugBank
+Regorafenib, 2C19,inhibitor,Not Specified,DrugBank
+Enzalutamide, 2C19,inducer,Not Specified,DrugBank
+Levomilnacipran, 2C19,substrate,Not Specified,DrugBank
+MACITENTAN, 2C19,substrate,Not Specified,DrugBank
+Luliconazole, 2C19,inhibitor,Not Specified,DrugBank
+Naloxegol, 2C19,inhibitor,Not Specified,DrugBank
+Idelalisib, 2C19,inhibitor,Not Specified,DrugBank
+Lumacaftor, 2C19,inducer,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2C9,Actions,Not Specified,DrugBank
+Human Serum Albumin, 2C9,inhibitor,Not Specified,DrugBank
+Cyclosporine, 2C9,inhibitor,Not Specified,DrugBank
+Cholecalciferol, 2C9,inhibitor,Not Specified,DrugBank
+Pravastatin, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Fluvoxamine, 2C9,inhibitor,Not Specified,DrugBank
+Valsartan, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Nicotine, 2C9,substrate,Not Specified,DrugBank
+Bortezomib, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Phentermine, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+Fluconazole, 2C9,inhibitor,Not Specified,DrugBank
+Troglitazone, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Caffeine, 2C9,substrate,Not Specified,DrugBank
+Sildenafil, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Pyrimethamine, 2C9,inhibitor,Not Specified,DrugBank
+Ticlopidine, 2C9,inhibitor,Not Specified,DrugBank
+Pantoprazole, 2C9,inhibitor,Not Specified,DrugBank
+Torasemide, 2C9,substrate,Not Specified,DrugBank
+Eletriptan, 2C9,substrate,Not Specified,DrugBank
+Nelfinavir, 2C9,inhibitor,Not Specified,DrugBank
+Glimepiride, 2C9,substrate,Not Specified,DrugBank
+Indinavir, 2C9,inhibitor,Not Specified,DrugBank
+Lovastatin, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+Temazepam, 2C9,substrate,Not Specified,DrugBank
+Nevirapine, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Dapsone, 2C9,"substrate, inducer",Not Specified,DrugBank
+Phenytoin, 2C9,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Diethylstilbestrol, 2C9,inhibitor,Not Specified,DrugBank
+Clotrimazole, 2C9,inhibitor,Not Specified,DrugBank
+Sulfanilamide, 2C9,inhibitor,Not Specified,DrugBank
+Sulfisoxazole, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Dicoumarol, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Theophylline, 2C9,substrate,Not Specified,DrugBank
+Lidocaine, 2C9,substrate,Not Specified,DrugBank
+Venlafaxine, 2C9,substrate,Not Specified,DrugBank
+Bexarotene, 2C9,substrate,Not Specified,DrugBank
+Valproic Acid, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Acetaminophen, 2C9,substrate,Not Specified,DrugBank
+Gefitinib, 2C9,inhibitor,Not Specified,DrugBank
+Amitriptyline, 2C9,substrate,Not Specified,DrugBank
+Tolcapone, 2C9,inhibitor,Not Specified,DrugBank
+Hydromorphone, 2C9,substrate,Not Specified,DrugBank
+Indomethacin, 2C9,substrate,Not Specified,DrugBank
+Methadone, 2C9,substrate,Not Specified,DrugBank
+Olanzapine, 2C9,inhibitor,Not Specified,DrugBank
+Omeprazole, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Terfenadine, 2C9,substrate,Not Specified,DrugBank
+Diltiazem, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Trimethadione, 2C9,substrate,Not Specified,DrugBank
+Sulfadiazine, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Clozapine, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Mirtazapine, 2C9,substrate,Not Specified,DrugBank
+Treprostinil, 2C9,substrate,Not Specified,DrugBank
+Amlodipine, 2C9,inhibitor,Not Specified,DrugBank
+Progesterone, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Sorafenib, 2C9,inhibitor,Not Specified,DrugBank
+Eszopiclone, 2C9,substrate,Not Specified,DrugBank
+Alprazolam, 2C9,substrate,Not Specified,DrugBank
+Rosiglitazone, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Secobarbital, 2C9,inducer,Not Specified,DrugBank
+Promazine, 2C9,substrate,Not Specified,DrugBank
+Zolpidem, 2C9,substrate,Not Specified,DrugBank
+Cerivastatin, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+Trimethoprim, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Teniposide, 2C9,inhibitor,Not Specified,DrugBank
+Chloramphenicol, 2C9,inhibitor,Not Specified,DrugBank
+Lansoprazole, 2C9,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Loratadine, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Quinine, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Tenoxicam, 2C9,substrate,Not Specified,DrugBank
+Dronabinol, 2C9,substrate,Not Specified,DrugBank
+Montelukast, 2C9,substrate,Not Specified,DrugBank
+Fluoxetine, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Celecoxib, 2C9,substrate,Not Specified,DrugBank
+Zidovudine, 2C9,substrate,Not Specified,DrugBank
+Cimetidine, 2C9,inhibitor,Not Specified,DrugBank
+Haloperidol, 2C9,substrate,Not Specified,DrugBank
+Ritonavir, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+Dextromethorphan, 2C9,substrate,Not Specified,DrugBank
+Cisplatin, 2C9,inhibitor,Not Specified,DrugBank
+Cyclophosphamide, 2C9,"substrate, inducer",Not Specified,DrugBank
+Mephenytoin, 2C9,substrate,Not Specified,DrugBank
+Rofecoxib, 2C9,substrate,Not Specified,DrugBank
+Nortriptyline, 2C9,substrate,Not Specified,DrugBank
+Fluorouracil, 2C9,inhibitor,Not Specified,DrugBank
+Zafirlukast, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Piroxicam, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Bosentan, 2C9,"substrate, inducer",Not Specified,DrugBank
+Carbamazepine, 2C9,inducer,Not Specified,DrugBank
+Cinnarizine, 2C9,substrate,Not Specified,DrugBank
+Sulfamethizole, 2C9,inhibitor,Not Specified,DrugBank
+Valdecoxib, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Voriconazole, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Diclofenac, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Medroxyprogesterone Acetate, 2C9,inhibitor,Not Specified,DrugBank
+Cisapride, 2C9,substrate,Not Specified,DrugBank
+Amodiaquine, 2C9,inhibitor,Not Specified,DrugBank
+Paramethadione, 2C9,substrate,Not Specified,DrugBank
+Imatinib, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Nicardipine, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+Testosterone, 2C9,substrate,Not Specified,DrugBank
+Efavirenz, 2C9,inhibitor,Not Specified,DrugBank
+Simvastatin, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+Dextropropoxyphene, 2C9,inhibitor,Not Specified,DrugBank
+Estrone, 2C9,substrate,Not Specified,DrugBank
+Verapamil, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Nilutamide, 2C9,inhibitor,Not Specified,DrugBank
+Histamine Phosphate, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Epinephrine, 2C9,inhibitor,Not Specified,DrugBank
+Chlorpropamide, 2C9,substrate,Not Specified,DrugBank
+Aprepitant, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+Tamoxifen, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Losartan, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Thioridazine, 2C9,inhibitor,Not Specified,DrugBank
+Warfarin, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Amprenavir, 2C9,substrate,Not Specified,DrugBank
+Methazolamide, 2C9,inhibitor,Not Specified,DrugBank
+Delavirdine, 2C9,inhibitor,Not Specified,DrugBank
+Flurbiprofen, 2C9,substrate,Not Specified,DrugBank
+Paroxetine, 2C9,inhibitor,Not Specified,DrugBank
+Trimipramine, 2C9,substrate,Not Specified,DrugBank
+Nateglinide, 2C9,substrate,Not Specified,DrugBank
+Zileuton, 2C9,substrate,Not Specified,DrugBank
+Modafinil, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+Carbinoxamine, 2C9,substrate,Not Specified,DrugBank
+Etodolac, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Tranylcypromine, 2C9,inhibitor,Not Specified,DrugBank
+Tretinoin, 2C9,substrate,Not Specified,DrugBank
+Dolasetron, 2C9,substrate,Not Specified,DrugBank
+Clopidogrel, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Methimazole, 2C9,inhibitor,Not Specified,DrugBank
+Estradiol, 2C9,substrate,Not Specified,DrugBank
+Mefenamic acid, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Naproxen, 2C9,substrate,Not Specified,DrugBank
+Primidone, 2C9,inducer,Not Specified,DrugBank
+Candesartan, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Phenylbutazone, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Meloxicam, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Propofol, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Disulfiram, 2C9,inhibitor,Not Specified,DrugBank
+Diazepam, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Brompheniramine, 2C9,substrate,Not Specified,DrugBank
+Donepezil, 2C9,substrate,Not Specified,DrugBank
+Perphenazine, 2C9,substrate,Not Specified,DrugBank
+Terbinafine, 2C9,substrate,Not Specified,DrugBank
+Dorzolamide, 2C9,substrate,Not Specified,DrugBank
+Suprofen, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Eprosartan, 2C9,inhibitor,Not Specified,DrugBank
+Sulfapyridine, 2C9,inhibitor,Not Specified,DrugBank
+Triazolam, 2C9,inhibitor,Not Specified,DrugBank
+Ethanol, 2C9,inhibitor,Not Specified,DrugBank
+Ondansetron, 2C9,substrate,Not Specified,DrugBank
+Cocaine, 2C9,inhibitor,Not Specified,DrugBank
+Quinidine, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Metronidazole, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Buprenorphine, 2C9,substrate,Not Specified,DrugBank
+Salicylic acid, 2C9,substrate,Not Specified,DrugBank
+Zalcitabine, 2C9,substrate,Not Specified,DrugBank
+Acetylsalicylic acid, 2C9,substrate,Not Specified,DrugBank
+Phenprocoumon, 2C9,substrate,Not Specified,DrugBank
+Isoniazid, 2C9,inhibitor,Not Specified,DrugBank
+Desloratadine, 2C9,inhibitor,Not Specified,DrugBank
+Alosetron, 2C9,substrate,Not Specified,DrugBank
+Azelastine, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Formoterol, 2C9,substrate,Not Specified,DrugBank
+Dopamine, 2C9,substrate,Not Specified,DrugBank
+Oxaprozin, 2C9,substrate,Not Specified,DrugBank
+Tioconazole, 2C9,inhibitor,Not Specified,DrugBank
+Ketoprofen, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Sulfamethoxazole, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Glyburide, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Guanfacine, 2C9,substrate,Not Specified,DrugBank
+Felodipine, 2C9,inhibitor,Not Specified,DrugBank
+Ketoconazole, 2C9,inhibitor,Not Specified,DrugBank
+Methoxyflurane, 2C9,substrate,Not Specified,DrugBank
+Irbesartan, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Probenecid, 2C9,inhibitor,Not Specified,DrugBank
+Tolterodine, 2C9,substrate,Not Specified,DrugBank
+Selegiline, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Fenofibrate, 2C9,inhibitor,Not Specified,DrugBank
+Thalidomide, 2C9,substrate,Not Specified,DrugBank
+Rifampicin, 2C9,"substrate, inducer",Not Specified,DrugBank
+Ibuprofen, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Melatonin, 2C9,substrate,Not Specified,DrugBank
+Glipizide, 2C9,substrate,Not Specified,DrugBank
+Promethazine, 2C9,inhibitor,Not Specified,DrugBank
+Atazanavir, 2C9,substrate,Not Specified,DrugBank
+Diphenhydramine, 2C9,substrate,Not Specified,DrugBank
+Atorvastatin, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+Tegaserod, 2C9,inhibitor,Not Specified,DrugBank
+Fluvastatin, 2C9,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Leflunomide, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Rosuvastatin, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Capecitabine, 2C9,inhibitor,Not Specified,DrugBank
+Sertraline, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Miconazole, 2C9,inhibitor,Not Specified,DrugBank
+Nifedipine, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+Atovaquone, 2C9,inhibitor,Not Specified,DrugBank
+Amiodarone, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Gliclazide, 2C9,substrate,Not Specified,DrugBank
+Tolbutamide, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Bicalutamide, 2C9,inhibitor,Not Specified,DrugBank
+Rabeprazole, 2C9,inhibitor,Not Specified,DrugBank
+Proguanil, 2C9,substrate,Not Specified,DrugBank
+Pioglitazone, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Carvedilol, 2C9,substrate,Not Specified,DrugBank
+Sulfinpyrazone, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Doxepin, 2C9,substrate,Not Specified,DrugBank
+Diclofenamide, 2C9,inducer,Not Specified,DrugBank
+Thiamylal, 2C9,substrate,Not Specified,DrugBank
+Bupropion, 2C9,substrate,Not Specified,DrugBank
+Halothane, 2C9,substrate,Not Specified,DrugBank
+Moclobemide, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Phenobarbital, 2C9,"substrate, inducer",Not Specified,DrugBank
+Cyclizine, 2C9,inhibitor,Not Specified,DrugBank
+Idarubicin, 2C9,substrate,Not Specified,DrugBank
+Ifosfamide, 2C9,"substrate, inducer",Not Specified,DrugBank
+Propafenone, 2C9,inhibitor,Not Specified,DrugBank
+Dexfenfluramine, 2C9,inhibitor,Not Specified,DrugBank
+Flecainide, 2C9,inhibitor,Not Specified,DrugBank
+Zopiclone, 2C9,substrate,Not Specified,DrugBank
+Rifapentine, 2C9,inducer,Not Specified,DrugBank
+Anastrozole, 2C9,inhibitor,Not Specified,DrugBank
+Ketamine, 2C9,substrate,Not Specified,DrugBank
+Paclitaxel, 2C9,substrate,Not Specified,DrugBank
+Saquinavir, 2C9,inhibitor,Not Specified,DrugBank
+Dexamethasone, 2C9,inducer,Not Specified,DrugBank
+Epoprostenol, 2C9,substrate,Not Specified,DrugBank
+Gemfibrozil, 2C9,inhibitor,Not Specified,DrugBank
+Arformoterol, 2C9,substrate,Not Specified,DrugBank
+Lumiracoxib, 2C9,substrate,Not Specified,DrugBank
+Fosphenytoin, 2C9,"substrate, inducer",Not Specified,DrugBank
+Hexobarbital, 2C9,substrate,Not Specified,DrugBank
+Mestranol, 2C9,substrate,Not Specified,DrugBank
+Troleandomycin, 2C9,,Not Specified,DrugBank
+Ginkgo biloba, 2C9,inhibitor,Not Specified,DrugBank
+Colchicine, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+Pranlukast, 2C9,inhibitor,Not Specified,DrugBank
+Acenocoumarol, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Aminophenazone, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Antipyrine, 2C9,substrate,Not Specified,DrugBank
+Flunitrazepam, 2C9,substrate,Not Specified,DrugBank
+Quazepam, 2C9,substrate,Not Specified,DrugBank
+Lopinavir, 2C9,inhibitor,Not Specified,DrugBank
+Etoricoxib, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Rutin, 2C9,inhibitor,Not Specified,DrugBank
+4-Hydroxy-3-[(1s)-3-Oxo-1-Phenylbutyl]-2h-Chromen-2-One, 2C9,,Not Specified,DrugBank
+4-Hydroxy-3-[(1s)-3-Oxo-1-Phenylbutyl]-2h-Chromen-2-One, 2C9,,Not Specified,DrugBank
+Heme C, 2C9,,Not Specified,DrugBank
+Phenacetin, 2C9,substrate,Not Specified,DrugBank
+Arachidonic Acid, 2C9,substrate,Not Specified,DrugBank
+Estropipate, 2C9,inducer,Not Specified,DrugBank
+Licofelone, 2C9,substrate,Not Specified,DrugBank
+Ticrynafen, 2C9,,Not Specified,DrugBank
+Flunarizine, 2C9,substrate,Not Specified,DrugBank
+Dexloxiglumide, 2C9,,Not Specified,DrugBank
+Nilotinib, 2C9,inhibitor,Not Specified,DrugBank
+Ximelagatran, 2C9,substrate,Not Specified,DrugBank
+Clevidipine, 2C9,inhibitor,Not Specified,DrugBank
+Ospemifene, 2C9,substrate,Not Specified,DrugBank
+Trabectedin, 2C9,substrate,Not Specified,DrugBank
+Sulfadimethoxine, 2C9,inhibitor,Not Specified,DrugBank
+Tapentadol, 2C9,substrate,Not Specified,DrugBank
+Prasugrel, 2C9,substrate,Not Specified,DrugBank
+Sitaxentan, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Dapagliflozin, 2C9,substrate,Not Specified,DrugBank
+Armodafinil, 2C9,inhibitor,Not Specified,DrugBank
+Etravirine, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Agomelatine, 2C9,inhibitor,Not Specified,DrugBank
+Apixaban, 2C9,substrate,Not Specified,DrugBank
+Artemether, 2C9,substrate,Not Specified,DrugBank
+Nilvadipine, 2C9,inhibitor,Not Specified,DrugBank
+Lornoxicam, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Sulfaphenazole, 2C9,inhibitor,Not Specified,DrugBank
+Ketobemidone, 2C9,substrate,Not Specified,DrugBank
+Gavestinel, 2C9,substrate,Not Specified,DrugBank
+Niclosamide, 2C9,substrate,Not Specified,DrugBank
+Sulconazole, 2C9,inhibitor,Not Specified,DrugBank
+Parecoxib, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Sulfamoxole, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Vismodegib, 2C9,"substrate, inhibitor",Not Specified,DrugBank
+Pitavastatin, 2C9,substrate,Not Specified,DrugBank
+Cabozantinib, 2C9,substrate,Not Specified,DrugBank
+Regorafenib, 2C9,inhibitor,Not Specified,DrugBank
+Enzalutamide, 2C9,inducer,Not Specified,DrugBank
+Netupitant, 2C9,substrate,Not Specified,DrugBank
+Olodaterol, 2C9,substrate,Not Specified,DrugBank
+Lumacaftor, 2C9,"inhibitor, inducer",Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 26A1,Actions,Not Specified,DrugBank
+Vitamin A, 26A1,inducer,Not Specified,DrugBank
+Acitretin, 26A1,substrate,Not Specified,DrugBank
+Etretinate, 26A1,substrate,Not Specified,DrugBank
+Ketoconazole, 26A1,inhibitor,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 3A4,Actions,Not Specified,DrugBank
+Aldesleukin, 3A4,inhibitor,Not Specified,DrugBank
+Pegvisomant, 3A4,inducer,Not Specified,DrugBank
+Cyclosporine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Calcitriol, 3A4,"substrate, inducer",Not Specified,DrugBank
+Ergocalciferol, 3A4,substrate,Not Specified,DrugBank
+Cholecalciferol, 3A4,substrate,Not Specified,DrugBank
+Pravastatin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Fluvoxamine, 3A4,inhibitor,Not Specified,DrugBank
+Flunisolide, 3A4,substrate,Not Specified,DrugBank
+Nicotine, 3A4,substrate,Not Specified,DrugBank
+Cevimeline, 3A4,substrate,Not Specified,DrugBank
+Bortezomib, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Tramadol, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Fluconazole, 3A4,inhibitor,Not Specified,DrugBank
+Troglitazone, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Erythromycin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Erythromycin, 3A4,,Not Specified,DrugBank
+Caffeine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Sildenafil, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Dofetilide, 3A4,substrate,Not Specified,DrugBank
+Azithromycin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Azithromycin, 3A4,,Not Specified,DrugBank
+Ticlopidine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Pantoprazole, 3A4,"substrate, inducer",Not Specified,DrugBank
+Citalopram, 3A4,substrate,Not Specified,DrugBank
+Eletriptan, 3A4,"substrate, inducer",Not Specified,DrugBank
+Nelfinavir, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Indinavir, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Lovastatin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Temazepam, 3A4,substrate,Not Specified,DrugBank
+Reboxetine, 3A4,substrate,Not Specified,DrugBank
+Nevirapine, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Oxiconazole, 3A4,inducer,Not Specified,DrugBank
+Alclometasone, 3A4,"substrate, inducer",Not Specified,DrugBank
+Ranolazine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Ziprasidone, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Cabergoline, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Dapsone, 3A4,substrate,Not Specified,DrugBank
+Phenytoin, 3A4,"substrate, inducer",Not Specified,DrugBank
+Doxycycline, 3A4,inhibitor,Not Specified,DrugBank
+Diethylstilbestrol, 3A4,inhibitor,Not Specified,DrugBank
+Clotrimazole, 3A4,"inhibitor, inducer",Not Specified,DrugBank
+Sulfanilamide, 3A4,inhibitor,Not Specified,DrugBank
+Ropinirole, 3A4,substrate,Not Specified,DrugBank
+Isradipine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Topiramate, 3A4,inducer,Not Specified,DrugBank
+Theophylline, 3A4,substrate,Not Specified,DrugBank
+Argatroban, 3A4,substrate,Not Specified,DrugBank
+Disopyramide, 3A4,substrate,Not Specified,DrugBank
+Lidocaine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Clemastine, 3A4,inhibitor,Not Specified,DrugBank
+Venlafaxine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Conjugated Estrogens, 3A4,substrate,Not Specified,DrugBank
+Atomoxetine, 3A4,inhibitor,Not Specified,DrugBank
+Etonogestrel, 3A4,substrate,Not Specified,DrugBank
+Morphine, 3A4,substrate,Not Specified,DrugBank
+Ropivacaine, 3A4,substrate,Not Specified,DrugBank
+Bupivacaine, 3A4,substrate,Not Specified,DrugBank
+Flucloxacillin, 3A4,inducer,Not Specified,DrugBank
+Bexarotene, 3A4,"substrate, inducer",Not Specified,DrugBank
+Vindesine, 3A4,substrate,Not Specified,DrugBank
+Pentobarbital, 3A4,inducer,Not Specified,DrugBank
+Valproic Acid, 3A4,inhibitor,Not Specified,DrugBank
+Acetaminophen, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Gefitinib, 3A4,substrate,Not Specified,DrugBank
+Codeine, 3A4,substrate,Not Specified,DrugBank
+Dihydroergotamine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Amitriptyline, 3A4,substrate,Not Specified,DrugBank
+Fluorometholone, 3A4,"substrate, inducer",Not Specified,DrugBank
+Hydromorphone, 3A4,substrate,Not Specified,DrugBank
+Ipratropium bromide, 3A4,substrate,Not Specified,DrugBank
+Methadone, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Olanzapine, 3A4,inhibitor,Not Specified,DrugBank
+Pimecrolimus, 3A4,substrate,Not Specified,DrugBank
+Omeprazole, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Pyrazinamide, 3A4,substrate,Not Specified,DrugBank
+Terfenadine, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Diltiazem, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Alfuzosin, 3A4,substrate,Not Specified,DrugBank
+Trimethadione, 3A4,substrate,Not Specified,DrugBank
+Clobazam, 3A4,substrate,Not Specified,DrugBank
+Methylergometrine, 3A4,inhibitor,Not Specified,DrugBank
+Chlorzoxazone, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Aminoglutethimide, 3A4,inducer,Not Specified,DrugBank
+Mefloquine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Sulfadiazine, 3A4,substrate,Not Specified,DrugBank
+Vinorelbine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Clozapine, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Grepafloxacin, 3A4,substrate,Not Specified,DrugBank
+Levonorgestrel, 3A4,substrate,Not Specified,DrugBank
+Mirtazapine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Palonosetron, 3A4,substrate,Not Specified,DrugBank
+Mexiletine, 3A4,substrate,Not Specified,DrugBank
+Amlodipine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Digoxin, 3A4,substrate,Not Specified,DrugBank
+Nimodipine, 3A4,substrate,Not Specified,DrugBank
+Progesterone, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Sorafenib, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Griseofulvin, 3A4,inducer,Not Specified,DrugBank
+Nisoldipine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Eszopiclone, 3A4,substrate,Not Specified,DrugBank
+Alprazolam, 3A4,substrate,Not Specified,DrugBank
+Promazine, 3A4,substrate,Not Specified,DrugBank
+Zolpidem, 3A4,substrate,Not Specified,DrugBank
+Famciclovir, 3A4,substrate,Not Specified,DrugBank
+Prochlorperazine, 3A4,substrate,Not Specified,DrugBank
+Nitric Oxide, 3A4,inhibitor,Not Specified,DrugBank
+Cerivastatin, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Trimethoprim, 3A4,substrate,Not Specified,DrugBank
+Betamethasone, 3A4,inhibitor,Not Specified,DrugBank
+Teniposide, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Chloramphenicol, 3A4,inhibitor,Not Specified,DrugBank
+Lansoprazole, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Levothyroxine, 3A4,substrate,Not Specified,DrugBank
+Pethidine, 3A4,substrate,Not Specified,DrugBank
+Loratadine, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Imipramine, 3A4,substrate,Not Specified,DrugBank
+Quinine, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Dronabinol, 3A4,substrate,Not Specified,DrugBank
+Montelukast, 3A4,substrate,Not Specified,DrugBank
+Fluoxetine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Chlordiazepoxide, 3A4,substrate,Not Specified,DrugBank
+Chlorpromazine, 3A4,substrate,Not Specified,DrugBank
+Raloxifene, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Celecoxib, 3A4,substrate,Not Specified,DrugBank
+Dicloxacillin, 3A4,inducer,Not Specified,DrugBank
+Buspirone, 3A4,substrate,Not Specified,DrugBank
+Zidovudine, 3A4,substrate,Not Specified,DrugBank
+Darifenacin, 3A4,substrate,Not Specified,DrugBank
+Oxycodone, 3A4,substrate,Not Specified,DrugBank
+Flutamide, 3A4,substrate,Not Specified,DrugBank
+Cimetidine, 3A4,inhibitor,Not Specified,DrugBank
+Haloperidol, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Ritonavir, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Dextromethorphan, 3A4,substrate,Not Specified,DrugBank
+Albendazole, 3A4,substrate,Not Specified,DrugBank
+Caspofungin, 3A4,inhibitor,Not Specified,DrugBank
+Lercanidipine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Erlotinib, 3A4,substrate,Not Specified,DrugBank
+Cyclophosphamide, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Rofecoxib, 3A4,"substrate, inducer",Not Specified,DrugBank
+Ciprofloxacin, 3A4,inhibitor,Not Specified,DrugBank
+Toremifene, 3A4,substrate,Not Specified,DrugBank
+Nortriptyline, 3A4,substrate,Not Specified,DrugBank
+Vincristine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Pyridostigmine, 3A4,inducer,Not Specified,DrugBank
+Adinazolam, 3A4,substrate,Not Specified,DrugBank
+Zafirlukast, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Methoxsalen, 3A4,substrate,Not Specified,DrugBank
+Bosentan, 3A4,"substrate, inducer",Not Specified,DrugBank
+Carbamazepine, 3A4,"substrate, inducer",Not Specified,DrugBank
+Cephalexin, 3A4,substrate,Not Specified,DrugBank
+Vinblastine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Propranolol, 3A4,substrate,Not Specified,DrugBank
+Clonidine, 3A4,substrate,Not Specified,DrugBank
+Valdecoxib, 3A4,substrate,Not Specified,DrugBank
+Voriconazole, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Enalapril, 3A4,substrate,Not Specified,DrugBank
+Diclofenac, 3A4,substrate,Not Specified,DrugBank
+Fluticasone Propionate, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Lisuride, 3A4,substrate,Not Specified,DrugBank
+Ethosuximide, 3A4,substrate,Not Specified,DrugBank
+Thiopental, 3A4,inhibitor,Not Specified,DrugBank
+Ivermectin, 3A4,substrate,Not Specified,DrugBank
+Medroxyprogesterone Acetate, 3A4,"substrate, inducer",Not Specified,DrugBank
+Cisapride, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Nafcillin, 3A4,inducer,Not Specified,DrugBank
+Chloroquine, 3A4,substrate,Not Specified,DrugBank
+Bisoprolol, 3A4,substrate,Not Specified,DrugBank
+Rifabutin, 3A4,"substrate, inducer",Not Specified,DrugBank
+Paramethadione, 3A4,substrate,Not Specified,DrugBank
+Imatinib, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Triamcinolone, 3A4,substrate,Not Specified,DrugBank
+Nicardipine, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Testosterone, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Efavirenz, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Clorazepate, 3A4,substrate,Not Specified,DrugBank
+Prednisone, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Clofibrate, 3A4,"substrate, inducer",Not Specified,DrugBank
+Astemizole, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Simvastatin, 3A4,"substrate, inhibitorinducer",Not Specified,DrugBank
+Mebendazole, 3A4,substrate,Not Specified,DrugBank
+Dextropropoxyphene, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Estrone, 3A4,substrate,Not Specified,DrugBank
+Trazodone, 3A4,substrate,Not Specified,DrugBank
+Verapamil, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Histamine Phosphate, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Epinephrine, 3A4,inhibitor,Not Specified,DrugBank
+Aprepitant, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Galantamine, 3A4,substrate,Not Specified,DrugBank
+Tamoxifen, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Losartan, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Warfarin, 3A4,substrate,Not Specified,DrugBank
+Midazolam, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Mycophenolate mofetil, 3A4,substrate,Not Specified,DrugBank
+Flurazepam, 3A4,substrate,Not Specified,DrugBank
+Daunorubicin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Ergotamine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Eplerenone, 3A4,substrate,Not Specified,DrugBank
+Amprenavir, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Methazolamide, 3A4,inhibitor,Not Specified,DrugBank
+Delavirdine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Tamsulosin, 3A4,substrate,Not Specified,DrugBank
+Sufentanil, 3A4,substrate,Not Specified,DrugBank
+Norethindrone, 3A4,substrate,Not Specified,DrugBank
+Azatadine, 3A4,inducer,Not Specified,DrugBank
+Imiquimod, 3A4,substrate,Not Specified,DrugBank
+Trimipramine, 3A4,substrate,Not Specified,DrugBank
+Nateglinide, 3A4,substrate,Not Specified,DrugBank
+Risperidone, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Esomeprazole, 3A4,substrate,Not Specified,DrugBank
+Pentamidine, 3A4,substrate,Not Specified,DrugBank
+Hydrocortisone, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Zileuton, 3A4,substrate,Not Specified,DrugBank
+Modafinil, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Carbinoxamine, 3A4,substrate,Not Specified,DrugBank
+Epinastine, 3A4,substrate,Not Specified,DrugBank
+Tranylcypromine, 3A4,inhibitor,Not Specified,DrugBank
+Tretinoin, 3A4,substrate,Not Specified,DrugBank
+Dolasetron, 3A4,substrate,Not Specified,DrugBank
+Clopidogrel, 3A4,substrate,Not Specified,DrugBank
+Tetracycline, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Irinotecan, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Methimazole, 3A4,inhibitor,Not Specified,DrugBank
+Olopatadine, 3A4,substrate,Not Specified,DrugBank
+Hydrocortamate, 3A4,inducer,Not Specified,DrugBank
+Etoposide, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Oxcarbazepine, 3A4,inducer,Not Specified,DrugBank
+Roxithromycin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Phenelzine, 3A4,inhibitor,Not Specified,DrugBank
+Estradiol, 3A4,substrate,Not Specified,DrugBank
+Primidone, 3A4,inducer,Not Specified,DrugBank
+Alfentanil, 3A4,substrate,Not Specified,DrugBank
+Indapamide, 3A4,substrate,Not Specified,DrugBank
+Phenylbutazone, 3A4,inducer,Not Specified,DrugBank
+Fentanyl, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Meloxicam, 3A4,substrate,Not Specified,DrugBank
+Propofol, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Acetazolamide, 3A4,inhibitor,Not Specified,DrugBank
+Tadalafil, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Disulfiram, 3A4,substrate,Not Specified,DrugBank
+Diazepam, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Mifepristone, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Brompheniramine, 3A4,substrate,Not Specified,DrugBank
+Loperamide, 3A4,substrate,Not Specified,DrugBank
+Oxazepam, 3A4,substrate,Not Specified,DrugBank
+Donepezil, 3A4,substrate,Not Specified,DrugBank
+Clofazimine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Perphenazine, 3A4,substrate,Not Specified,DrugBank
+Temozolomide, 3A4,inducer,Not Specified,DrugBank
+Chlorphenesin, 3A4,inducer,Not Specified,DrugBank
+Terbinafine, 3A4,"substrate, inducer",Not Specified,DrugBank
+Prednisolone, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Vardenafil, 3A4,substrate,Not Specified,DrugBank
+Ranitidine, 3A4,inhibitor,Not Specified,DrugBank
+Tacrolimus, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Benzphetamine, 3A4,substrate,Not Specified,DrugBank
+Dorzolamide, 3A4,substrate,Not Specified,DrugBank
+Conivaptan, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Sirolimus, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Clomifene, 3A4,inhibitor,Not Specified,DrugBank
+Isosorbide Dinitrate, 3A4,substrate,Not Specified,DrugBank
+Granisetron, 3A4,substrate,Not Specified,DrugBank
+Triazolam, 3A4,substrate,Not Specified,DrugBank
+Ethanol, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Ondansetron, 3A4,substrate,Not Specified,DrugBank
+Tiagabine, 3A4,substrate,Not Specified,DrugBank
+Cocaine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Quinidine, 3A4,"substrate, inhibitor, inducer ",Not Specified,DrugBank
+Zonisamide, 3A4,substrate,Not Specified,DrugBank
+Paricalcitol, 3A4,substrate,Not Specified,DrugBank
+Tinidazole, 3A4,substrate,Not Specified,DrugBank
+Repaglinide, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Metronidazole, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Almotriptan, 3A4,substrate,Not Specified,DrugBank
+Buprenorphine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Cyclobenzaprine, 3A4,substrate,Not Specified,DrugBank
+Phenoxybenzamine, 3A4,substrate,Not Specified,DrugBank
+Tipranavir, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Salmeterol, 3A4,substrate,Not Specified,DrugBank
+Zalcitabine, 3A4,substrate,Not Specified,DrugBank
+Phenprocoumon, 3A4,substrate,Not Specified,DrugBank
+Fulvestrant, 3A4,substrate,Not Specified,DrugBank
+Felbamate, 3A4,"substrate, inducer",Not Specified,DrugBank
+Isoniazid, 3A4,inhibitor,Not Specified,DrugBank
+Isoniazid, 3A4,,Not Specified,DrugBank
+Hydrocodone, 3A4,substrate,Not Specified,DrugBank
+Methylprednisolone, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Zaleplon, 3A4,substrate,Not Specified,DrugBank
+Alosetron, 3A4,substrate,Not Specified,DrugBank
+Azelastine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Ezetimibe, 3A4,inhibitor,Not Specified,DrugBank
+Telithromycin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Ethinyl Estradiol, 3A4,substrate,Not Specified,DrugBank
+Ramelteon, 3A4,substrate,Not Specified,DrugBank
+Cytarabine, 3A4,substrate,Not Specified,DrugBank
+Rivastigmine, 3A4,inhibitor,Not Specified,DrugBank
+Exemestane, 3A4,substrate,Not Specified,DrugBank
+Doxorubicin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Salbutamol, 3A4,inhibitor,Not Specified,DrugBank
+Levobupivacaine, 3A4,substrate,Not Specified,DrugBank
+Letrozole, 3A4,substrate,Not Specified,DrugBank
+Tioconazole, 3A4,inhibitor,Not Specified,DrugBank
+Busulfan, 3A4,substrate,Not Specified,DrugBank
+Metyrapone, 3A4,"inhibitor, inducer",Not Specified,DrugBank
+Cinacalcet, 3A4,substrate,Not Specified,DrugBank
+Sulfamethoxazole, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Glyburide, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Guanfacine, 3A4,substrate,Not Specified,DrugBank
+Isosorbide Mononitrate, 3A4,substrate,Not Specified,DrugBank
+Felodipine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Ketoconazole, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Methoxyflurane, 3A4,substrate,Not Specified,DrugBank
+Irbesartan, 3A4,inhibitor,Not Specified,DrugBank
+Topotecan, 3A4,"inhibitor, inducer",Not Specified,DrugBank
+Probenecid, 3A4,inducer,Not Specified,DrugBank
+Tolterodine, 3A4,substrate,Not Specified,DrugBank
+Selegiline, 3A4,substrate,Not Specified,DrugBank
+Fenofibrate, 3A4,substrate,Not Specified,DrugBank
+Rifampicin, 3A4,"substrate, inducer",Not Specified,DrugBank
+Ergoloid mesylate, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Nitrendipine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Praziquantel, 3A4,substrate,Not Specified,DrugBank
+Norfloxacin, 3A4,inhibitor,Not Specified,DrugBank
+Oxybutynin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Glipizide, 3A4,substrate,Not Specified,DrugBank
+Clonazepam, 3A4,substrate,Not Specified,DrugBank
+Mequitazine, 3A4,inhibitor,Not Specified,DrugBank
+Atazanavir, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Perhexiline, 3A4,substrate,Not Specified,DrugBank
+Atorvastatin, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Orlistat, 3A4,inducer,Not Specified,DrugBank
+Pilocarpine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Primaquine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Dimethyl sulfoxide, 3A4,inhibitor,Not Specified,DrugBank
+Fluvastatin, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Rosuvastatin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Pimozide, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Quinacrine, 3A4,substrate,Not Specified,DrugBank
+Sertraline, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Sibutramine, 3A4,substrate,Not Specified,DrugBank
+Miconazole, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Chlorphenamine, 3A4,substrate,Not Specified,DrugBank
+Nifedipine, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Amiodarone, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Dutasteride, 3A4,substrate,Not Specified,DrugBank
+Econazole, 3A4,inhibitor,Not Specified,DrugBank
+Bicalutamide, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Rabeprazole, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Proguanil, 3A4,substrate,Not Specified,DrugBank
+Pioglitazone, 3A4,"substrate, inducer",Not Specified,DrugBank
+Carvedilol, 3A4,substrate,Not Specified,DrugBank
+Levofloxacin, 3A4,inhibitor,Not Specified,DrugBank
+Sulfinpyrazone, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Doxepin, 3A4,substrate,Not Specified,DrugBank
+Nefazodone, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Desipramine, 3A4,inhibitor,Not Specified,DrugBank
+Bupropion, 3A4,substrate,Not Specified,DrugBank
+Halothane, 3A4,substrate,Not Specified,DrugBank
+Cilostazol, 3A4,substrate,Not Specified,DrugBank
+Itraconazole, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Arsenic trioxide, 3A4,inhibitor,Not Specified,DrugBank
+Guanethidine, 3A4,inducer,Not Specified,DrugBank
+Orphenadrine, 3A4,substrate,Not Specified,DrugBank
+Phenobarbital, 3A4,inducer,Not Specified,DrugBank
+Escitalopram, 3A4,substrate,Not Specified,DrugBank
+Podofilox, 3A4,substrate,Not Specified,DrugBank
+Ifosfamide, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Propafenone, 3A4,substrate,Not Specified,DrugBank
+Naloxone, 3A4,substrate,Not Specified,DrugBank
+Domperidone, 3A4,substrate,Not Specified,DrugBank
+Pergolide, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Clindamycin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Oxymorphone, 3A4,substrate,Not Specified,DrugBank
+Brinzolamide, 3A4,substrate,Not Specified,DrugBank
+Estramustine, 3A4,substrate,Not Specified,DrugBank
+Zopiclone, 3A4,substrate,Not Specified,DrugBank
+Bromocriptine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Rifapentine, 3A4,inducer,Not Specified,DrugBank
+Mitoxantrone, 3A4,inhibitor,Not Specified,DrugBank
+Lomustine, 3A4,inhibitor,Not Specified,DrugBank
+Clarithromycin, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Clarithromycin, 3A4,,Not Specified,DrugBank
+Estazolam, 3A4,substrate,Not Specified,DrugBank
+Finasteride, 3A4,substrate,Not Specified,DrugBank
+Anastrozole, 3A4,inhibitor,Not Specified,DrugBank
+Halofantrine, 3A4,substrate,Not Specified,DrugBank
+Dantrolene, 3A4,substrate,Not Specified,DrugBank
+Rifaximin, 3A4,inducer,Not Specified,DrugBank
+Ketamine, 3A4,substrate,Not Specified,DrugBank
+Budesonide, 3A4,substrate,Not Specified,DrugBank
+Aminophylline, 3A4,substrate,Not Specified,DrugBank
+Quetiapine, 3A4,substrate,Not Specified,DrugBank
+Levomethadyl Acetate, 3A4,substrate,Not Specified,DrugBank
+Paclitaxel, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Saquinavir, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Dexamethasone, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Sevoflurane, 3A4,substrate,Not Specified,DrugBank
+Aripiprazole, 3A4,substrate,Not Specified,DrugBank
+Gemfibrozil, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Clomipramine, 3A4,substrate,Not Specified,DrugBank
+Alimemazine, 3A4,inducer,Not Specified,DrugBank
+Docetaxel, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Ergonovine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Dasatinib, 3A4,substrate,Not Specified,DrugBank
+Retapamulin, 3A4,substrate,Not Specified,DrugBank
+Lapatinib, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Sitagliptin, 3A4,substrate,Not Specified,DrugBank
+Posaconazole, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Darunavir, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Paliperidone, 3A4,,Not Specified,DrugBank
+Sunitinib, 3A4,substrate,Not Specified,DrugBank
+Hydralazine, 3A4,inhibitor,Not Specified,DrugBank
+Rolitetracycline, 3A4,inhibitor,Not Specified,DrugBank
+Fosamprenavir, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Fosphenytoin, 3A4,inducer,Not Specified,DrugBank
+Josamycin, 3A4,inhibitor,Not Specified,DrugBank
+Cefradine, 3A4,inducer,Not Specified,DrugBank
+Tasosartan, 3A4,substrate,Not Specified,DrugBank
+Hexobarbital, 3A4,substrate,Not Specified,DrugBank
+Troleandomycin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Quinupristin, 3A4,inhibitor,Not Specified,DrugBank
+Cortisone acetate, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Paramethasone, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Mibefradil, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Yohimbine, 3A4,substrate,Not Specified,DrugBank
+Bezafibrate, 3A4,substrate,Not Specified,DrugBank
+Colchicine, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Digitoxin, 3A4,substrate,Not Specified,DrugBank
+Danazol, 3A4,inhibitor,Not Specified,DrugBank
+Tiotropium, 3A4,substrate,Not Specified,DrugBank
+Ciclesonide, 3A4,substrate,Not Specified,DrugBank
+Pranlukast, 3A4,,Not Specified,DrugBank
+Acenocoumarol, 3A4,substrate,Not Specified,DrugBank
+Aminophenazone, 3A4,substrate,Not Specified,DrugBank
+Allylestrenol, 3A4,substrate,Not Specified,DrugBank
+Antipyrine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Ethylmorphine, 3A4,substrate,Not Specified,DrugBank
+Flunitrazepam, 3A4,substrate,Not Specified,DrugBank
+Dihydrocodeine, 3A4,substrate,Not Specified,DrugBank
+Bromazepam, 3A4,substrate,Not Specified,DrugBank
+Clotiazepam, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Ketazolam, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Prazepam, 3A4,substrate,Not Specified,DrugBank
+Quazepam, 3A4,substrate,Not Specified,DrugBank
+Everolimus, 3A4,substrate,Not Specified,DrugBank
+Solifenacin, 3A4,substrate,Not Specified,DrugBank
+Nitrazepam, 3A4,substrate,Not Specified,DrugBank
+Lopinavir, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Deferasirox, 3A4,inducer,Not Specified,DrugBank
+Pipotiazine, 3A4,substrate,Not Specified,DrugBank
+Etoricoxib, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Rutin, 3A4,inhibitor,Not Specified,DrugBank
+Dehydroepiandrosterone, 3A4,substrate,Not Specified,DrugBank
+Dalfopristin, 3A4,inhibitor,Not Specified,DrugBank
+Nicotinamide, 3A4,inhibitor,Not Specified,DrugBank
+Resveratrol, 3A4,inhibitor,Not Specified,DrugBank
+Vanoxerine, 3A4,substrate,Not Specified,DrugBank
+Phenacetin, 3A4,substrate,Not Specified,DrugBank
+Thiotepa, 3A4,substrate,Not Specified,DrugBank
+Estropipate, 3A4,substrate,Not Specified,DrugBank
+Bifonazole, 3A4,inhibitor,Not Specified,DrugBank
+Metamizole, 3A4,inducer,Not Specified,DrugBank
+Zomepirac, 3A4,substrate,Not Specified,DrugBank
+Methaqualone, 3A4,substrate,Not Specified,DrugBank
+Maraviroc, 3A4,substrate,Not Specified,DrugBank
+Ixabepilone, 3A4,substrate,Not Specified,DrugBank
+Celiprolol, 3A4,substrate,Not Specified,DrugBank
+Dronedarone, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Dexloxiglumide, 3A4,,Not Specified,DrugBank
+Nilotinib, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Lorcaserin, 3A4,substrate,Not Specified,DrugBank
+Calanolide A, 3A4,,Not Specified,DrugBank
+Tesmilifene, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Flibanserin, 3A4,substrate,Not Specified,DrugBank
+Clevidipine, 3A4,inducer,Not Specified,DrugBank
+Permethrin, 3A4,substrate,Not Specified,DrugBank
+Benzoxazinorifamycin, 3A4,,Not Specified,DrugBank
+Ospemifene, 3A4,substrate,Not Specified,DrugBank
+Iloperidone, 3A4,substrate,Not Specified,DrugBank
+Azimilide, 3A4,,Not Specified,DrugBank
+Banoxantrone, 3A4,substrate,Not Specified,DrugBank
+Aplidine, 3A4,,Not Specified,DrugBank
+Indacaterol, 3A4,substrate,Not Specified,DrugBank
+Trabectedin, 3A4,substrate,Not Specified,DrugBank
+Rotigotine, 3A4,substrate,Not Specified,DrugBank
+Vandetanib, 3A4,substrate,Not Specified,DrugBank
+Pradefovir Mesylate, 3A4,,Not Specified,DrugBank
+Telaprevir, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+ado-trastuzumab emtansine, 3A4,substrate,Not Specified,DrugBank
+Abiraterone, 3A4,substrate,Not Specified,DrugBank
+Cariprazine, 3A4,substrate,Not Specified,DrugBank
+Sertindole, 3A4,substrate,Not Specified,DrugBank
+Mianserin, 3A4,substrate,Not Specified,DrugBank
+Rimonabant, 3A4,substrate,Not Specified,DrugBank
+Rufinamide, 3A4,inducer,Not Specified,DrugBank
+Alogliptin, 3A4,substrate,Not Specified,DrugBank
+Silodosin, 3A4,substrate,Not Specified,DrugBank
+Prasugrel, 3A4,substrate,Not Specified,DrugBank
+Tolvaptan, 3A4,substrate,Not Specified,DrugBank
+Asenapine, 3A4,substrate,Not Specified,DrugBank
+Rivaroxaban, 3A4,substrate,Not Specified,DrugBank
+Avanafil, 3A4,substrate,Not Specified,DrugBank
+Udenafil, 3A4,substrate,Not Specified,DrugBank
+Sitaxentan, 3A4,inhibitor,Not Specified,DrugBank
+Levocetirizine, 3A4,substrate,Not Specified,DrugBank
+Temsirolimus, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Simeprevir, 3A4,substrate,Not Specified,DrugBank
+Dapagliflozin, 3A4,substrate,Not Specified,DrugBank
+Saxagliptin, 3A4,substrate,Not Specified,DrugBank
+Armodafinil, 3A4,inducer,Not Specified,DrugBank
+Etravirine, 3A4,"substrate, inducer",Not Specified,DrugBank
+Pazopanib, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Apixaban, 3A4,substrate,Not Specified,DrugBank
+Bosutinib, 3A4,substrate,Not Specified,DrugBank
+Axitinib, 3A4,substrate,Not Specified,DrugBank
+Vilazodone, 3A4,substrate,Not Specified,DrugBank
+Artemether, 3A4,"substrate, inducer",Not Specified,DrugBank
+Desvenlafaxine, 3A4,substrate,Not Specified,DrugBank
+Fesoterodine, 3A4,substrate,Not Specified,DrugBank
+Lumefantrine, 3A4,substrate,Not Specified,DrugBank
+Methyltestosterone, 3A4,substrate,Not Specified,DrugBank
+Nilvadipine, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Ketobemidone, 3A4,substrate,Not Specified,DrugBank
+Ambroxol, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Benzyl alcohol, 3A4,substrate,Not Specified,DrugBank
+Cabazitaxel, 3A4,substrate,Not Specified,DrugBank
+Chenodeoxycholic acid, 3A4,substrate,Not Specified,DrugBank
+Parecoxib, 3A4,substrate,Not Specified,DrugBank
+Tofisopam, 3A4,inhibitor,Not Specified,DrugBank
+Lurasidone, 3A4,substrate,Not Specified,DrugBank
+Ticagrelor, 3A4,substrate,Not Specified,DrugBank
+Ivacaftor, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Lomitapide, 3A4,substrate,Not Specified,DrugBank
+Vismodegib, 3A4,substrate,Not Specified,DrugBank
+Rilpivirine, 3A4,"substrate, inhibitor, inducer",Not Specified,DrugBank
+Crizotinib, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Estradiol valerate/Dienogest, 3A4,substrate,Not Specified,DrugBank
+Fingolimod, 3A4,substrate,Not Specified,DrugBank
+Brentuximab vedotin, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Boceprevir, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Cabozantinib, 3A4,substrate,Not Specified,DrugBank
+Ruxolitinib, 3A4,substrate,Not Specified,DrugBank
+Vemurafenib, 3A4,"substrate, inducer",Not Specified,DrugBank
+Linagliptin, 3A4,inhibitor,Not Specified,DrugBank
+Perampanel, 3A4,"substrate, inducer",Not Specified,DrugBank
+Mirabegron, 3A4,substrate,Not Specified,DrugBank
+Tofacitinib, 3A4,substrate,Not Specified,DrugBank
+Regorafenib, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Enzalutamide, 3A4,"substrate, inducer",Not Specified,DrugBank
+Ponatinib, 3A4,substrate,Not Specified,DrugBank
+Bedaquiline, 3A4,substrate,Not Specified,DrugBank
+Fluticasone furoate, 3A4,substrate,Not Specified,DrugBank
+Canagliflozin, 3A4,substrate,Not Specified,DrugBank
+Pomalidomide, 3A4,substrate,Not Specified,DrugBank
+Trametinib, 3A4,inducer,Not Specified,DrugBank
+Dabrafenib, 3A4,"substrate, inducer",Not Specified,DrugBank
+Levomilnacipran, 3A4,substrate,Not Specified,DrugBank
+MACITENTAN, 3A4,substrate,Not Specified,DrugBank
+Luliconazole, 3A4,inhibitor,Not Specified,DrugBank
+Aliskiren, 3A4,substrate,Not Specified,DrugBank
+Eliglustat, 3A4,substrate,Not Specified,DrugBank
+Naloxegol, 3A4,substrate,Not Specified,DrugBank
+Ibrutinib, 3A4,substrate,Not Specified,DrugBank
+Idelalisib, 3A4,inducer,Not Specified,DrugBank
+Palbociclib, 3A4,substrate,Not Specified,DrugBank
+Olaparib, 3A4,"substrate, inhibitor",Not Specified,DrugBank
+Lenvatinib, 3A4,substrate,Not Specified,DrugBank
+Ivabradine, 3A4,substrate,Not Specified,DrugBank
+Elvitegravir, 3A4,substrate,Not Specified,DrugBank
+Daclatasvir, 3A4,substrate,Not Specified,DrugBank
+Brexpiprazole, 3A4,substrate,Not Specified,DrugBank
+Sonidegib, 3A4,substrate,Not Specified,DrugBank
+Rolapitant, 3A4,substrate,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name,NADPH-- reductase,Actions,Not Specified,DrugBank
+Lipoic Acid,NADPH-- reductase,inhibitor,Not Specified,DrugBank
+Mitomycin,NADPH-- reductase,substrate,Not Specified,DrugBank
+Nilutamide,NADPH-- reductase,substrate,Not Specified,DrugBank
+Daunorubicin,NADPH-- reductase,substrate,Not Specified,DrugBank
+Nitrofurantoin,NADPH-- reductase,substrate,Not Specified,DrugBank
+Benzphetamine,NADPH-- reductase,substrate,Not Specified,DrugBank
+Doxorubicin,NADPH-- reductase,substrate,Not Specified,DrugBank
+Ethylmorphine,NADPH-- reductase,,Not Specified,DrugBank
+Flavin adenine dinucleotide,NADPH-- reductase,,Not Specified,DrugBank
+Riboflavin Monophosphate,NADPH-- reductase,,Not Specified,DrugBank
+Riboflavin Monophosphate,NADPH-- reductase,,Not Specified,DrugBank
+2'-Monophosphoadenosine 5'-Diphosphoribose,NADPH-- reductase,,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2B7 isoform,Actions,Not Specified,DrugBank
+Licofelone, 2B7 isoform,substrate,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2B1,Actions,Not Specified,DrugBank
+Tauroursodeoxycholic acid, 2B1,inducer,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2J2,Actions,Not Specified,DrugBank
+Cholecalciferol, 2J2,substrate,Not Specified,DrugBank
+Masoprocol, 2J2,inhibitor,Not Specified,DrugBank
+Terfenadine, 2J2,inhibitor,Not Specified,DrugBank
+Astemizole, 2J2,substrate,Not Specified,DrugBank
+Licofelone, 2J2,substrate,Not Specified,DrugBank
+Rivaroxaban, 2J2,substrate,Not Specified,DrugBank
+Apixaban, 2J2,substrate,Not Specified,DrugBank
+Levomilnacipran, 2J2,substrate,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2A2,Actions,Not Specified,DrugBank
+Tauroursodeoxycholic acid, 2A2,inducer,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2A13,Actions,Not Specified,DrugBank
+Nicotine, 2A13,substrate,Not Specified,DrugBank
+Methoxsalen, 2A13,inhibitor,Not Specified,DrugBank
+Testosterone, 2A13,substrate,Not Specified,DrugBank
+Phenacetin, 2A13,substrate,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 3A1,Actions,Not Specified,DrugBank
+Tauroursodeoxycholic acid, 3A1,inducer,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 2B2,Actions,Not Specified,DrugBank
+Tauroursodeoxycholic acid, 2B2,inducer,Not Specified,DrugBank
+,,,Not Specified,DrugBank
+Name, 3A3,Actions,Not Specified,DrugBank
+Daclatasvir, 3A3,substrate,Not Specified,DrugBank
