@@ -1,0 +1,3448 @@
+A<b>CYP inhibitors</b>	
+B  CYP1A2 [HSA:1544]	
+C    Aciclovir [DG:DG00406]	Weak (in vivo)
+D      D00222  Acyclovir (USP)	
+D      D02764  Acyclovir sodium (USAN)	
+C    Allopurinol	Weak (in vivo)
+D      D00224  Allopurinol (JP17/USP/INN)	
+D      D07564  Allopurinol sodium	
+C    Amiodarone [DG:DG00204]	Weak (in vivo)
+D      D02910  Amiodarone (USAN/INN)	
+D      D00636  Amiodarone hydrochloride (JP17/USAN)	
+C    Anastrozole	
+D      D00960  Anastrozole (JAN/USAN/INN)	
+C    Caffeine	Weak (in vivo)
+D      D00528  Caffeine (USP)	
+D      D01453  Caffeine hydrate (JP17)	
+D      D07603  Caffeine citrate (USP)	
+C    Cimetidine [DG:DG00017]	Weak (in vivo)
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Ciprofloxacin [DG:DG00617]	Strong (in vivo)
+D      D00186  Ciprofloxacin (JP17/USP/INN)	
+D      D02216  Ciprofloxacin hydrochloride (USP)	
+D      D07702  Ciprofloxacin lactate	
+C    Clinafloxacin	
+D      D02539  Clinafloxacin hydrochloride (USAN)	
+C    Daidzein	Weak (in vivo)
+D      C10208  Daidzein	
+C    Deferasirox	
+D      D03669  Deferasirox (JAN/USAN/INN)	
+C    Disulfiram	Weak (in vivo)
+D      D00131  Disulfiram (JP17/USP/INN)	
+C    Echinacea	Weak (in vivo)
+D      E00764  Echinacea	
+C    Enoxacin [DG:DG00619]	Strong (in vivo)
+D      D00310  Enoxacin (USAN/INN)	
+D      D05461  Enoxacin hydrate (JP17)	
+C    Etintidine	
+D      D04098  Etintidine hydrochloride (USAN)	
+C    Famotidine	Weak (in vivo)
+D      D00318  Famotidine (JP17/USP/INN)	
+C    Fluvoxamine [DG:DG00946]	Strong (in vivo)
+D      D07984  Fluvoxamine (INN)	
+D      D00824  Fluvoxamine maleate (JP17/USAN)	
+C    Grepafloxacin [DG:DG00623]	
+D      C11368  Grepafloxacin	
+D      D02178  Grepafloxacin hydrochloride (JAN/USAN)	
+C    Idrocilamide	
+D      D08063  Idrocilamide (INN)	
+C    Methoxsalen	Moderate (in vivo)
+D      D00139  Methoxsalen (JP17/USP)	
+C    Mexiletine [DG:DG00197]	Moderate (in vivo)
+D      D08215  Mexiletine (INN)	
+D      D00639  Mexiletine hydrochloride (JP17/USP)	
+C    Mibefradil [DG:DG00328]	
+D      D08217  Mibefradil (INN)	
+D      D05024  Mibefradil dihydrochloride (USAN)	
+C    Norfloxacin [DG:DG00620]	Weak (in vivo)
+D      D00210  Norfloxacin (JP17/USP/INN)	
+D      D08287  Norfloxacin nicotinate	
+C    Pefloxacin	
+D      D02306  Pefloxacin (USAN/INN)	
+D      D02307  Pefloxacin mesylate (USAN)	
+C    Peginterferon alfa-2a	
+D      D02747  Peginterferon alfa-2a (USAN/INN)	
+C    Phenylpropanolamine	Moderate (in vivo)
+D      D08368  Phenylpropanolamine (INN)	
+D      D01224  Phenylpropanolamine hydrochloride (JAN/USP)	
+D      D05466  Phenylpropanolamine polistirex (USAN)	
+C    Pipemidic acid [DG:DG00631]	
+D      D08379  Pipemidic acid (INN)	
+D      D01531  Pipemidic acid hydrate (JP17)	
+C    Piperine	
+D      C03882  Piperine	
+C    Propafenone [DG:DG00200]	Weak (in vivo)
+D      D08435  Propafenone (INN)	
+D      D00640  Propafenone hydrochloride (JP17/USP)	
+C    Propranolol [DG:DG00305]	Weak (in vivo)
+D      D08443  Propranolol (INN)	
+D      D00483  Propranolol hydrochloride (JP17/USP)	
+C    Rofecoxib	
+D      D00568  Rofecoxib (JAN/USAN/INN)	
+C    Stiripentol	
+D      D05928  Stiripentol (JAN/USAN/INN)	
+C    Terbinafine [DG:DG00375]	Weak (in vivo)
+D      D02375  Terbinafine (USAN/INN)	
+D      D02219  Terbinafine hydrochloride (JP17/USP)	
+C    Tiabendazole	Moderate (in vivo)
+D      D00372  Thiabendazole (USP)	
+C    Ticlopidine	Weak (in vivo)
+D      D08594  Ticlopidine (INN)	
+D      D01028  Ticlopidine hydrochloride (JP17/USAN)	
+C    Vemurafenib	Moderate (in vivo)
+D      D09996  Vemurafenib (JAN/USAN/INN)	
+C    Verapamil [DG:DG00329]	Weak (in vivo)
+D      D02356  Verapamil (USAN/INN)	
+D      D00619  Verapamil hydrochloride (JP17/USP)	
+C    Viloxazine [DG:DG00956]	
+D      D08673  Viloxazine (INN)	
+D      D02572  Viloxazine hydrochloride (USAN)	
+C    Zafirlukast	
+D      D00411  Zafirlukast (JAN/USAN/INN)	
+C    Zileuton	Moderate (in vivo)
+D      D00414  Zileuton (USP/INN)	
+B  CYP2A6 [HSA:1548]	
+C    Letrozole	
+D      D00964  Letrozole (JAN/USP/INN)	
+C    Methoxsalen	
+D      D00139  Methoxsalen (JP17/USP)	
+B  CYP2B6 [HSA:1555]	
+C    Clopidogrel [DG:DG00155]	Weak (in vivo)
+D      D07729  Clopidogrel (USP/INN)	
+D      D00769  Clopidogrel bisulfate (USAN)	
+C    Prasugrel	Weak (in vivo)
+D      D05597  Prasugrel hydrochloride (JAN/USAN)	
+C    Tenofovir [DG:DG01223]	
+D      D06074  Tenofovir (USAN)	
+D      D01982  Tenofovir disoproxil fumarate (JAN/USAN)	
+D      D10428  Tenofovir alafenamide (USAN/INN)	
+D      D10605  Tenofovir alafenamide fumarate (USAN/JAN)	
+C    Thiotepa	
+D      D00583  Thiotepa (JAN/USP/INN)	
+C    Ticlopidine	Weak (in vivo)
+D      D08594  Ticlopidine (INN)	
+D      D01028  Ticlopidine hydrochloride (JP17/USAN)	
+C    Voriconazole	
+D      D00578  Voriconazole (JP17/USAN/INN)	
+B  CYP2C8 [HSA:1558]	
+C    Ciclosporin	
+D      D00184  Cyclosporine (USP)	
+C    Clarithromycin	
+D      D00276  Clarithromycin (JP17/USP/INN)	
+D      D07710  Clarithromycin lactobionate	
+C    Dabrafenib	
+D      D10104  Dabrafenib mesylate (USAN)	
+C    Fluvoxamine [DG:DG00946]	Weak (in vivo)
+D      D07984  Fluvoxamine (INN)	
+D      D00824  Fluvoxamine maleate (JP17/USAN)	
+C    Gemfibrozil	Strong (in vivo)
+D      D00334  Gemfibrozil (JAN/USP/INN)	
+C    Ketoconazole	Weak (in vivo)
+D      D00351  Ketoconazole (JP17/USP)	
+C    Itraconazole	
+D      D00350  Itraconazole (JP17/USAN)	
+C    Trimethoprim	Weak (in vivo)
+D      D00145  Trimethoprim (JAN/USP/INN)	
+D      D06236  Trimethoprim sulfate (USP)	
+D      D08644  Trimethoprim lactate	
+C    Montelukast [DG:DG01066]	
+D      D08229  Montelukast (INN)	
+D      D00529  Montelukast sodium (JP17/USAN)	
+C    Deferasirox	
+D      D03669  Deferasirox (JAN/USAN/INN)	
+C    Teriflunomide	
+D      D10172  Teriflunomide (USAN)	
+C    Telithromycin	
+D      D01078  Telithromycin (JAN/USAN/INN)	
+B  CYP2C9 [HSA:1559]	
+C    Amiodarone [DG:DG00204]	Moderate (in vivo)
+D      D02910  Amiodarone (USAN/INN)	
+D      D00636  Amiodarone hydrochloride (JP17/USAN)	
+C    Benzbromarone	
+D      D01056  Benzbromarone (JP17/USAN/INN)	
+C    Bucolome	
+D      D01661  Bucolome (JAN/INN)	
+C    Capecitabine	Weak (in vivo)
+D      D01223  Capecitabine (JAN/USAN/INN)	
+C    Carmofur	
+D      D01784  Carmofur (JP17/INN)	
+C    Cimetidine [DG:DG00017]	
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Choline fenofibrate	
+D      D08890  Choline fenofibrate (USAN/INN)	
+C    Cotrimoxazole	Weak (in vivo)
+D      D00285  Co-Trimoxazole (BAN)	
+C    Croconazole	
+D      D07752  Croconazole (INN)	
+D      D02169  Croconazole hydrochloride (JP17)	
+C    Ciclosporin	
+D      D00184  Cyclosporine (USP)	
+C    Delavirdine [DG:DG00662]	
+D      D07782  Delavirdine (INN)	
+D      D00895  Delavirdine mesylate (USAN)	
+C    Diosmin	
+D      D07858  Diosmin (INN)	
+C    Disulfiram	
+D      D00131  Disulfiram (JP17/USP/INN)	
+C    Doxifluridine	
+D      D01309  Doxifluridine (JP17/INN)	
+C    Lovastatin	
+D      D00359  Lovastatin (USP/INN)	
+C    Fenofibrate	
+D      D00565  Fenofibrate (JAN/INN)	
+C    Etravirine	Weak (in vivo)
+D      D04112  Etravirine (JAN/USAN/INN)	
+C    Fluconazole [DG:DG00371]	Moderate (in vivo)
+D      D00322  Fluconazole (JP17/USAN/INN)	
+C    Fluorouracil [DG:DG00687]	
+D      D00584  Fluorouracil (JP17/USP/INN)	
+D      D07974  Fluorouracil sodium salt	
+C    Fluvastatin [DG:DG00354]	Weak (in vivo)
+D      D07983  Fluvastatin (INN)	
+D      D00892  Fluvastatin sodium (JAN/USAN)	
+C    Fluvoxamine [DG:DG00946]	Weak (in vivo)
+D      D07984  Fluvoxamine (INN)	
+D      D00824  Fluvoxamine maleate (JP17/USAN)	
+C    Isoconazole [DG:DG00365]	
+D      D04624  Isoconazole (USAN/INN)	
+D      D01480  Isoconazole nitrate (JAN)	
+C    Isoniazid [DG:DG00642]	
+D      D00346  Isoniazid (JP17/USP/INN)	
+D      D01501  Isoniazid calcium pyruvinate (JAN)	
+D      D02002  Isoniazid sodium methanesulfonate hydrate (JAN)	
+D      D09773  Isoniazid glucuronate sodium (JAN)	
+C    Lanoconazole	
+D      D01092  Lanoconazole (JAN/INN)	
+C    Leflunomide	
+D      D00749  Leflunomide (JAN/USAN/INN)	
+C    Miconazole [DG:DG00004]	Moderate (in vivo)
+D      D00416  Miconazole (JP17/USP/INN)	
+D      D00882  Miconazole nitrate (JP17/USP)	
+C    Metronidazole	Weak (in vivo)
+D      D00409  Metronidazole (JP17/USP/INN)	
+D      D05016  Metronidazole hydrochloride (USAN)	
+D      D05017  Metronidazole phosphate (USAN)	
+D      D08214  Metronidazole benzoate (USP)	
+C    Neticonazole	
+D      D01620  Neticonazole hydrochloride (JAN)	
+C    Oxandrolone	Moderate (in vivo)
+D      D00462  Oxandrolone (JAN/USP/INN)	
+C    Oxiconazole [DG:DG00367]	
+D      D08313  Oxiconazole (INN)	
+D      D00885  Oxiconazole nitrate (JAN/USAN)	
+C    Phenylbutazone [DG:DG00745]	
+D      D00510  Phenylbutazone (JP17/USP/INN)	
+D      D08363  Phenylbutazone calcium	
+D      D08364  Phenylbutazone sodium	
+C    Probenecid	
+D      D00475  Probenecid (JP17/USP/INN)	
+C    Sertraline [DG:DG00945]	
+D      D02360  Sertraline (INN)	
+D      D00825  Sertraline hydrochloride (JAN/USAN)	
+C    Sulconazole [DG:DG00366]	
+D      D08535  Sulconazole (INN)	
+D      D00886  Sulconazole nitrate (JAN/USP)	
+C    Sulfinpyrazone	Weak (in vivo)
+D      D00449  Sulfinpyrazone (JAN/USP/INN)	
+C    Stiripentol	
+D      D05928  Stiripentol (JAN/USAN/INN)	
+C    Sulfamethoxazole	
+D      D00447  Sulfamethoxazole (JP17/USP/INN)	
+C    Sulfaphenazole	
+D      D01954  Sulfaphenazole (JAN/INN)	
+C    Teniposide	
+D      D02698  Teniposide (USAN/INN)	
+C    Tegafur	
+D      D01244  Tegafur (JP17/USAN/INN)	
+C    Tigecycline	
+D      D01079  Tigecycline (JAN/USAN)	
+C    Tienilic acid	
+D      D02386  Ticrynafen (USAN)	
+C    Voriconazole	Weak (in vivo)
+D      D00578  Voriconazole (JP17/USAN/INN)	
+C    Zafirlukast	Weak (in vivo)
+D      D00411  Zafirlukast (JAN/USAN/INN)	
+B  CYP2C19 [HSA:1557]	
+C    Allicin	Weak (in vivo)
+D      C07600  Allicin	
+C    Armodafinil	Weak (in vivo)
+D      D03215  Armodafinil (USAN/INN)	
+C    Carbamazepine	Weak (in vivo)
+D      D00252  Carbamazepine (JP17/USP/INN)	
+C    Chloramphenicol [DG:DG00399]	
+D      D00104  Chloramphenicol (JP17/USP/INN)	
+D      D01072  Chloramphenicol palmitate (JP17/USP)	
+D      D02185  Chloramphenicol sodium succinate (JP17/USP)	
+D      D07674  Chloramphenicol stearate	
+D      D07675  Chloramphenicol succinate	
+C    Cimetidine [DG:DG00017]	Weak (in vivo)
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Clarithromycin [DG:DG00605]	
+D      D00276  Clarithromycin (JP17/USP/INN)	
+D      D07710  Clarithromycin lactobionate	
+C    Clopidogrel [DG:DG00155]	
+D      D07729  Clopidogrel (USP/INN)	
+D      D00769  Clopidogrel bisulfate (USAN)	
+C    Delavirdine [DG:DG00662]	
+D      D07782  Delavirdine (INN)	
+D      D00895  Delavirdine mesylate (USAN)	
+C    Desvenlafaxine [DG:DG00963]	
+D      D07793  Desvenlafaxine (INN)	
+D      D02570  Desvenlafaxine succinate (USAN)	
+C    Dexlansoprazole	
+D      D08903  Dexlansoprazole (INN/USAN)	
+C    Erythromycin [DG:DG00436]	
+D      D00140  Erythromycin (JP17/USP/INN)	
+D      D00851  Erythromycin estolate (USP)	
+D      D01361  Erythromycin ethylsuccinate (JP17/USP)	
+D      D02009  Erythromycin lactobionate (JP17/USP)	
+D      D02184  Erythromycin stearate (JP17/USP)	
+D      D02523  Erythromycin acistrate (USAN)	
+D      D02524  Erythromycin gluceptate (USP)	
+D      D02525  Erythromycin propionate (USAN)	
+D      D04054  Erythromycin salnacedin (USAN)	
+D      D07909  Erythromycin thiocyanate	
+D      D07910  Erythromycin stinoprate (INN)	
+C    Esomeprazole [DG:DG00023]	Moderate (in vivo)
+D      D07917  Esomeprazole (INN)	
+D      D01984  Esomeprazole magnesium (USAN)	
+D      D04056  Esomeprazole sodium (USAN)	
+D      D09339  Esomeprazole potassium (USAN)	
+D      D10120  Esomeprazole strontium (USAN)	
+C    Etravirine	Weak (in vivo)
+D      D04112  Etravirine (JAN/USAN/INN)	
+C    Felbamate	Weak (in vivo)
+D      D00536  Felbamate (USAN/INN)	
+C    Fluconazole [DG:DG00371]	Strong (in vivo)
+D      D00322  Fluconazole (JP17/USAN/INN)	
+D      D01429  Fosfluconazole (JAN/INN)	
+C    Fluoxetine [DG:DG00942]	Moderate (in vivo)
+D      D00326  Fluoxetine (USAN/INN)	
+D      D00823  Fluoxetine hydrochloride (JAN/USP)	
+C    Fluvoxamine [DG:DG00946]	Strong (in vivo)
+D      D07984  Fluvoxamine (INN)	
+D      D00824  Fluvoxamine maleate (JP17/USAN)	
+C    Grapefruit juice	
+D      E00839  Grapefruit juice	
+C    Human growth hormone (rhGH)	Weak (in vivo)
+D      D02691  Somatropin (USP/INN)	
+C    Indometacin [DG:DG00241]	
+D      D00141  Indomethacin (USP)	
+D      D01565  Indometacin farnesil (JAN)	
+D      D02110  Indomethacin sodium (USP)	
+C    Ketoconazole	Weak (in vivo)
+D      D00351  Ketoconazole (JP17/USP)	
+C    Lansoprazole	
+D      D00355  Lansoprazole (JP17/USP/INN)	
+C    Moclobemide	Moderate (in vivo)
+D      D02561  Moclobemide (USAN/INN)	
+C    Modafinil	
+D      D01832  Modafinil (JAN/USAN/INN)	
+C    Omeprazole	Moderate (in vivo)
+D      D00455  Omeprazole (JP17/USP/INN)	
+D      D01207  Omeprazole sodium (USAN)	
+D      D05259  Omeprazole magnesium (USAN)	
+D      D05261  Omeprazole sodium injection (JAN)	
+C    Oxcarbazepine	
+D      D00533  Oxcarbazepine (JAN/USAN/INN)	
+C    Pantoprazole [DG:DG00021]	
+D      D05353  Pantoprazole (USAN/INN)	
+D      D02593  Pantoprazole sodium (USAN)	
+C    Rabeprazole [DG:DG00022]	
+D      D08463  Rabeprazole (INN)	
+D      D00724  Rabeprazole sodium (JP17/USAN)	
+C    Ritonavir	
+D      D00427  Ritonavir (JAN/USAN/INN)	
+C    Roxithromycin	
+D      D01710  Roxithromycin (JP17/USAN/INN)	
+C    Stiripentol	
+D      D05928  Stiripentol (JAN/USAN/INN)	
+C    Ticlopidine	Strong (in vivo)
+D      D08594  Ticlopidine (INN)	
+D      D01028  Ticlopidine hydrochloride (JP17/USAN)	
+C    Troleandomycin	
+D      D01322  Troleandomycin (USP/INN)	
+C    Topiramate	
+D      D00537  Topiramate (JAN/USAN/INN)	
+C    Voriconazole	Moderate (in vivo)
+D      D00578  Voriconazole (JP17/USAN/INN)	
+B  CYP2D6 [HSA:1565]	
+C    Abiraterone	
+D      D09701  Abiraterone acetate (JAN/USAN)	
+C    Amiodarone [DG:DG00204]	
+D      D02910  Amiodarone (USAN/INN)	
+D      D00636  Amiodarone hydrochloride (JP17/USAN)	
+C    Bepridil [DG:DG00333]	
+D      D07520  Bepridil (INN)	
+D      D00631  Bepridil hydrochloride (USAN)	
+C    Bupropion	Strong (in vivo)
+D      D07591  Bupropion (INN)	
+D      D00817  Bupropion hydrochloride (JAN/USP)	
+D      D07938  Bupropion hydrobromide (USAN)	
+C    Celecoxib	Weak (in vivo)
+D      D00567  Celecoxib (JAN/USAN/INN)	
+C    Chlorphenamine [DG:DG01099]	
+D      D07398  Chlorphenamine (INN)	
+D      D00665  Chlorpheniramine maleate (JP17/USP)	
+D      D03475  Chlorpheniramine polistirex (USAN)	
+C    Chlorpromazine [DG:DG00867]	
+D      D00270  Chlorpromazine (USP/INN)	
+D      D00789  Chlorpromazine hydrochloride (JP17/USP)	
+D      D03274  Chlorpromazine hibenzate (JAN)	
+D      D04034  Chlorpromazine phenolphthalinate (JAN)	
+D      D09819  Chlorpromazine tannate (JAN)	
+C    Cidoxepin	
+D      D03491  Cidoxepin hydrochloride (USAN)	
+C    Cimetidine [DG:DG00017]	Weak (in vivo)
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Cinacalcet	Moderate (in vivo)
+D      D03504  Cinacalcet (USAN)	
+D      D03505  Cinacalcet hydrochloride (JAN/USAN)	
+C    Clemastine [DG:DG00387]	
+D      D03535  Clemastine (USAN)	
+D      D00666  Clemastine fumarate (JP17/USP)	
+C    Clobazam	
+D      D01253  Clobazam (JAN/USAN/INN)	
+C    Clomipramine [DG:DG00929]	
+D      D07727  Clomipramine (INN)	
+D      D00811  Clomipramine hydrochloride (JP17/USP)	
+C    Cobicistat	
+D      D09881  Cobicistat (JAN/USAN/INN)	
+C    Cocaine [DG:DG00808]	
+D      D00110  Cocaine (USP)	
+D      D02182  Cocaine hydrochloride (JP17/USP)	
+C    Dacomitinib [DG:DG01793]	
+D      D09883  Dacomitinib (USAN/INN)	
+D      D10514  Dacomitinib hydrate (JAN)	
+C    Desvenlafaxine [DG:DG00963]	Weak (in vivo)
+D      D07793  Desvenlafaxine (INN)	
+D      D02570  Desvenlafaxine succinate (USAN)	
+C    Dexchlorpheniramine [DG:DG01098]	
+D      D07803  Dexchlorpheniramine (INN)	
+D      D00668  Dexchlorpheniramine maleate (USP)	
+C    Diltiazem [DG:DG00331]	Weak (in vivo)
+D      D07845  Diltiazem (INN)	
+D      D00616  Diltiazem hydrochloride (JP17/USP)	
+D      D03830  Diltiazem malate (USAN)	
+C    Diphenhydramine [DG:DG00390]	
+D      D00300  Diphenhydramine (JP17/INN)	Weak (in vivo)
+D      D00669  Diphenhydramine hydrochloride (JP17/USP)	Weak (in vivo)
+D      D02419  Diphenhydramine salicylate (JAN)	Weak (in vivo)
+D      D03285  Diphenhydramine tannate (JP17)	Weak (in vivo)
+D      D03360  Diphenhydramine laurylsulfate (JAN)	Weak (in vivo)
+D      D03854  Diphenhydramine citrate (USP)	Weak (in vivo)
+C    Doxepin [DG:DG00937]	
+D      D07875  Doxepin (INN)	
+D      D00814  Doxepin hydrochloride (USP)	
+C    Doxorubicin [DG:DG00696]	
+D      D03899  Doxorubicin (USAN/INN)	
+D      D01275  Doxorubicin hydrochloride (JP17/USP)	
+C    Duloxetine [DG:DG00962]	Moderate (in vivo)
+D      D07880  Duloxetine (INN)	
+D      D01179  Duloxetine hydrochloride (JAN/USAN)	
+C    Echinacea	Weak (in vivo)
+D      E00764  Echinacea	
+C    Escitalopram [DG:DG00947]	Weak (in vivo)
+D      D07913  Escitalopram (INN)	
+D      D02567  Escitalopram oxalate (JAN/USAN)	
+C    Fluoxetine [DG:DG00942]	Strong (in vivo)
+D      D00326  Fluoxetine (USAN/INN)	
+D      D00823  Fluoxetine hydrochloride (JAN/USP)	
+C    Febuxostat	Weak (in vivo)
+D      D01206  Febuxostat (JAN/USAN/INN)	
+C    Gefitinib	Weak (in vivo)
+D      D01977  Gefitinib (JAN/USAN/INN)	
+C    Halofantrine [DG:DG01021]	
+D      D08033  Halofantrine (INN)	
+D      D02485  Halofantrine hydrochloride (USAN)	
+C    Hydralazine	Weak (in vivo)
+D      D08044  Hydralazine (INN)	
+D      D01302  Hydralazine hydrochloride (JP17/USP)	
+D      D04458  Hydralazine polistirex (USAN)	
+C    Hydroxychloroquine	Weak (in vivo)
+D      D08050  Hydroxychloroquine (INN)	
+D      D02114  Hydroxychloroquine sulfate (JAN/USP)	
+C    Hydroxyzine [DG:DG00912]	
+D      D08054  Hydroxyzine (INN)	
+D      D00672  Hydroxyzine hydrochloride (JP17/USP)	
+D      D01096  Hydroxyzine pamoate (JP17/USP)	
+C    Imatinib [DG:DG00710]	Weak (in vivo)
+D      D08066  Imatinib (INN)	
+D      D01441  Imatinib mesylate (USAN)	
+C    Labetalol [DG:DG00320]	
+D      D08106  Labetalol (INN)	
+D      D00600  Labetalol hydrochloride (JP17/USP)	
+C    Levomepromazine [DG:DG00868]	
+D      D00403  Methotrimeprazine (USP)	
+D      D01520  Levomepromazine hydrochloride (JAN/USAN)	
+D      D02248  Levomepromazine maleate (JP17/USAN)	
+C    Levomethadone [DG:DG01002]	
+D      D08121  Levomethadone (INN)	
+D      D08122  Levomethadone hydrochloride	
+C    Lopinavir	
+D      D01425  Lopinavir (JAN/USAN/INN)	
+C    Lorcaserin	
+D      D06613  Lorcaserin hydrochloride (USAN)	
+C    Methadone [DG:DG00999]	Weak (in vivo)
+D      D08195  Methadone (BAN)	
+D      D02102  Methadone hydrochloride (JAN/USP)	
+C    Metoclopramide [DG:DG00055]	
+D      D00726  Metoclopramide (JP17/INN)	
+D      D02213  Metoclopramide hydrochloride (JAN)	
+D      D05008  Metoclopramide hydrochloride (USAN)	
+C    Mibefradil [DG:DG00328]	
+D      D08217  Mibefradil (INN)	
+D      D05024  Mibefradil dihydrochloride (USAN)	
+C    Midodrine [DG:DG00224]	
+D      D08220  Midodrine (INN)	
+D      D01307  Midodrine hydrochloride (JAN/USAN)	
+C    Mirabegron	
+D      D09535  Mirabegron (USAN/JAN)	
+C    Moclobemide	
+D      D02561  Moclobemide (USAN/INN)	
+C    Paroxetine [DG:DG00944]	Strong (in vivo)
+D      D02362  Paroxetine (USP/INN)	
+D      D02260  Paroxetine hydrochloride hydrate (JP17)	
+D      D05374  Paroxetine hydrochloride (USP)	
+D      D05375  Paroxetine mesylate (USAN)	
+C    Pazopanib	
+D      D05380  Pazopanib hydrochloride (JAN/USAN)	
+C    Perphenazine [DG:DG00875]	
+D      D00503  Perphenazine (JP17/USP/INN)	
+D      D02037  Perphenazine maleate (JP17)	
+D      D04038  Perphenazine fendizoate (JAN)	
+D      D04965  Perphenazine hydrochloride	
+D      D08341  Perphenazine decanoate	
+D      D08342  Perphenazine enantate	
+C    Propafenone [DG:DG00200]	Weak (in vivo)
+D      D08435  Propafenone (INN)	
+D      D00640  Propafenone hydrochloride (JP17/USP)	
+C    Quinidine  [DG:DG00192]	Strong (in vivo)
+D      D08458  Quinidine (BAN)	
+D      D00642  Quinidine gluconate (USP)	
+D      D00643  Quinidine polygalacturonate	
+D      D02272  Quinidine sulfate (USP)	
+D      D08459  Quinidine phenylethylbarbiturate	
+C    Ranitidine [DG:DG00018]	Weak (in vivo)
+D      D00422  Ranitidine (USAN/INN)	
+D      D00673  Ranitidine hydrochloride (JP17/USP)	
+C    Ranitidine bismuth citrate	
+D      D05699  Ranitidine bismuth citrate (USAN)	
+C    Ritonavir	Weak (in vivo)
+D      D00427  Ritonavir (JAN/USAN/INN)	
+C    Sertraline [DG:DG00945]	Weak (in vivo)
+D      D02360  Sertraline (INN)	
+D      D00825  Sertraline hydrochloride (JAN/USAN)	
+C    Stiripentol	
+D      D05928  Stiripentol (JAN/USAN/INN)	
+C    Telithromycin	Weak (in vivo)
+D      D01078  Telithromycin (JAN/USAN/INN)	
+C    Terbinafine [DG:DG00375]	Moderate (in vivo)
+D      D02375  Terbinafine (USAN/INN)	
+D      D02219  Terbinafine hydrochloride (JP17/USP)	
+C    Thioridazine [DG:DG00882]	
+D      D00373  Thioridazine (USP/INN)	
+D      D00798  Thioridazine hydrochloride (JP17/USP)	
+C    Tripelennamine [DG:DG00383]	
+D      D08645  Tripelennamine (INN)	
+D      D02091  Tripelennamine hydrochloride (USP)	
+D      D06246  Tripelennamine citrate	
+C    Vemurafenib	Weak (in vivo)
+D      D09996  Vemurafenib (JAN/USAN/INN)	
+C    Venlafaxine [DG:DG00959]	
+D      D08670  Venlafaxine (INN)	
+D      D00821  Venlafaxine hydrochloride (JAN/USAN)	
+C    Verapamil [DG:DG00329]	Weak (in vivo)
+D      D02356  Verapamil (USAN/INN)	
+D      D00619  Verapamil hydrochloride (JP17/USP)	
+B  CYP3A4 [HSA:1576]	
+C    Amiodarone [DG:DG00204]	
+D      D02910  Amiodarone (USAN/INN)	
+D      D00636  Amiodarone hydrochloride (JP17/USAN)	
+C    Anastrozole	
+D      D00960  Anastrozole (JAN/USAN/INN)	
+C    Aprepitant [DG:DG00066]	
+D      D02968  Aprepitant (JAN/USAN/INN)	
+D      D06597  Fosaprepitant dimeglumine (USAN)	
+C    Chloramphenicol [DG:DG00399]	
+D      D00104  Chloramphenicol (JP17/USP/INN)	
+D      D01072  Chloramphenicol palmitate (JP17/USP)	
+D      D02185  Chloramphenicol sodium succinate (JP17/USP)	
+D      D07674  Chloramphenicol stearate	
+D      D07675  Chloramphenicol succinate	
+C    Ciclosporin	
+D      D00184  Cyclosporine (USP)	
+C    Cimetidine [DG:DG00017]	
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Ciprofloxacin [DG:DG00617]	
+D      D00186  Ciprofloxacin (JP17/USP/INN)	
+D      D02216  Ciprofloxacin hydrochloride (USP)	
+D      D07702  Ciprofloxacin lactate	
+C    Dabrafenib	
+D      D10104  Dabrafenib mesylate (USAN)	
+C    Darunavir [DG:DG00659]	
+D      D03656  Darunavir (USAN/INN)	
+D      D06478  Darunavir ethanolate (JAN)	
+C    Deferasirox	
+D      D03669  Deferasirox (JAN/USAN/INN)	
+C    Diltiazem [DG:DG00331]	
+D      D07845  Diltiazem (INN)	
+D      D00616  Diltiazem hydrochloride (JP17/USP)	
+D      D03830  Diltiazem malate (USAN)	
+C    Gestodene	
+D      D04316  Gestodene (USAN/INN)	
+C    Erythromycin [DG:DG00436]	
+D      D00140  Erythromycin (JP17/USP/INN)	
+D      D00851  Erythromycin estolate (USP)	
+D      D01361  Erythromycin ethylsuccinate (JP17/USP)	
+D      D02009  Erythromycin lactobionate (JP17/USP)	
+D      D02184  Erythromycin stearate (JP17/USP)	
+D      D02523  Erythromycin acistrate (USAN)	
+D      D02524  Erythromycin gluceptate (USP)	
+D      D02525  Erythromycin propionate (USAN)	
+D      D04054  Erythromycin salnacedin (USAN)	
+D      D07909  Erythromycin thiocyanate	
+D      D07910  Erythromycin stinoprate (INN)	
+C    Ethinylestradiol	
+D      D00554  Ethinyl estradiol (USP)	
+C    Itraconazole	
+D      D00350  Itraconazole (JP17/USAN)	
+C    Josamycin [DG:DG00604]	
+D      D01235  Josamycin (JP17/USAN/INN)	
+D      D05351  Josamycin propionate (JP17)	
+C    Miconazole [DG:DG00004]	
+D      D00416  Miconazole (JP17/USP/INN)	
+D      D00882  Miconazole nitrate (JP17/USP)	
+C    Mifepristone	
+D      D00585  Mifepristone (JAN/USAN/INN)	
+C    Midecamycin [DG:DG01202]	
+D      D01339  Midecamycin (JP17/INN)	
+D      D01636  Midecamycin acetate (JP17)	
+C    Norfloxacin [DG:DG00620]	
+D      D00210  Norfloxacin (JP17/USP/INN)	
+C    Saquinavir [DG:DG00653]	
+D      D00429  Saquinavir (JAN/USP/INN)	
+D      D01160  Saquinavir mesylate (USP)	
+C    Stiripentol	
+D      D05928  Stiripentol (JAN/USAN/INN)	
+C    Troleandomycin	
+D      D01322  Troleandomycin (USP/INN)	
+C    Verapamil [DG:DG00329]	
+D      D02356  Verapamil (USAN/INN)	
+D      D00619  Verapamil hydrochloride (JP17/USP)	
+B  CYP3A5 [HSA:1577]	
+C    Aprepitant [DG:DG00066]	
+D      D02968  Aprepitant (JAN/USAN/INN)	
+D      D06597  Fosaprepitant dimeglumine (USAN)	
+C    Chloramphenicol [DG:DG00399]	
+D      D00104  Chloramphenicol (JP17/USP/INN)	
+D      D01072  Chloramphenicol palmitate (JP17/USP)	
+D      D02185  Chloramphenicol sodium succinate (JP17/USP)	
+D      D07674  Chloramphenicol stearate	
+D      D07675  Chloramphenicol succinate	
+C    Cimetidine [DG:DG00017]	
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Ciprofloxacin [DG:DG00617]	
+D      D00186  Ciprofloxacin (JP17/USP/INN)	
+D      D02216  Ciprofloxacin hydrochloride (USP)	
+D      D07702  Ciprofloxacin lactate	
+C    Diltiazem [DG:DG00331]	
+D      D07845  Diltiazem (INN)	
+D      D00616  Diltiazem hydrochloride (JP17/USP)	
+D      D03830  Diltiazem malate (USAN)	
+C    Itraconazole	
+D      D00350  Itraconazole (JP17/USAN)	
+C    Mifepristone	
+D      D00585  Mifepristone (JAN/USAN/INN)	
+C    Norfloxacin [DG:DG00620]	
+D      D00210  Norfloxacin (JP17/USP/INN)	
+C    Saquinavir [DG:DG00653]	
+D      D00429  Saquinavir (JAN/USP/INN)	
+D      D01160  Saquinavir mesylate (USP)	
+C    Verapamil [DG:DG00329]	
+D      D02356  Verapamil (USAN/INN)	
+D      D00619  Verapamil hydrochloride (JP17/USP)	
+B  CYP3A7 [HSA:1551]	
+C    Aprepitant [DG:DG00066]	
+D      D02968  Aprepitant (JAN/USAN/INN)	
+D      D06597  Fosaprepitant dimeglumine (USAN)	
+C    Chloramphenicol [DG:DG00399]	
+D      D00104  Chloramphenicol (JP17/USP/INN)	
+D      D01072  Chloramphenicol palmitate (JP17/USP)	
+D      D02185  Chloramphenicol sodium succinate (JP17/USP)	
+D      D07674  Chloramphenicol stearate	
+D      D07675  Chloramphenicol succinate	
+C    Cimetidine [DG:DG00017]	
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Ciprofloxacin [DG:DG00617]	
+D      D00186  Ciprofloxacin (JP17/USP/INN)	
+D      D02216  Ciprofloxacin hydrochloride (USP)	
+D      D07702  Ciprofloxacin lactate	
+C    Diltiazem [DG:DG00331]	
+D      D07845  Diltiazem (INN)	
+D      D00616  Diltiazem hydrochloride (JP17/USP)	
+D      D03830  Diltiazem malate (USAN)	
+C    Erythromycin [DG:DG00436]	
+D      D00140  Erythromycin (JP17/USP/INN)	
+D      D00851  Erythromycin estolate (USP)	
+D      D01361  Erythromycin ethylsuccinate (JP17/USP)	
+D      D02009  Erythromycin lactobionate (JP17/USP)	
+D      D02184  Erythromycin stearate (JP17/USP)	
+D      D02523  Erythromycin acistrate (USAN)	
+D      D02524  Erythromycin gluceptate (USP)	
+D      D02525  Erythromycin propionate (USAN)	
+D      D04054  Erythromycin salnacedin (USAN)	
+D      D07909  Erythromycin thiocyanate	
+D      D07910  Erythromycin stinoprate (INN)	
+C    Itraconazole	
+D      D00350  Itraconazole (JP17/USAN)	
+C    Mifepristone	
+D      D00585  Mifepristone (JAN/USAN/INN)	
+C    Norfloxacin [DG:DG00620]	
+D      D00210  Norfloxacin (JP17/USP/INN)	
+C    Saquinavir [DG:DG00653]	
+D      D00429  Saquinavir (JAN/USP/INN)	
+D      D01160  Saquinavir mesylate (USP)	
+C    Verapamil [DG:DG00329]	
+D      D02356  Verapamil (USAN/INN)	
+D      D00619  Verapamil hydrochloride (JP17/USP)	
+B  CYP3A [HSA:1576 1577 1551]	
+C    Almorexant	
+D      D09964  Almorexant (INN)	
+C    Alprazolam	Weak (in vivo)
+D      D00225  Alprazolam (JP17/USP/INN)	
+C    Amlodipine [DG:DG00322]	Weak (in vivo)
+D      D07450  Amlodipine (USAN/INN)	
+D      D00615  Amlodipine besylate (USAN)	
+D      D02914  Amlodipine maleate (USAN)	
+C    Amiodarone [DG:DG00204]	Weak (in vivo)
+D      D02910  Amiodarone (USAN/INN)	
+D      D00636  Amiodarone hydrochloride (JP17/USAN)	
+C    Amprenavir	Moderate (in vivo)
+D      D00894  Amprenavir (JAN/USAN/INN)	
+C    Aprepitant [DG:DG00066]	Moderate (in vivo)
+D      D02968  Aprepitant (JAN/USAN/INN)	
+C    Atazanavir [DG:DG00657]	Moderate (in vivo)
+D      D07471  Atazanavir (INN)	
+D      D01276  Atazanavir sulfate (JAN/USAN)	
+C    Atorvastatin [DG:DG00355]	Weak (in vivo)
+D      D07474  Atorvastatin (INN)	
+D      D00887  Atorvastatin calcium anhydorous	
+D      D02258  Atorvastatin calcium (USP)	
+C    Azithromycin [DG:DG00606]	
+D      D07486  Azithromycin (INN)	
+D      D02134  Azithromycin hydrate (JP17)	
+D      D06390  Azithromycin (USP)	
+C    Berberine [DG:DG01773]	
+D      C00757  Berberine	
+D      D01250  Berberine chloride hydrate (JP17)	
+D      D03258  Berberine tannate (JP17)	
+D      D03293  Berberine sulfate hydrate (JAN)	
+C    Bicalutamide	Weak (in vivo)
+D      D00961  Bicalutamide (JAN/USP/INN)	
+C    Boceprevir	Strong (in vivo)
+D      D08876  Boceprevir (INN/USAN)	
+C    Casopitant	
+D      D06574  Casopitant mesylate (USAN)	
+C    Ciclosporin	Weak (in vivo)
+D      D00184  Cyclosporine (USP)	
+C    Cilostazol	Weak (in vivo)
+D      D01896  Cilostazol (JP17/USAN/INN)	
+C    Cimetidine [DG:DG00017]	Weak (in vivo)
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Ciprofloxacin [DG:DG00617]	Moderate (in vivo)
+D      D00186  Ciprofloxacin (JP17/USP/INN)	
+D      D02216  Ciprofloxacin hydrochloride (USP)	
+D      D07702  Ciprofloxacin lactate	
+C    Clarithromycin [DG:DG00605]	Strong (in vivo)
+D      D00276  Clarithromycin (JP17/USP/INN)	
+D      D07710  Clarithromycin lactobionate	
+C    Clotrimazole	
+D      D00282  Clotrimazole (JP17/USP/INN)	
+C    Crizotinib	
+D      D09731  Crizotinib (JAN/USAN/INN)	
+C    Conivaptan [DG:DG00276]	Strong (in vivo)
+D      D07748  Conivaptan (INN)	
+D      D01236  Conivaptan hydrochloride (JAN/USAN)	
+C    Cobicistat	
+D      D09881  Cobicistat (JAN/USAN/INN)	
+C    Chlorzoxazone	
+D      D00771  Chlorzoxazone (JAN/USP/INN)	
+C    Dihydroergotamine	
+D      D07837  Dihydroergotamine (INN)	
+D      D02211  Dihydroergotamine mesylate (USP)	
+D      D07838  Dihydroergotamine tartrate	
+C    Diltiazem [DG:DG00331]	Moderate (in vivo)
+D      D07845  Diltiazem (INN)	
+D      D00616  Diltiazem hydrochloride (JP17/USP)	
+D      D03830  Diltiazem malate (USAN)	
+C    Dronedarone [DG:DG00207]	
+D      D02537  Dronedarone (INN)	
+D      D03914  Dronedarone hydrochloride (USAN)	
+C    Ergotamine [DG:DG00834]	
+D      D07906  Ergotamine (INN)	
+C    Erythromycin [DG:DG00436]	Moderate (in vivo)
+D      D00140  Erythromycin (JP17/USP/INN)	
+D      D00851  Erythromycin estolate (USP)	
+D      D01361  Erythromycin ethylsuccinate (JP17/USP)	
+D      D02009  Erythromycin lactobionate (JP17/USP)	
+D      D02184  Erythromycin stearate (JP17/USP)	
+D      D02523  Erythromycin acistrate (USAN)	
+D      D02524  Erythromycin gluceptate (USP)	
+D      D02525  Erythromycin propionate (USAN)	
+D      D04054  Erythromycin salnacedin (USAN)	
+D      D07909  Erythromycin thiocyanate	
+D      D07910  Erythromycin stinoprate (INN)	
+C    Everolimus	
+D      D02714  Everolimus (JAN/USAN/INN)	
+C    Fluconazole [DG:DG00371]	Moderate (in vivo)
+D      D00322  Fluconazole (JP17/USAN/INN)	
+D      D01429  Fosfluconazole (JAN/INN)	
+C    Fluoxetine [DG:DG00942]	Weak (in vivo)
+D      D00326  Fluoxetine (USAN/INN)	
+D      D00823  Fluoxetine hydrochloride (JAN/USP)	
+C    Fluvoxamine [DG:DG00946]	Weak (in vivo)
+D      D07984  Fluvoxamine (INN)	
+D      D00824  Fluvoxamine maleate (JP17/USAN)	
+C    Fosamprenavir [DG:DG00656]	Moderate (in vivo)
+D      D02497  Fosamprenavir (INN)	
+D      D02867  Fosamprenavir calcium hydrate (JAN)	
+D      D03835  Fosamprenavir calcium (USAN)	
+D      D03837  Fosamprenavir sodium (USAN)	
+C    Fosaprepitant	
+D      D06597  Fosaprepitant dimeglumine (USAN)	
+C    Gemfibrozil	
+D      D00334  Gemfibrozil (JAN/USP/INN)	
+C    Goldenseal	Weak (in vivo)
+D      E00777  Goldenseal	
+C    Grapefruit juice	Strong (in vivo)
+D      E00839  Grapefruit juice	
+C    Imatinib [DG:DG00710]	Moderate (in vivo)
+D      D08066  Imatinib (INN)	
+D      D01441  Imatinib mesylate (USAN)	
+C    Indinavir	Strong (in vivo)
+D      D03833  Indinavir (USAN)	
+D      D00897  Indinavir sulfate (USAN)	
+D      D02861  Indinavir sulfate ethanolate (JAN)	
+C    Isoniazid [DG:DG00642]	Weak (in vivo)
+D      D00346  Isoniazid (JP17/USP/INN)	
+D      D01501  Isoniazid calcium pyruvinate (JAN)	
+D      D02002  Isoniazid sodium methanesulfonate hydrate (JAN)	
+D      D09773  Isoniazid glucuronate sodium (JAN)	
+C    Istradefylline	
+D      D04641  Istradefylline (JAN/USAN/INN)	
+C    Itraconazole	Strong (in vivo)
+D      D00350  Itraconazole (JP17/USAN)	
+C    Ivacaftor	
+D      D09916  Ivacaftor (USAN/INN)	
+C    Ketoconazole	Strong (in vivo)
+D      D00351  Ketoconazole (JP17/USP)	
+C    Lacidipine	
+D      D04657  Lacidipine (USAN/INN)	
+C    Lapatinib [DG:DG00715]	
+D      D08108  Lapatinib (INN)	
+D      D04024  Lapatinib ditosylate (USAN)	
+C    Linagliptin	
+D      D09566  Linagliptin (JAN/USAN/INN)	
+C    Lopinavir/ritonavir	Strong (in vivo)
+D      D02498  Lopinavir mixture with ritonavir	
+C    Lurasidone	
+D      D04820  Lurasidone hydrochloride (JAN/USAN)	
+C    Maraviroc	
+D      D06670  Maraviroc (JAN/INN)	
+C    Mibefradil [DG:DG00328]	Strong (in vivo)
+D      D08217  Mibefradil (INN)	
+D      D05024  Mibefradil dihydrochloride (USAN)	
+C    Miconazole [DG:DG00004]	
+D      D00416  Miconazole (JP17/USP/INN)	
+D      D00882  Miconazole nitrate (JP17/USP)	
+C    Nefazodone	Strong (in vivo)
+D      D00819  Nefazodone hydrochloride (USAN)	
+C    Nelfinavir [DG:DG00655]	Strong (in vivo)
+D      D08259  Nelfinavir (INN)	
+D      D00899  Nelfinavir mesylate (USAN/INN)	
+C    Nilotinib [DG:DG00716]	Weak (in vivo)
+D      D08953  Nilotinib (USAN/INN)	
+D      D06413  Nilotinib hydrochloride hydrate (JAN)	
+C    Pazopanib	
+D      D05380  Pazopanib hydrochloride (JAN/USAN)	
+C    Posaconazole	Strong (in vivo)
+D      D02555  Posaconazole (JAN/USAN/INN)	
+C    Propiverine [DG:DG00479]	
+D      D08441  Propiverine (INN)	
+D      D01007  Propiverine hydrochloride (JP17)	
+C    Ranitidine [DG:DG00018]	
+D      D00422  Ranitidine (USAN/INN)	
+D      D00673  Ranitidine hydrochloride (JP17/USP)	
+C    Ranolazine [DG:DG00247]	Weak (in vivo)
+D      D05700  Ranolazine (USAN/INN)	
+D      D05701  Ranolazine hydrochloride (USAN)	
+C    Ritonavir	Strong (in vivo)
+D      D00427  Ritonavir (JAN/USAN/INN)	
+C    Roxithromycin	
+D      D01710  Roxithromycin (JP17/USAN/INN)	
+C    Saquinavir [DG:DG00653]	Strong (in vivo)
+D      D00429  Saquinavir (JAN/USP/INN)	
+D      D01160  Saquinavir mesylate (USP)	
+C    Tacrolimus [DG:DG00439]	
+D      D08556  Tacrolimus (INN)	
+D      D00107  Tacrolimus (USAN/INN)	
+C    Telaprevir	Strong (in vivo)
+D      D08257  Nefazodone (INN)	
+D      D09012  Telaprevir (JAN/USAN/INN)	
+C    Telithromycin	Strong (in vivo)
+D      D01078  Telithromycin (JAN/USAN/INN)	
+C    Ticagrelor	
+D      D09017  Ticagrelor (USAN/INN)	
+C    Troleandomycin	
+D      D01322  Troleandomycin (USP/INN)	
+C    Tofisopam	
+D      D01254  Tofisopam (JP17/INN)	
+C    Tolvaptan	
+D      D01213  Tolvaptan (JAN/USAN/INN)	
+C    Valsartan	
+D      D00400  Valsartan (JP17/USAN/INN)	
+C    Verapamil [DG:DG00329]	Moderate (in vivo)
+D      D02356  Verapamil (USAN/INN)	
+D      D00619  Verapamil hydrochloride (JP17/USP)	
+C    Voriconazole	Strong (in vivo)
+D      D00578  Voriconazole (JP17/USAN/INN)	
+C    Zileuton	Weak (in vivo)
+D      D00414  Zileuton (USP/INN)	
+B  CYP17 [HSA:1586]	
+C    Liarozole	
+D      D03781  Liarozole fumarate (USAN)	
+D      D03784  Liarozole hydrochloride (USAN)	
+A<b>CYP inducers</b>	
+B  CYP1A2 [HSA:1544]	
+C    Armodafinil	
+D      D03215  Armodafinil (USAN/INN)	
+C    Dexlansoprazole	
+D      D08903  Dexlansoprazole (INN/USAN)	
+C    Esomeprazole [DG:DG00023]	
+D      D07917  Esomeprazole (INN)	
+D      D01984  Esomeprazole magnesium (USAN)	
+D      D04056  Esomeprazole sodium (USAN)	
+D      D09339  Esomeprazole potassium (USAN)	
+D      D10120  Esomeprazole strontium (USAN)	
+C    Insulin	
+D      D00085  Insulin (JAN/USP)	
+"D      D04541  Insulin human, isophane (USP)"	
+D      D04542  Insulin human zinc (USP)	
+"D      D04543  Insulin human zinc, extended (USP)"	
+"D      D04547  Insulin, isophane (USP)"	
+"D      D04549  Insulin zinc, extended (USP)"	
+"D      D04550  Insulin zinc, prompt (USP)"	
+D      D04551  Insulin zinc (USP)	
+D      D05622  Proinsulin human (USAN)	
+"D      D08080  Insulin injection, biphasic isophane (BAN)"	
+C    Insulin (human)	
+D      D03230  Insulin human (USP/INN)	
+C    Insulin (pork)	
+"D      D04548  Insulin, neutral (USAN)"	
+C    Insulin lispro	
+D      D04477  Insulin lispro (USP/INN)	
+C    Insulin aspart	
+D      D04475  Insulin aspart (USAN/INN)	
+C    Insulin glulisine	
+D      D04540  Insulin glulisine (USAN/INN)	
+C    Insulin glargine	
+D      D03250  Insulin glargine (USAN/INN)	
+C    Insulin detemir	
+D      D04539  Insulin detemir (USAN/INN)	
+C    Lansoprazole	#NAME?
+D      D00355  Lansoprazole (JP17/USP/INN)	
+C    Modafinil	
+D      D01832  Modafinil (JAN/USAN/INN)	
+C    Montelukast [DG:DG01066]	Moderate (in vivo)
+D      D08229  Montelukast (INN)	
+D      D00529  Montelukast sodium (JP17/USAN)	
+C    Moricizine	Weak (in vivo)
+D      D05077  Moricizine (USAN)	
+D      D02087  Moricizine hydrochloride (USP)	
+C    Nafcillin [DG:DG00544]	
+D      D08242  Nafcillin (INN)	
+D      D00928  Nafcillin sodium (USP)	
+C    Omeprazole	Weak (in vivo) / - (in vitro)
+D      D00455  Omeprazole (JP17/USP/INN)	
+D      D01207  Omeprazole sodium (USAN)	
+D      D05259  Omeprazole magnesium (USAN)	
+D      D05261  Omeprazole sodium injection (JAN)	
+C    Phenobarbital [DG:DG00845]	Weak (in vivo)
+D      D00506  Phenobarbital (JP17/USP/INN)	
+D      D00701  Phenobarbital sodium (JAN/USP/INN)	
+D      D08356  Phenobarbital diethylamine	
+C    Phenytoin [DG:DG00846]	Moderate (in vivo)
+D      D00512  Phenytoin (JP17/USP/INN)	
+D      D02103  Phenytoin sodium (USP)	
+C    Zileuton	
+D      D00414  Zileuton (USP/INN)	
+B  CYP2B6 [HSA:1555]	
+C    Efavirenz	Moderate (in vivo)
+D      D00896  Efavirenz (JAN/INN)	
+C    Fosphenytoin [DG:DG00847]	
+D      D07993  Fosphenytoin (INN)	
+D      D02096  Fosphenytoin sodium (USP)	
+D      D07595  Fosphenytoin sodium hydrate (JAN)	
+C    Nevirapine	Weak (in vivo)
+D      D00435  Nevirapine (JAN/USP/INN)	
+C    Phenobarbital [DG:DG00845]	#NAME?
+D      D00506  Phenobarbital (JP17/USP/INN)	
+D      D00701  Phenobarbital sodium (JAN/USP/INN)	
+D      D08356  Phenobarbital diethylamine	
+C    Rifampicin [DG:DG00639]	Moderate (in vivo)
+D      D00211  Rifampin (USP)	
+D      D08479  Rifampicin sodium	
+B  CYP2C8 [HSA:1558]	
+C    Rifampicin [DG:DG00639]	Moderate (in vivo) / - (in vitro)
+D      D00211  Rifampin (USP)	
+D      D08479  Rifampicin sodium	
+C    Dabrafenib	
+D      D10104  Dabrafenib mesylate (USAN)	
+C    Fluvoxamine [DG:DG00946]	
+D      D07984  Fluvoxamine (INN)	
+D      D00824  Fluvoxamine maleate (JP17/USAN)	
+B  CYP2C9 [HSA:1559]	
+C    Aprepitant [DG:DG00066]	Weak (in vivo)
+D      D02968  Aprepitant (JAN/USAN/INN)	
+C    Bosentan [DG:DG00266]	Weak (in vivo)
+D      D07538  Bosentan (INN)	
+D      D01227  Bosentan (USAN)	
+C    Carbamazepine	Moderate (in vivo)
+D      D00252  Carbamazepine (JP17/USP/INN)	
+C    Phenobarbital [DG:DG00845]	Weak (in vivo)
+D      D00506  Phenobarbital (JP17/USP/INN)	
+D      D00701  Phenobarbital sodium (JAN/USP/INN)	
+D      D08356  Phenobarbital diethylamine	
+C    Rifampicin [DG:DG00639]	Moderate (in vivo) / - (in vitro)
+D      D00211  Rifampin (USP)	
+D      D08479  Rifampicin sodium	
+C    Secobarbital [DG:DG00917]	
+D      D00430  Secobarbital (USP/INN)	
+D      D01310  Secobarbital sodium (JAN/USP)	
+C    St. John's wort	Weak (in vivo)
+D      E00784  St. John's wort	
+B  CYP2C19 [HSA:1557]	
+C    Artemisinin	Weak (in vivo)
+D      D02481  Artemisinin (INN)	
+C    Carbamazepine	
+D      D00252  Carbamazepine (JP17/USP/INN)	
+C    Norethisterone	
+D      D00182  Norethindrone (USP)	
+D      D00953  Norethindrone acetate (USP)	
+C    Prednisone	
+D      D00473  Prednisone (USP)	
+D      D08416  Prednisone acetate	
+C    Rifabutin	
+D      D00424  Rifabutin (JAN/USP/INN)	
+C    Rifampicin [DG:DG00639]	Moderate (in vivo) / - (in vitro)
+D      D00211  Rifampin (USP)	
+D      D08479  Rifampicin sodium	
+C    Ritonavir	
+D      D00427  Ritonavir (JAN/USAN/INN)	
+B  CYP2D6 [HSA:1565]	
+C    Dexamethasone [DG:DG00011]	
+D      D00292  Dexamethasone (JP17/USP/INN)	
+D      D00975  Dexamethasone sodium phosphate (JAN/USP)	
+D      D01510  Dexamethasone metasulfobenzoate sodium (JAN)	
+D      D01615  Dexamethasone palmitate (JAN)	
+D      D01632  Dexamethasone dipropionate (USAN)	
+D      D01948  Dexamethasone valerate (JAN)	
+D      D02174  Dexamethasone acetate (JAN/USP)	
+D      D02591  Dexamethasone acefurate (USAN/INN)	
+D      D02592  Dexamethasone beloxil (USAN)	
+D      D07073  Dexamethasone cipecilate (JAN/INN)	
+D      D07796  Dexamethasone 21-acetate	
+D      D07797  Dexamethasone isonicotinate	
+D      D07798  Dexamethasone sodium hemisulfate	
+D      D07799  Dexamethasone 21-tebutate	
+D      D07800  Dexamethasone 21-valerate	
+D      D07801  Dexamethasone phenylpropionate	
+D      D07802  Dexamethasone phosphate	
+C    Rifampicin [DG:DG00639]	
+D      D00211  Rifampin (USP)	
+D      D08479  Rifampicin sodium	
+B  CYP2E1 [HSA:1571]	
+C    Isoniazid [DG:DG00642]	
+D      D00346  Isoniazid (JP17/USP/INN)	
+D      D01501  Isoniazid calcium pyruvinate (JAN)	
+D      D02002  Isoniazid sodium methanesulfonate hydrate (JAN)	
+D      D09773  Isoniazid glucuronate sodium (JAN)	
+B  CYP3A4 [HSA:1576]	
+C    Bosentan [DG:DG00266]	
+D      D07538  Bosentan (INN)	
+D      D01227  Bosentan (USAN)	
+C    Carbamazepine	
+D      D00252  Carbamazepine (JP17/USP/INN)	
+C    Dabrafenib	
+D      D10104  Dabrafenib mesylate (USAN)	
+C    Dexamethasone [DG:DG00011]	
+D      D01615  Dexamethasone palmitate (JAN)	
+C    Fosphenytoin [DG:DG00847]	
+D      D07993  Fosphenytoin (INN)	
+D      D02096  Fosphenytoin sodium (USP)	
+D      D07595  Fosphenytoin sodium hydrate (JAN)	
+C    Nevirapine	
+D      D00435  Nevirapine (JAN/USP/INN)	
+C    Phenobarbital [DG:DG00845]	
+D      D00506  Phenobarbital (JP17/USP/INN)	
+D      D00701  Phenobarbital sodium (JAN/USP/INN)	
+D      D08356  Phenobarbital diethylamine	
+C    Rifampicin [DG:DG00639]	#NAME?
+D      D00211  Rifampin (USP)	
+D      D08479  Rifampicin sodium	
+C    Rifabutin	
+D      D00424  Rifabutin (JAN/USP/INN)	
+B  CYP3A5 [HSA:1577]	
+C    Carbamazepine	
+D      D00252  Carbamazepine (JP17/USP/INN)	
+C    Nevirapine	
+D      D00435  Nevirapine (JAN/USP/INN)	
+C    Oxcarbazepine	
+D      D00533  Oxcarbazepine (JAN/USAN/INN)	
+C    Phenobarbital [DG:DG00845]	
+D      D00506  Phenobarbital (JP17/USP/INN)	
+D      D00701  Phenobarbital sodium (JAN/USP/INN)	
+D      D08356  Phenobarbital diethylamine	
+C    Rifabutin	
+D      D00424  Rifabutin (JAN/USP/INN)	
+C    Troglitazone	
+D      D00395  Troglitazone (JAN/USAN/INN)	
+B  CYP3A7 [HSA:1551]	
+C    Carbamazepine	
+D      D00252  Carbamazepine (JP17/USP/INN)	
+C    Nevirapine	
+D      D00435  Nevirapine (JAN/USP/INN)	
+C    Oxcarbazepine	
+D      D00533  Oxcarbazepine (JAN/USAN/INN)	
+C    Phenobarbital [DG:DG00845]	
+D      D00506  Phenobarbital (JP17/USP/INN)	
+D      D00701  Phenobarbital sodium (JAN/USP/INN)	
+D      D08356  Phenobarbital diethylamine	
+C    Rifabutin	
+D      D00424  Rifabutin (JAN/USP/INN)	
+C    Troglitazone	
+D      D00395  Troglitazone (JAN/USAN/INN)	
+B  CYP3A [HSA:1576 1577 1551]	
+C    Amprenavir	Weak (in vivo)
+D      D00894  Amprenavir (JAN/USAN/INN)	
+C    Aprepitant [DG:DG00066]	Weak (in vivo)
+D      D02968  Aprepitant (JAN/USAN/INN)	
+C    Armodafinil	Weak (in vivo)
+D      D03215  Armodafinil (USAN/INN)	
+C    Avasimibe	Strong (in vivo)
+D      D03012  Avasimibe (USAN/INN)	
+C    Bosentan [DG:DG00266]	Moderate (in vivo)
+D      D07538  Bosentan (INN)	
+D      D01227  Bosentan (USAN)	
+C    Carbamazepine	Strong (in vivo)
+D      D00252  Carbamazepine (JP17/USP/INN)	
+C    Clobazam	
+D      D01253  Clobazam (JAN/USAN/INN)	
+C    Echinacea	Weak (in vivo)
+D      E00764  Echinacea	
+C    Efavirenz	Moderate (in vivo)
+D      D00896  Efavirenz (JAN/INN)	
+C    Etravirine	Moderate (in vivo)
+D      D04112  Etravirine (JAN/USAN/INN)	
+C    Modafinil	Moderate (in vivo)
+D      D01832  Modafinil (JAN/USAN/INN)	
+C    Nafcillin	Moderate (in vivo)
+D      D08242  Nafcillin (INN)	
+D      D00928  Nafcillin sodium (USP)	
+C    Phenobarbital [DG:DG00845]	
+D      D00506  Phenobarbital (JP17/USP/INN)	
+D      D00701  Phenobarbital sodium (JAN/USP/INN)	
+D      D08356  Phenobarbital diethylamine	
+C    Phenytoin [DG:DG00846]	Strong (in vivo)
+D      D00512  Phenytoin (JP17/USP/INN)	
+D      D02103  Phenytoin sodium (USP)	
+C    Pioglitazone	Weak (in vivo)
+D      D08378  Pioglitazone (INN)	
+D      D00945  Pioglitazone hydrochloride (JP17/USP)	
+C    Prednisone	Weak (in vivo)
+D      D00473  Prednisone (USP)	
+D      D08416  Prednisone acetate	
+C    Rifampicin [DG:DG00639]	Strong (in vivo)
+D      D00211  Rifampin (USP)	
+D      D08479  Rifampicin sodium	
+C    Rifabutin	
+D      D00424  Rifabutin (JAN/USP/INN)	
+C    Rufinamide	Weak (in vivo)
+D      D05775  Rufinamide (JAN/USAN/INN)	
+C    St. John's wort	Strong (in vivo)
+D      E00784  St. John's wort	
+C    Vemurafenib	Weak (in vivo)
+D      D09996  Vemurafenib (JAN/USAN/INN)	
+A<b>CYP substrates</b>	
+B  CYP1A1 [HSA:1543]	
+C    Methoxsalen	
+D      D00139  Methoxsalen (JP17/USP)	
+C    Ramosetron [dg:DG01239]	
+D      D08466  Ramosetron (INN)	
+D      D02016  Ramosetron hydrochloride (JAN)	
+C    Istradefylline	
+D      D04641  Istradefylline (JAN/USAN/INN)	
+C    Acotiamide	
+D      D08838  Acotiamide hydrochloride (USAN)	
+C    Riociguat	
+D      D09572  Riociguat (JAN/INN)	
+C    Delamanid	
+D      D09785  Delamanid (JAN/USAN)	
+C    Anagrelide [dg:DG00727]	
+D      D07455  Anagrelide (INN/BAN)	
+D      D02933  Anagrelide hydrochloride (USAN)	
+D      D10255  Anagrelide hydrochloride hydrate (JAN)	
+B  CYP1A2 [HSA:1544]	
+C    Adrenaline - lidocaine	
+D      D04052  Adrenaline - lidocaine hydrochloride mixt	
+C    Alosetron	Sensitive (in vivo)
+D      D07129  Alosetron (INN)	
+D      D02829  Alosetron hydrochloride (USAN)	
+C    Amiodarone [DG:DG00204]	
+D      D02910  Amiodarone (USAN/INN)	
+D      D00636  Amiodarone hydrochloride (JP17/USAN)	
+C    Aminophylline	
+D      D05429  Aminophylline hydrate (JP17)	
+C    Amitriptyline [DG:DG00934]	
+D      D07448  Amitriptyline (INN)	
+D      D00809  Amitriptyline hydrochloride (JP17/USP)	
+C    Amoxapine	
+D      D00228  Amoxapine (JP17/USP/INN)	
+C    Armodafinil	
+D      D03215  Armodafinil (USAN/INN)	
+C    Antipyrine	
+D      D01776  Antipyrine (JP17/USP)	
+C    Bortezomib	
+D      D03150  Bortezomib (JAN/USAN/INN)	
+C    Caffeine	Sensitive (in vivo)
+D      D00528  Caffeine (USP)	
+D      D01453  Caffeine hydrate (JP17)	
+D      D07603  Caffeine citrate (USP)	
+C    Carvedilol [DG:DG00321]	
+D      D00255  Carvedilol (JAN/USAN/INN)	
+D      D03415  Carvedilol phosphate (USAN)	
+C    Chlorzoxazone	
+D      D00771  Chlorzoxazone (JAN/USP/INN)	
+C    Choline theophyllinate	
+D      D02017  Oxtriphylline (USP)	
+C    Cimetidine [DG:DG00017]	
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Ciprofloxacin [DG:DG00617]	
+D      D00186  Ciprofloxacin (JP17/USP/INN)	
+D      D02216  Ciprofloxacin hydrochloride (USP)	
+D      D07702  Ciprofloxacin lactate	
+C    Clomipramine [DG:DG00929]	
+D      D07727  Clomipramine (INN)	
+D      D00811  Clomipramine hydrochloride (JP17/USP)	
+C    Clopidogrel [DG:DG00155]	
+D      D07729  Clopidogrel (USP/INN)	
+D      D00769  Clopidogrel bisulfate (USAN)	
+C    Clozapine	
+D      D00283  Clozapine (JAN/USP/INN)	
+C    Cyclobenzaprine [DG:DG00775]	
+D      D07758  Cyclobenzaprine (INN)	
+D      D00772  Cyclobenzaprine hydrochloride (USP)	
+C    Dantrolene [DG:DG00778]	
+D      D02347  Dantrolene (USAN/INN)	
+D      D02274  Dantrolene sodium (USAN)	
+C    Dexpropranolol	
+D      D03729  Dexpropranolol hydrochloride (USAN)	
+C    Duloxetine [DG:DG00962]	Sensitive (in vivo)
+D      D07880  Duloxetine (INN)	
+D      D01179  Duloxetine hydrochloride (JAN/USAN)	
+C    Eltrombopag	
+D      D03978  Eltrombopag olamine (JAN/USAN)	
+C    Enoxacin [DG:DG00619]	
+D      D00310  Enoxacin (USAN/INN)	
+D      D05461  Enoxacin hydrate (JP17)	
+C    Erlotinib [DG:DG00711]	
+D      D04023  Erlotinib hydrochloride (JAN/USAN)	
+D      D07907  Erlotinib (INN)	
+C    Estradiol [DG:DG00462]	
+D      D00105  Estradiol (JAN/USP/INN)	
+D      D01413  Estradiol valerate (JAN/USP/INN)	
+D      D01617  Estradiol dipropionate (JAN)	
+D      D01953  Estradiol benzoate (JP17)	
+D      D04061  Estradiol acetate (USAN)	
+D      D04063  Estradiol cypionate (USP)	
+D      D04064  Estradiol enanthate (USAN)	
+D      D04065  Estradiol undecylate (USAN/INN)	
+D      D07918  Estradiol hemihydrate	
+D      D07919  Estradiol 17 beta-hemisuccinate	
+C    Fluvoxamine [DG:DG00946]	
+D      D07984  Fluvoxamine (INN)	
+D      D00824  Fluvoxamine maleate (JP17/USAN)	
+C    Fosamprenavir [DG:DG00656]	
+D      D02497  Fosamprenavir (INN)	
+D      D02867  Fosamprenavir calcium hydrate (JAN)	
+D      D03835  Fosamprenavir calcium (USAN)	
+D      D03837  Fosamprenavir sodium (USAN)	
+C    Haloperidol [DG:DG00885]	
+D      D00136  Haloperidol (JP17/USP/INN)	
+D      D01898  Haloperidol decanoate (JAN/USAN)	
+D      D08035  Haloperidol lactate	
+C    Imipramine [DG:DG00928]	
+D      D00815  Imipramine hydrochloride (JP17/USP)	
+C    Levobupivacaine	
+D      D01287  Levobupivacaine hydrochloride (JAN/USAN)	
+C    Lidocaine [DG:DG00196]	
+D      D00358  Lidocaine (JP17/USP/INN)	
+D      D02086  Lidocaine hydrochloride (JAN/USP)	
+D      D08127  Lidocaine hydrochloride monohydrate	
+C    Melatonin	Sensitive (in vivo)
+D      D08170  Melatonin	
+C    Methoxsalen	
+D      D00139  Methoxsalen (JP17/USP)	
+C    Mexiletine [DG:DG00197]	
+D      D08215  Mexiletine (INN)	
+D      D00639  Mexiletine hydrochloride (JP17/USP)	
+C    Mianserin [DG:DG00951]	
+D      D08216  Mianserin (INN)	
+D      D01358  Mianserin hydrochloride (JAN/USAN)	
+C    Mirtazapine	
+D      D00563  Mirtazapine (JAN/USAN/INN)	
+C    Modafinil	
+D      D01832  Modafinil (JAN/USAN/INN)	
+C    Naproxen [DG:DG00455]	
+D      D00118  Naproxen (JP17/USP/INN)	
+D      D00970  Naproxen sodium (USP)	
+D      D10017  Naproxen etemesil (USAN)	
+C    Naratriptan [DG:DG00837]	
+D      D08255  Naratriptan (INN)	
+D      D00674  Naratriptan hydrochloride (JAN/USAN)	
+C    Nicotine	
+D      D03365  Nicotine (USP)	
+C    Norfloxacin [DG:DG00620]	
+D      D00210  Norfloxacin (JP17/USP/INN)	
+D      D08287  Norfloxacin nicotinate	
+C    Olanzapine [DG:DG00898]	
+D      D00454  Olanzapine (JAN/USAN/INN)	
+D      D06623  Olanzapine pamoate (USAN)	
+C    Ondansetron [DG:DG00060]	
+D      D00456  Ondansetron (JAN/USP/INN)	
+D      D00678  Ondansetron hydrochloride hydrate (JAN/USP)	
+C    Palonosetron [DG:DG00064]	
+D      D07175  Palonosetron (INN)	
+D      D05343  Palonosetron hydrochloride (JAN/USAN)	
+C    Paracetamol	
+D      D00217  Acetaminophen (JP17/USP)	
+C    Phenacetin	
+D      D00569  Phenacetin (JAN/INN)	
+C    Pimozide	
+D      D00560  Pimozide (JP17/USP/INN)	
+C    Pirfenidone	
+D      D01583  Pirfenidone (JAN/USAN/INN)	
+C    Propafenone [DG:DG00200]	
+D      D08435  Propafenone (INN)	
+D      D00640  Propafenone hydrochloride (JP17/USP)	
+C    Propranolol [DG:DG00305]	
+D      D08443  Propranolol (INN)	
+D      D00483  Propranolol hydrochloride (JP17/USP)	
+C    Ramelteon	Sensitive (in vivo)
+D      D02689  Ramelteon (JAN/USAN/INN)	
+C    Ramosetron [DG:DG01239]	
+D      D08466  Ramosetron (INN)	
+D      D02016  Ramosetron hydrochloride (JAN)	
+C    Riluzole	
+D      D00775  Riluzole (JAN/USAN/INN)	
+C    Ropinirole [DG:DG00862]	
+D      D08489  Ropinirole (USAN/INN)	
+D      D00784  Ropinirole hydrochloride (JAN/USAN)	
+C    Ropivacaine [DG:DG00806]	
+D      D08490  Ropivacaine (INN)	
+D      D04048  Ropivacaine hydrochloride (USP)	
+C    Tacrine	Sensitive (in vivo)
+D      D08555  Tacrine (INN)	
+D      D02068  Tacrine hydrochloride (USP)	
+C    Tamoxifen [DG:DG00734]	
+D      D08559  Tamoxifen (INN)	
+D      D00966  Tamoxifen citrate (JP17/USP)	
+C    Theophylline	Narrow therapeutic range (in vivo)
+D      D00371  Theophylline (JP17)	
+D      D01712  Theophylline sodium acetate (JAN)	
+D      D06103  Theophylline (USP)	
+D      D06104  Theophylline sodium glycinate (USP)	
+C    Terbinafine [DG:DG00375]	
+D      D02375  Terbinafine (USAN/INN)	
+D      D02219  Terbinafine hydrochloride (JP17/USP)	
+C    Tizanidine	Sensitive (in vivo) / Narrow therapeutic range (in vivo)
+D      D08611  Tizanidine (INN)	
+D      D00776  Tizanidine hydrochloride (JP17/USAN)	
+C    Sarpogrelate	
+D      D08508  Sarpogrelate (INN)	
+D      D01624  Sarpogrelate hydrochloride (JP17)	
+C    Stiripentol	
+D      D05928  Stiripentol (JAN/USAN/INN)	
+C    Verapamil [DG:DG00329]	
+D      D02356  Verapamil (USAN/INN)	
+D      D00619  Verapamil hydrochloride (JP17/USP)	
+C    Warfarin [DG:DG00149]	
+D      D08682  Warfarin (INN)	
+D      D00564  Warfarin sodium (USP)	
+D      D01280  Warfarin potassium (JP17)	
+C    Zileuton	
+D      D00414  Zileuton (USP/INN)	
+C    Zolmitriptan	
+D      D00415  Zolmitriptan (JAN/USAN/INN)	
+C    Zolpidem [DG:DG00922]	
+D      D08690  Zolpidem (INN)	
+D      D00706  Zolpidem tartrate (JP17/USAN)	
+B  CYP1B1 [HSA:1545]	
+C    Estradiol [DG:DG00462]	
+D      D00105  Estradiol (JAN/USP/INN)	
+B  CYP2A6 [HSA:1548]	
+C    Letrozole	
+D      D00964  Letrozole (JAN/USP/INN)	
+C    Methoxsalen	
+D      D00139  Methoxsalen (JP17/USP)	
+C    Nabumetone	
+D      D00425  Nabumetone (JP17/USP/INN)	
+C    Nicotine	
+D      D03365  Nicotine (USP)	
+C    Pilocarpine [DG:DG00992]	
+D      D00525  Pilocarpine (JAN/USP)	
+D      D02200  Pilocarpine hydrochloride (JP17/USP)	
+D      D05478  Pilocarpine nitrate (USP)	
+D      D08376  Pilocarpine borate	
+C    Rivaroxaban	
+D      D07086  Rivaroxaban (JAN/USAN/INN)	
+B  CYP2B6 [HSA:1555]	
+C    Armodafinil	
+D      D03215  Armodafinil (USAN/INN)	
+C    Bupropion	Sensitive (in vivo)
+D      D07591  Bupropion (INN)	
+D      D00817  Bupropion hydrochloride (JAN/USP)	
+D      D07938  Bupropion hydrobromide (USAN)	
+C    Carbamazepine	
+D      D00252  Carbamazepine (JP17/USP/INN)	
+C    Clopidogrel [DG:DG00155]	
+D      D07729  Clopidogrel (USP/INN)	
+D      D00769  Clopidogrel bisulfate (USAN)	
+C    Cyclophosphamide [DG:DG00675]	
+D      D07760  Cyclophosphamide (INN)	
+D      D00287  Cyclophosphamide (USP)	
+C    Dabrafenib	
+D      D10104  Dabrafenib mesylate (USAN)	
+C    Efavirenz	Sensitive (in vivo)
+D      D00896  Efavirenz (JAN/INN)	
+C    Ifosfamide	
+D      D00343  Ifosfamide (JAN/USP/INN)	
+C    Levomethadone [DG:DG01002]	
+D      D08121  Levomethadone (INN)	
+D      D08122  Levomethadone hydrochloride	
+C    Methadone [DG:DG00999]	
+D      D08195  Methadone (BAN)	
+D      D02102  Methadone hydrochloride (JAN/USP)	
+C    Modafinil	
+D      D01832  Modafinil (JAN/USAN/INN)	
+C    Phenytoin [DG:DG00846]	
+D      D00512  Phenytoin (JP17/USP/INN)	
+D      D02103  Phenytoin sodium (USP)	
+"C    Phenytoin, combinations"	
+D      D03844  Phenytoin - phenobarbital - caffeine and sodium benzoate	
+D      D07583  Phenytoin - phenobarbital mixt	
+C    Sertraline [DG:DG00945]	
+D      D02360  Sertraline (INN)	
+D      D00825  Sertraline hydrochloride (JAN/USAN)	
+C    Sorafenib [DG:DG00713]	
+D      D08524  Sorafenib (USAN/INN)	
+D      D06272  Sorafenib tosylate (USAN)	
+B  CYP2C8 [HSA:1558]	
+C    Amodiaquine [DG:DG01017]	
+D      D02922  Amodiaquine (USAN/INN)	
+D      D02466  Amodiaquine hydrochloride (USP)	
+C    Carbamazepine	
+D      D00252  Carbamazepine (JP17/USP/INN)	
+C    Cerivastatin [DG:DG00356]	
+D      D07661  Cerivastatin (INN)	
+D      D00889  Cerivastatin sodium (JAN/USAN)	
+C    Cyclophosphamide [DG:DG00675]	
+D      D07760  Cyclophosphamide (INN)	
+D      D00287  Cyclophosphamide (USP)	
+C    Dabrafenib	
+D      D10104  Dabrafenib mesylate (USAN)	
+C    Eltrombopag	
+D      D03978  Eltrombopag olamine (JAN/USAN)	
+C    Glimepiride and pioglitazone	
+D      D09848  Pioglitazone hydrochloride and glimepiride tablets (JP17)	
+C    Lapatinib [DG:DG00715]	
+D      D08108  Lapatinib (INN)	
+D      D04024  Lapatinib ditosylate (USAN)	
+C    Montelukast [DG:DG01066]	
+D      D08229  Montelukast (INN)	
+D      D00529  Montelukast sodium (JP17/USAN)	
+C    Mozavaptane	
+D      D01855  Mozavaptane hydrochloride (JAN)	
+C    Nilotinib [DG:DG00716]	
+D      D08953  Nilotinib (USAN/INN)	
+D      D06413  Nilotinib hydrochloride hydrate (JAN)	
+C    Paclitaxel	Narrow therapeutic range (in vivo)
+D      D00491  Paclitaxel (JAN/USP/INN)	
+C    Pioglitazone [DG:DG00117]	
+D      D08378  Pioglitazone (INN)	
+D      D00945  Pioglitazone hydrochloride (JP17/USP)	
+C    Repaglinide	Sensitive (in vivo)
+D      D00594  Repaglinide (JAN/USP/INN)	
+C    Retinol	
+D      D06543  Vitamin A (USP)	
+D      D00164  Retinol palmitate (JP17)	
+D      D01621  Retinol acetate (JP17)	
+D      D08477  Retinol propionate	
+C    Rosiglitazone [DG:DG00116]	
+D      D08491  Rosiglitazone (INN)	
+D      D00596  Rosiglitazone maleate (JAN/USAN)	
+C    Sorafenib [DG:DG00713]	
+D      D08524  Sorafenib (USAN/INN)	
+D      D06272  Sorafenib tosylate (USAN)	
+C    Terbinafine [DG:DG00375]	
+D      D02375  Terbinafine (USAN/INN)	
+D      D02219  Terbinafine hydrochloride (JP17/USP)	
+C    Tolbutamide [DG:DG00115]	
+D      D00380  Tolbutamide (JP17/USP/INN)	
+"D      D06177  Tolbutamide sodium, sterile"	
+C    Torasemide [DG:DG00273]	
+D      D00382  Torsemide (USP)	
+D      D08619  Torasemide sodium	
+C    Vardenafil [DG:DG00487]	
+D      D08668  Vardenafil (INN)	
+D      D02731  Vardenafil dihydrochoride (USAN)	
+D      D03260  Vardenafil hydrochloride hydrate (JAN)	
+D      D09989  Vardenafil hydrochloride (USAN)	
+C    Vitamin A	
+D      D00069  Vitamin A oil (JP17)	
+C    Zopiclone	
+D      D01372  Zopiclone (JAN/INN)	
+B  CYP2C9 [HSA:1559]	
+C    Amiodarone [DG:DG00204]	
+D      D02910  Amiodarone (USAN/INN)	
+D      D00636  Amiodarone hydrochloride (JP17/USAN)	
+C    Ampiroxicam	
+D      D01397  Ampiroxicam (JP17/INN)	
+C    Armodafinil	
+D      D03215  Armodafinil (USAN/INN)	
+C    Cimetidine [DG:DG00017]	
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Benzbromarone	
+D      D01056  Benzbromarone (JP17/USAN/INN)	
+C    Bepridil [DG:DG00333]	
+D      D07520  Bepridil (INN)	
+D      D00631  Bepridil hydrochloride (USAN)	
+C    Bosentan [DG:DG00266]	
+D      D07538  Bosentan (INN)	
+D      D01227  Bosentan (USAN)	
+C    Candesartan [DG:DG00350]	
+D      D00522  Candesartan (USAN/INN)	
+D      D00626  Candesartan cilexetil (JP17/USAN)	
+C    Capecitabine	
+D      D01223  Capecitabine (JAN/USAN/INN)	
+C    Carvedilol [DG:DG00321]	
+D      D00255  Carvedilol (JAN/USAN/INN)	
+D      D03415  Carvedilol phosphate (USAN)	
+C    Celecoxib	Sensitive (in vivo)
+D      D00567  Celecoxib (JAN/USAN/INN)	
+C    Cyclophosphamide [DG:DG00675]	
+D      D07760  Cyclophosphamide (INN)	
+D      D00287  Cyclophosphamide (USP)	
+C    Dabrafenib	
+D      D10104  Dabrafenib mesylate (USAN)	
+C    Delavirdine [DG:DG00662]	
+D      D07782  Delavirdine (INN)	
+D      D00895  Delavirdine mesylate (USAN)	
+C    Diclofenac [DG:DG00441]	
+D      D07816  Diclofenac (USAN/INN)	
+D      D00903  Diclofenac potassium (USAN)	
+D      D00904  Diclofenac sodium (JP17/USP)	
+D      D07817  Diclofenac diethylamine	
+D      D07818  Diclofenac hydroxyethylpyrrolidine	
+D      D07819  Diclofenac calcium	
+C    Dronabinol	
+D      D00306  Dronabinol (USP/INN)	
+C    Entacapone	
+D      D00781  Entacapone (JAN/USAN/INN)	
+C    Etizolam	
+D      D01514  Etizolam (JP17/INN)	
+C    Etravirine	
+D      D04112  Etravirine (JAN/USAN/INN)	
+C    Fluconazole [DG:DG00371]	
+D      D00322  Fluconazole (JP17/USAN/INN)	
+D      D01429  Fosfluconazole (JAN/INN)	
+C    Fluoxetine [DG:DG00942]	
+D      D00326  Fluoxetine (USAN/INN)	
+D      D00823  Fluoxetine hydrochloride (JAN/USP)	
+C    Flurbiprofen	
+D      D00330  Flurbiprofen (JP17/USP/INN)	
+D      D02290  Flurbiprofen sodium (USP)	
+D      D01475  Flurbiprofen axetil (JAN)	
+D      D10254  Esflurbiprofen (JAN)	
+C    Fluvastatin [DG:DG00354]	
+D      D07983  Fluvastatin (INN)	
+D      D00892  Fluvastatin sodium (JAN/USAN)	
+C    Fosamprenavir [DG:DG00656]	
+D      D02497  Fosamprenavir (INN)	
+D      D02867  Fosamprenavir calcium hydrate (JAN)	
+D      D03835  Fosamprenavir calcium (USAN)	
+D      D03837  Fosamprenavir sodium (USAN)	
+C    Fosphenytoin [DG:DG00847]	
+D      D07993  Fosphenytoin (INN)	
+D      D02096  Fosphenytoin sodium (USP)	
+D      D07595  Fosphenytoin sodium hydrate (JAN)	
+C    Glibenclamide	
+D      D00336  Glyburide (USP)	
+C    Glimepiride	
+D      D00593  Glimepiride (JP17/USP/INN)	
+C    Glipizide	
+D      D00335  Glipizide (USP/INN)	
+C    Hexobarbital	
+D      D01071  Hexobarbital (JAN/INN)	
+C    Ibuprofen [DG:DG00245]	
+D      D00126  Ibuprofen (JP17/USP/INN)	
+D      D01122  Ibuprofen piconol (JP17/USAN)	
+D      D04490  Ibuprofen aluminum (USAN)	
+D      D06606  Ibuprofen lysine (USAN)	
+D      D08058  Ibuprofen arginine salt	
+D      D08059  Ibuprofen sodium	
+D      D09760  Ibuprofen sodium (USAN)	
+C    Imatinib [DG:DG00710]	
+D      D08066  Imatinib (INN)	
+D      D01441  Imatinib mesylate (USAN)	
+C    Irbesartan	
+D      D00523  Irbesartan (JP17/USAN/INN)	
+C    Leflunomide	
+D      D00749  Leflunomide (JAN/USAN/INN)	
+C    Lornoxicam	
+D      D01866  Lornoxicam (JAN/USAN/INN)	
+C    Losartan [DG:DG00348]	
+D      D08146  Losartan (INN)	
+D      D00357  Losartan potassium (JP17/USAN)	
+C    Losartan and diuretics	
+D      D07895  Losartan potassium and hydrochlorothiazide tablets (JP17)	
+D      D09848  Pioglitazone hydrochloride and glimepiride tablets (JP17)	
+C    Mefenamic acid	
+D      D00151  Mefenamic acid (JP17/USP/INN)	
+C    Meloxicam	
+D      D00969  Meloxicam (JAN/USAN/INN)	
+C    Miconazole [DG:DG00004]	
+D      D00416  Miconazole (JP17/USP/INN)	
+D      D00882  Miconazole nitrate (JP17/USP)	
+C    Modafinil	
+D      D01832  Modafinil (JAN/USAN/INN)	
+C    Mofezolac	
+D      D01718  Mofezolac (JAN/INN)	
+C    Montelukast [DG:DG01066]	
+D      D08229  Montelukast (INN)	
+D      D00529  Montelukast sodium (JP17/USAN)	
+C    Naproxen [DG:DG00455]	
+D      D00118  Naproxen (JP17/USP/INN)	
+D      D00970  Naproxen sodium (USP)	
+D      D10017  Naproxen etemesil (USAN)	
+C    Naratriptan [DG:DG00837]	
+D      D08255  Naratriptan (INN)	
+D      D00674  Naratriptan hydrochloride (JAN/USAN)	
+C    Nateglinide	
+D      D01111  Nateglinide (JP17/USAN/INN)	
+C    Nelfinavir [DG:DG00655]	
+D      D08259  Nelfinavir (INN)	
+D      D00899  Nelfinavir mesylate (USAN/INN)	
+C    Phenytoin [DG:DG00846]	Narrow therapeutic range (in vivo)
+D      D00512  Phenytoin (JP17/USP/INN)	
+D      D02103  Phenytoin sodium (USP)	
+"C    Phenytoin, combinations"	
+D      D03844  Phenytoin - phenobarbital - caffeine and sodium benzoate	
+D      D07583  Phenytoin - phenobarbital mixt	
+C    Piroxicam [DG:DG00752]	
+D      D00127  Piroxicam (JP17/USP/INN)	
+D      D05511  Piroxicam betadex (USAN)	
+D      D05512  Piroxicam cinnamate (USAN)	
+D      D05513  Piroxicam olamine (USAN)	
+C    Pitavastatin [DG:DG01838]	
+D      D01862  Pitavastatin calcium (JAN)	
+D      D10568  Pitavastatin calcium hydrate (JP17)	
+C    Quazepam	
+D      D00457  Quazepam (JAN/USP/INN)	
+C    Rosiglitazone [DG:DG00116]	
+D      D08491  Rosiglitazone (INN)	
+D      D00596  Rosiglitazone maleate (JAN/USAN)	
+C    Sarpogrelate	
+D      D08508  Sarpogrelate (INN)	
+D      D01624  Sarpogrelate hydrochloride (JP17)	
+C    Sertraline [DG:DG00945]	
+D      D02360  Sertraline (INN)	
+D      D00825  Sertraline hydrochloride (JAN/USAN)	
+C    Sildenafil [DG:DG00484]	
+D      D08514  Sildenafil (INN)	
+D      D02229  Sildenafil citrate (JAN/USAN)	
+C    Simvastatin	
+D      D00434  Simvastatin (JP17/USP/INN)	
+C    Sorafenib [DG:DG00713]	
+D      D08524  Sorafenib (USAN/INN)	
+D      D06272  Sorafenib tosylate (USAN)	
+C    Suprofen	
+D      D00452  Suprofen (JAN/USP/INN)	
+C    Tamoxifen [DG:DG00734]	
+D      D08559  Tamoxifen (INN)	
+D      D00966  Tamoxifen citrate (JP17/USP)	
+C    Terbinafine [DG:DG00375]	
+D      D02375  Terbinafine (USAN/INN)	
+D      D02219  Terbinafine hydrochloride (JP17/USP)	
+C    Tenoxicam	
+D      D01767  Tenoxicam (JAN/USAN/INN)	
+C    Tolbutamide [DG:DG00115]	
+D      D00380  Tolbutamide (JP17/USP/INN)	
+"D      D06177  Tolbutamide sodium, sterile"	
+C    Torasemide [DG:DG00273]	
+D      D00382  Torsemide (USP)	
+D      D08619  Torasemide sodium	
+C    Tranilast	
+D      D02027  Tranilast (JP17/USAN/INN)	
+C    Trimethadione	
+D      D00392  Trimethadione (JP17/INN)	
+C    Valproic acid [DG:DG00849]	
+D      D00399  Valproic acid (USP)	
+D      D00304  Divalproex sodium (USP)	
+D      D00710  Valproate sodium (USAN)	
+D      D08667  Calcium valproate	
+C    Valsartan	
+D      D00400  Valsartan (JP17/USAN/INN)	
+C    Vardenafil [DG:DG00487]	
+D      D08668  Vardenafil (INN)	
+D      D02731  Vardenafil dihydrochoride (USAN)	
+D      D03260  Vardenafil hydrochloride hydrate (JAN)	
+D      D09989  Vardenafil hydrochloride (USAN)	
+C    Voriconazole	
+D      D00578  Voriconazole (JP17/USAN/INN)	
+C    Warfarin [DG:DG00149]	Narrow therapeutic range (in vivo)
+D      D08682  Warfarin (INN)	
+D      D00564  Warfarin sodium (USP)	
+D      D01280  Warfarin potassium (JP17)	
+C    Zolpidem [DG:DG00922]	
+D      D08690  Zolpidem (INN)	
+D      D00706  Zolpidem tartrate (JP17/USAN)	
+B  CYP2C18 [HSA:1562]	
+C    Diazepam	
+D      D00293  Diazepam (JP17/USP/INN)	
+B  CYP2C19 [HSA:1557]	
+C    Amitriptyline [DG:DG00934]	
+D      D07448  Amitriptyline (INN)	
+D      D00809  Amitriptyline hydrochloride (JP17/USP)	
+C    Amoxapine	
+D      D00228  Amoxapine (JP17/USP/INN)	
+C    Armodafinil	
+D      D03215  Armodafinil (USAN/INN)	
+C    Bortezomib	
+D      D03150  Bortezomib (JAN/USAN/INN)	
+C    Bosentan [DG:DG00266]	
+D      D07538  Bosentan (INN)	
+D      D01227  Bosentan (USAN)	
+C    Carisoprodol	
+D      D00768  Carisoprodol (JAN/USP/INN)	
+C    Chloramphenicol [DG:DG00399]	
+D      D00104  Chloramphenicol (JP17/USP/INN)	
+D      D01072  Chloramphenicol palmitate (JP17/USP)	
+D      D02185  Chloramphenicol sodium succinate (JP17/USP)	
+D      D07674  Chloramphenicol stearate	
+D      D07675  Chloramphenicol succinate	
+C    Cilnidipine	
+D      D01173  Cilnidipine (JP17/INN)	
+C    Cilostazol	
+D      D01896  Cilostazol (JP17/USAN/INN)	
+C    Clopidogrel [DG:DG00155]	
+D      D07729  Clopidogrel (USP/INN)	
+D      D00769  Clopidogrel bisulfate (USAN)	
+C    Clobazam	
+D      D01253  Clobazam (JAN/USAN/INN)	
+C    Clomipramine [DG:DG00929]	
+D      D07727  Clomipramine (INN)	
+D      D00811  Clomipramine hydrochloride (JP17/USP)	
+C    Dabrafenib	
+D      D10104  Dabrafenib mesylate (USAN)	
+C    Delavirdine [DG:DG00662]	
+D      D07782  Delavirdine (INN)	
+D      D00895  Delavirdine mesylate (USAN)	
+C    Dexlansoprazole	
+D      D08903  Dexlansoprazole (INN/USAN)	
+C    Dexpropranolol	
+D      D03729  Dexpropranolol hydrochloride (USAN)	
+C    Diazepam	
+D      D00293  Diazepam (JP17/USP/INN)	
+C    Escitalopram [DG:DG00947]	
+D      D07913  Escitalopram (INN)	
+D      D02567  Escitalopram oxalate (JAN/USAN)	
+C    Esomeprazole [DG:DG00023]	
+D      D07917  Esomeprazole (INN)	
+D      D01984  Esomeprazole magnesium (USAN)	
+D      D04056  Esomeprazole sodium (USAN)	
+D      D09339  Esomeprazole potassium (USAN)	
+D      D10120  Esomeprazole strontium (USAN)	
+C    Etizolam	
+D      D01514  Etizolam (JP17/INN)	
+C    Etravirine	
+D      D04112  Etravirine (JAN/USAN/INN)	
+C    Fluconazole [DG:DG00371]	
+D      D00322  Fluconazole (JP17/USAN/INN)	
+D      D01429  Fosfluconazole (JAN/INN)	
+C    Flurazepam [DG:DG00919]	
+D      D00329  Flurazepam (JAN/INN)	
+D      D00695  Flurazepam hydrochloride (USP)	
+D      D01408  Flurazepam hydrochloride (JP17)	
+C    Fluvoxamine [DG:DG00946]	
+D      D07984  Fluvoxamine (INN)	
+D      D00824  Fluvoxamine maleate (JP17/USAN)	
+C    Fosphenytoin [DG:DG00847]	
+D      D07993  Fosphenytoin (INN)	
+D      D02096  Fosphenytoin sodium (USP)	
+D      D07595  Fosphenytoin sodium hydrate (JAN)	
+C    Hexobarbital	
+D      D01071  Hexobarbital (JAN/INN)	
+C    Imipramine [DG:DG00928]	
+D      D08070  Imipramine (INN)	
+D      D00815  Imipramine hydrochloride (JP17/USP)	
+D      D08071  Imipramine pamoate (USP)	
+C    Indometacin [DG:DG00241]	
+D      D00141  Indomethacin (USP)	
+D      D01565  Indometacin farnesil (JAN)	
+D      D02110  Indomethacin sodium (USP)	
+C    Lansoprazole	Sensitive (in vivo)
+D      D00355  Lansoprazole (JP17/USP/INN)	
+"C    Lansoprazole, amoxicillin and clarithromycin"	
+D      D08774  Amoxicillin hydrate - clarithromycin - lansoprazole mixt	
+C    Leflunomide	
+D      D00749  Leflunomide (JAN/USAN/INN)	
+C    Mephenytoin	
+D      D00375  Mephenytoin (USP/INN)	
+C    S-mephenytoin	Sensitive (in vivo) / Narrow therapeutic range (in vivo)
+D      C20130  (S)-Mephenytoin	
+C    Mephobarbital	
+D      D00700  Mephobarbital (JAN/USP)	
+C    Moclobemide	
+D      D02561  Moclobemide (USAN/INN)	
+C    Modafinil	
+D      D01832  Modafinil (JAN/USAN/INN)	
+C    Nelfinavir [DG:DG00655]	
+D      D08259  Nelfinavir (INN)	
+D      D00899  Nelfinavir mesylate (USAN/INN)	
+C    Nilutamide	
+D      D00965  Nilutamide (USAN/INN)	
+C    Nordazepam	
+D      D08283  Nordazepam (INN)	
+C    Omeprazole	Sensitive (in vivo)
+D      D00455  Omeprazole (JP17/USP/INN)	
+D      D01207  Omeprazole sodium (USAN)	
+D      D05261  Omeprazole sodium injection (JAN)	
+D      D05259  Omeprazole magnesium (USAN)	
+C    Pantoprazole [DG:DG00021]	
+D      D05353  Pantoprazole (USAN/INN)	
+D      D02593  Pantoprazole sodium (USAN)	
+C    Phenobarbital [DG:DG00845]	
+D      D00506  Phenobarbital (JP17/USP/INN)	
+D      D00701  Phenobarbital sodium (JAN/USP/INN)	
+D      D08356  Phenobarbital diethylamine	
+C    Phenytoin [DG:DG00846]	
+D      D00512  Phenytoin (JP17/USP/INN)	
+D      D02103  Phenytoin sodium (USP)	
+"C    Phenytoin, combinations"	
+D      D03844  Phenytoin - phenobarbital - caffeine and sodium benzoate	
+D      D07583  Phenytoin - phenobarbital mixt	
+C    Primidone	
+D      D00474  Primidone (JP17/USP/INN)	
+C    Progesterone	
+D      D00066  Progesterone (JP17/USP/INN)	
+C    Proguanil [DG:DG01018]	
+D      D08428  Proguanil (INN)	
+D      D02487  Proguanil hydrochloride (JAN)	
+C    Propranolol [DG:DG00305]	
+D      D08443  Propranolol (INN)	
+D      D00483  Propranolol hydrochloride (JP17/USP)	
+C    Rabeprazole [DG:DG00022]	
+D      D08463  Rabeprazole (INN)	
+D      D00724  Rabeprazole sodium (JP17/USAN)	
+C    Sarpogrelate	
+D      D08508  Sarpogrelate (INN)	
+D      D01624  Sarpogrelate hydrochloride (JP17)	
+C    Sertraline [DG:DG00945]	
+D      D02360  Sertraline (INN)	
+D      D00825  Sertraline hydrochloride (JAN/USAN)	
+C    Stiripentol	
+D      D05928  Stiripentol (JAN/USAN/INN)	
+C    Terbinafine [DG:DG00375]	
+D      D02375  Terbinafine (USAN/INN)	
+D      D02219  Terbinafine hydrochloride (JP17/USP)	
+C    Teniposide	
+D      D02698  Teniposide (USAN/INN)	
+C    Vardenafil [DG:DG00487]	
+D      D08668  Vardenafil (INN)	
+D      D02731  Vardenafil dihydrochoride (USAN)	
+D      D03260  Vardenafil hydrochloride hydrate (JAN)	
+D      D09989  Vardenafil hydrochloride (USAN)	
+C    Voriconazole	
+D      D00578  Voriconazole (JP17/USAN/INN)	
+B  CYP2D6 [HSA:1565]	
+C    Ajmaline	
+D      D00199  Ajmaline (JP17)	
+C    Alprenolol [DG:DG00303]	
+D      D07156  Alprenolol (INN)	
+D      D01182  Alprenolol hydrochloride (JP17/USAN)	
+C    Amfetamine [DG:DG00966]	
+D      D07445  Amfetamine (INN)	
+D      D02074  Amphetamine sulfate (USP)	
+C    Amiodarone [DG:DG00204]	
+D      D02910  Amiodarone (USAN/INN)	
+D      D00636  Amiodarone hydrochloride (JP17/USAN)	
+C    Amitriptyline [DG:DG00934]	
+D      D07448  Amitriptyline (INN)	
+D      D00809  Amitriptyline hydrochloride (JP17/USP)	
+C    Amoxapine	
+D      D00228  Amoxapine (JP17/USP/INN)	
+C    Aprindine	
+D      D02969  Aprindine (USAN/INN)	
+C    Aripiprazole	
+D      D01164  Aripiprazole (JAN/USAN/INN)	
+C    Atenolol	
+D      D00235  Atenolol (JP17/USP/INN)	
+C    Atomoxetine	Sensitive (in vivo)
+D      D07473  Atomoxetine (INN)	
+D      D02574  Atomoxetine hydrochloride (JAN/USAN)	
+C    Bepridil [DG:DG00333]	
+D      D07520  Bepridil (INN)	
+D      D00631  Bepridil hydrochloride (USAN)	
+C    Bopindolol [DG:DG00310]	
+D      D07537  Bopindolol (INN)	
+D      D01794  Bopindolol malonate (JAN)	
+C    Bunitrolol	
+D      D01444  Bunitrolol hydrochloride (JAN)	
+C    Carteolol [DG:DG00308]	
+D      D07624  Carteolol (INN)	
+D      D00599  Carteolol hydrochloride (JP17/USP)	
+C    Carvedilol [DG:DG00321]	
+D      D00255  Carvedilol (JAN/USAN/INN)	
+D      D03415  Carvedilol phosphate (USAN)	
+C    Celecoxib	
+D      D00567  Celecoxib (JAN/USAN/INN)	
+C    Cevimeline [DG:DG00993]	
+D      D07667  Cevimeline (INN)	
+D      D00661  Cevimeline hydrochloride (USAN)	
+C    Chlorphenamine [DG:DG01099]	
+D      D07398  Chlorphenamine (INN)	
+D      D00665  Chlorpheniramine maleate (JP17/USP)	
+D      D03475  Chlorpheniramine polistirex (USAN)	
+C    Chlorpromazine [DG:DG00867]	
+D      D00270  Chlorpromazine (USP/INN)	
+D      D00789  Chlorpromazine hydrochloride (JP17/USP)	
+D      D03274  Chlorpromazine hibenzate (JAN)	
+D      D04034  Chlorpromazine phenolphthalinate (JAN)	
+D      D09819  Chlorpromazine tannate (JAN)	
+C    Cibenzoline [DG:DG00209]	
+D      D03492  Cifenline (USAN)	
+D      D01455  Cifenline succinate (USAN)	
+C    Cilnidipine	
+D      D01173  Cilnidipine (JP17/INN)	
+C    Cilostazol	
+D      D01896  Cilostazol (JP17/USAN/INN)	
+C    Cimetidine [DG:DG00017]	
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Cinnarizine [DG:DG01005]	
+D      D01295  Cinnarizine (JAN/USAN/INN)	
+D      D07734  Cinnarizine dihydrochloride	
+C    Citalopram [DG:DG00943]	
+D      D07704  Citalopram (USP/INN)	
+D      D00822  Citalopram hydrobromide (USAN)	
+D      D07705  Citalopram hydrochloride	
+C    Clomipramine [DG:DG00929]	
+D      D07727  Clomipramine (INN)	
+D      D00811  Clomipramine hydrochloride (JP17/USP)	
+C    Codeine	
+D      D00195  Codeine (USP)	
+D      D02101  Codeine phosphate (USP)	
+D      D03580  Codeine sulfate (USP)	
+D      D07740  Codeine hydrochloride	
+C    Debrisoquine	
+D      D03664  Debrisoquin sulfate (USAN)	
+C    Delavirdine [DG:DG00662]	
+D      D07782  Delavirdine (INN)	
+D      D00895  Delavirdine mesylate (USAN)	
+C    Desipramine	Sensitive (in vivo)
+D      D07791  Desipramine (INN)	
+D      D00812  Desipramine hydrochloride (JAN/USP)	
+C    Dexamfetamine [DG:DG00967]	
+D      D03740  Dextroamphetamine (USAN)	
+D      D02078  Dextroamphetamine sulfate (USP)	
+C    Dexchlorpheniramine [DG:DG01098]	
+D      D07803  Dexchlorpheniramine (INN)	
+D      D00668  Dexchlorpheniramine maleate (USP)	
+C    Dexfenfluramine [DG:DG00105]	
+D      D07805  Dexfenfluramine (INN)	
+D      D03713  Dexfenfluramine hydrochloride (USAN)	
+C    Dexpropranolol	
+D      D03729  Dexpropranolol hydrochloride (USAN)	
+C    Dextromethorphan [DG:DG01078]	Sensitive (in vivo)
+D      D00848  Dextromethorphan hydrobromide (USP)	
+D      D03742  Dextromethorphan (USP)	
+D      D03744  Dextromethorphan polistirex (USAN)	
+D      D04340  Dextromethorphan hydrobromide - potassium cresolsulfonate mixt	
+C    Dihydrocodeine	
+D      D07831  Dihydrocodeine (INN)	
+D      D01481  Dihydrocodeine phosphate (JP17)	
+C    Diphenhydramine [DG:DG00390]	
+D      D00300  Diphenhydramine (JP17/INN)	
+D      D00669  Diphenhydramine hydrochloride (JP17/USP)	
+D      D02419  Diphenhydramine salicylate (JAN)	
+D      D03285  Diphenhydramine tannate (JP17)	
+D      D03360  Diphenhydramine laurylsulfate (JAN)	
+D      D03854  Diphenhydramine citrate (USP)	
+C    Donepezil [DG:DG00983]	
+D      D07869  Donepezil (INN)	
+D      D00670  Donepezil hydrochloride (JP17/USAN)	
+C    Dosulepin	
+D      D01546  Dothiepin hydrochloride (USAN)	
+C    Doxepin [DG:DG00937]	
+D      D07875  Doxepin (INN)	
+D      D00814  Doxepin hydrochloride (USP)	
+C    Duloxetine [DG:DG00962]	
+D      D07880  Duloxetine (INN)	
+D      D01179  Duloxetine hydrochloride (JAN/USAN)	
+C    Encainide [DG:DG00203]	
+D      D07894  Encainide (INN)	
+D      D03991  Encainide hydrochloride (USAN)	
+C    Escitalopram [DG:DG00947]	
+D      D07913  Escitalopram (INN)	
+D      D02567  Escitalopram oxalate (JAN/USAN)	
+C    Ethanol	
+D      D00068  Alcohol (USP)	
+D      D06542  Ethanol (JP17)	
+C    Fluoxetine [DG:DG00942]	
+D      D00326  Fluoxetine (USAN/INN)	
+D      D00823  Fluoxetine hydrochloride (JAN/USP)	
+C    Flecainide [DG:DG00201]	
+D      D07962  Flecainide (INN)	
+D      D00638  Flecainide acetate (JP17/USP)	
+C    Flunarizine [DG:DG01006]	
+D      D07971  Flunarizine (INN)	
+D      D01303  Flunarizine hydrochloride (JAN/USAN)	
+C    Fluphenazine	
+D      D07977  Fluphenazine (INN)	
+D      D00791  Fluphenazine hydrochloride (JAN/USP)	
+D      D00793  Fluphenazine decanoate (JAN/USP)	
+C    Fluvoxamine [DG:DG00946]	
+D      D07984  Fluvoxamine (INN)	
+D      D00824  Fluvoxamine maleate (JP17/USAN)	
+C    Fosamprenavir [DG:DG00656]	
+D      D02497  Fosamprenavir (INN)	
+D      D02867  Fosamprenavir calcium hydrate (JAN)	
+D      D03835  Fosamprenavir calcium (USAN)	
+D      D03837  Fosamprenavir sodium (USAN)	
+C    Haloperidol [DG:DG00885]	
+D      D00136  Haloperidol (JP17/USP/INN)	
+D      D01898  Haloperidol decanoate (JAN/USAN)	
+D      D08035  Haloperidol lactate	
+C    Imatinib [DG:DG00710]	
+D      D08066  Imatinib (INN)	
+D      D01441  Imatinib mesylate (USAN)	
+C    Imipramine [DG:DG00928]	
+D      D08070  Imipramine (INN)	
+D      D00815  Imipramine hydrochloride (JP17/USP)	
+D      D08071  Imipramine pamoate (USP)	
+C    Leflunomide	
+D      D00749  Leflunomide (JAN/USAN/INN)	
+C    Levomepromazine [DG:DG00868]	
+D      D00403  Methotrimeprazine (USP)	
+D      D01520  Levomepromazine hydrochloride (JAN/USAN)	
+D      D02248  Levomepromazine maleate (JP17/USAN)	
+C    Lidocaine [DG:DG00196]	
+D      D00358  Lidocaine (JP17/USP/INN)	
+D      D02086  Lidocaine hydrochloride (JAN/USP)	
+D      D08127  Lidocaine hydrochloride monohydrate	
+C    Loratadine	
+D      D00364  Loratadine (JAN/USAN/INN)	
+C    Maprotiline [DG:DG00941]	
+D      D02566  Maprotiline (USAN)	
+D      D00818  Maprotiline hydrochloride (JP17/USP)	
+C    Mequitazine	
+D      D01324  Mequitazine (JP17/INN)	
+C    Metoclopramide [DG:DG00055]	
+D      D00726  Metoclopramide (JP17/INN)	
+D      D02213  Metoclopramide hydrochloride (JAN)	
+D      D05008  Metoclopramide hydrochloride (USAN)	
+C    Metoprolol	Sensitive (in vivo)
+D      D02358  Metoprolol (USAN/INN)	
+D      D00601  Metoprolol tartrate (JP17/USP)	
+D      D00635  Metoprolol succinate (USP)	
+D      D05011  Metoprolol fumarate (USP)	
+C    Mexiletine [DG:DG00197]	
+D      D08215  Mexiletine (INN)	
+D      D00639  Mexiletine hydrochloride (JP17/USP)	
+C    Mianserin [DG:DG00951]	
+D      D08216  Mianserin (INN)	
+D      D01358  Mianserin hydrochloride (JAN/USAN)	
+C    Minaprine [DG:DG00954]	
+D      D05039  Minaprine (USAN/INN)	
+D      D05040  Minaprine hydrochloride (USAN)	
+C    Mirtazapine	
+D      D00563  Mirtazapine (JAN/USAN/INN)	
+C    Naratriptan [DG:DG00837]	
+D      D08255  Naratriptan (INN)	
+D      D00674  Naratriptan hydrochloride (JAN/USAN)	
+C    Nateglinide	
+D      D01111  Nateglinide (JP17/USAN/INN)	
+C    Nebivolol	Sensitive (in vivo)
+D      D05127  Nebivolol (USAN/INN)	
+D      D06622  Nebivolol hydrochloride (USAN)	
+C    Nelfinavir [DG:DG00655]	
+D      D08259  Nelfinavir (INN)	
+D      D00899  Nelfinavir mesylate (USAN/INN)	
+C    Nortriptyline [DG:DG00935]	
+D      D08288  Nortriptyline (INN)	
+D      D00816  Nortriptyline hydrochloride (JP17/USP/INN)	
+C    Olanzapine [DG:DG00898]	
+D      D00454  Olanzapine (JAN/USAN/INN)	
+D      D06623  Olanzapine pamoate (USAN)	
+C    Ondansetron [DG:DG00060]	
+D      D00456  Ondansetron (JAN/USP/INN)	
+D      D00678  Ondansetron hydrochloride hydrate (JAN/USP)	
+C    Oxycodone	
+D      D05312  Oxycodone (USAN/INN)	
+D      D00847  Oxycodone hydrochloride (USP)	
+D      D03783  Oxycodone terephthalate (USP)	
+D      D05462  Oxycodone hydrochloride hydrate (JP17)	
+C    Palonosetron [DG:DG00064]	
+D      D07175  Palonosetron (INN)	
+D      D05343  Palonosetron hydrochloride (JAN/USAN)	
+C    Paroxetine [DG:DG00944]	
+D      D02362  Paroxetine (USP/INN)	
+D      D02260  Paroxetine hydrochloride hydrate (JP17)	
+D      D05374  Paroxetine hydrochloride (USP)	
+D      D05375  Paroxetine mesylate (USAN)	
+C    Pergolide [DG:DG00861]	
+D      D08339  Pergolide (INN)	
+D      D00502  Pergolide mesylate (USP)	
+C    Perhexiline [DG:DG00334]	
+D      D08340  Perhexiline (INN)	
+D      D05442  Perhexiline maleate (USAN)	
+C    Perphenazine [DG:DG00875]	Sensitive (in vivo)
+D      D00503  Perphenazine (JP17/USP/INN)	
+D      D02037  Perphenazine maleate (JP17)	
+D      D04038  Perphenazine fendizoate (JAN)	
+D      D04965  Perphenazine hydrochloride	
+D      D08341  Perphenazine decanoate	
+D      D08342  Perphenazine enantate	
+C    Phenacetin	
+D      D00569  Phenacetin (JAN/INN)	
+C    Phenformin [DG:DG00112]	
+D      D08351  Phenformin (BAN)	
+D      D08352  Phenformin hydrochloride	
+C    Pimozide	Narrow therapeutic range (in vivo)
+D      D00560  Pimozide (JP17/USP/INN)	
+C    Pindolol	
+D      D00513  Pindolol (JP17/USP/INN)	
+C    Propafenone [DG:DG00200]	
+D      D08435  Propafenone (INN)	
+D      D00640  Propafenone hydrochloride (JP17/USP)	
+C    Promethazine [DG:DG00385]	
+D      D00494  Promethazine (JAN/INN)	
+D      D00480  Promethazine hydrochloride (JP17/USP)	
+D      D01242  Promethazine teoclate (JAN/INN)	
+D      D03290  Promethazine methylenedisalicylate (JAN)	
+D      D08432  Promethazine maleate	
+D      D08768  Promethazine hibenzate	
+C    Propranolol [DG:DG00305]	
+D      D08443  Propranolol (INN)	
+D      D00483  Propranolol hydrochloride (JP17/USP)	
+C    Ramosetron [DG:DG01239]	
+D      D08466  Ramosetron (INN)	
+D      D02016  Ramosetron hydrochloride (JAN)	
+C    Risperidone	
+D      D00426  Risperidone (JP17/USAN/INN)	
+C    Sarpogrelate	
+D      D08508  Sarpogrelate (INN)	
+D      D01624  Sarpogrelate hydrochloride (JP17)	
+C    Selegiline [DG:DG00864]	
+D      D03731  Selegiline (USAN/INN)	
+D      D00785  Selegiline hydrochloride (JAN/USP)	
+C    Sparteine [DG:DG00195]	
+D      D01041  Sparteine (INN)	
+D      D02239  Sparteine sulfate (JAN/USAN)	
+C    Tamoxifen [DG:DG00734]	
+D      D08559  Tamoxifen (INN)	
+D      D00966  Tamoxifen citrate (JP17/USP)	
+C    Tandospirone	
+D      D08561  Tandospirone (INN)	
+C    Telithromycin	
+D      D01078  Telithromycin (JAN/USAN/INN)	
+C    Thioridazine [DG:DG00882]	Narrow therapeutic range (in vivo)
+D      D00373  Thioridazine (USP/INN)	
+D      D00798  Thioridazine hydrochloride (JP17/USP)	
+C    Timolol [DG:DG00306]	
+D      D08600  Timolol (INN)	
+D      D00378  Timolol (USAN)	
+D      D00603  Timolol maleate (JP17/USP)	
+C    Tolterodine [DG:DG00480]	Sensitive (in vivo)
+D      D00646  Tolterodine (USAN/INN)	
+D      D01148  Tolterodine tartrate (JAN/USAN)	
+C    Tramadol [DG:DG00824]	
+D      D08623  Tramadol (INN)	
+D      D01355  Tramadol hydrochloride (JAN/USAN)	
+C    Trazodone [DG:DG00952]	
+D      D08626  Trazodone (INN)	
+D      D00820  Trazodone hydrochloride (JAN/USP)	
+C    Trimipramine [DG:DG00931]	
+D      D00394  Trimipramine (USAN/INN)	
+D      D02408  Trimipramine maleate (JAN/USAN)	
+C    Tropisetron [DG:DG00062]	
+D      D02130  Tropisetron (INN)	
+D      D02041  Tropisetron hydrochloride (JAN)	
+C    Venlafaxine [DG:DG00959]	Sensitive (in vivo)
+D      D08670  Venlafaxine (INN)	
+D      D00821  Venlafaxine hydrochloride (JAN/USAN)	
+C    Zuclopenthixol [DG:DG00896]	
+D      D03556  Zuclopenthixol (INN)	
+D      D08691  Zuclopenthixol acetate	
+D      D08692  Zuclopenthixol decanoate	
+D      D08693  Zuclopenthixol dihydrochloride	
+B  CYP2J2 [HSA:1573]	
+C    Rivaroxaban	
+D      D07086  Rivaroxaban (JAN/USAN/INN)	
+C    Nabumetone	
+D      D00425  Nabumetone (JP17/USP/INN)	
+B  CYP3A4 [HSA:1576]	
+C    Adrenaline - lidocaine	
+D      D04052  Adrenaline - lidocaine hydrochloride mixt	
+C    Alprazolam	
+D      D00225  Alprazolam (JP17/USP/INN)	
+C    Amitriptyline [DG:DG00934]	
+D      D07448  Amitriptyline (INN)	
+D      D00809  Amitriptyline hydrochloride (JP17/USP)	
+C    Amiodarone [DG:DG00204]	
+D      D02910  Amiodarone (USAN/INN)	
+D      D00636  Amiodarone hydrochloride (JP17/USAN)	
+C    Amlodipine [DG:DG00322]	
+D      D07450  Amlodipine (USAN/INN)	
+D      D00615  Amlodipine besylate (USAN)	
+D      D02914  Amlodipine maleate (USAN)	
+C    Amoxapine	
+D      D00228  Amoxapine (JP17/USP/INN)	
+C    Ampiroxicam	
+D      D01397  Ampiroxicam (JP17/INN)	
+C    Amprenavir	
+D      D00894  Amprenavir (JAN/USAN/INN)	
+C    Anastrozole	
+D      D00960  Anastrozole (JAN/USAN/INN)	
+C    Apixaban	
+D      D03213  Apixaban (JAN/USAN/INN)	
+C    Aprepitant [DG:DG00066]	
+D      D02968  Aprepitant (JAN/USAN/INN)	
+D      D06597  Fosaprepitant dimeglumine (USAN)	
+C    Aprindine	
+D      D01326  Aprindine hydrochloride (JP17/USAN)	
+C    Aranidipine	
+D      D01562  Aranidipine (JAN/INN)	
+C    Aripiprazole	
+D      D01164  Aripiprazole (JAN/USAN/INN)	
+C    Armodafinil	
+D      D03215  Armodafinil (USAN/INN)	
+C    Astemizole	
+D      D00234  Astemizole (JAN/USP/INN)	
+C    Atorvastatin [DG:DG00355]	
+D      D07474  Atorvastatin (INN)	
+D      D00887  Atorvastatin calcium anhydorous	
+D      D02258  Atorvastatin calcium (USP)	
+C    Atorvastatin and amlodipine	
+D      D08488  Amlodipine besilate - atorvastatin calcium mixt	
+C    Axitinib	
+D      D03218  Axitinib (JAN/USAN)	
+C    Atazanavir [DG:DG00657]	
+D      D07471  Atazanavir (INN)	
+D      D01276  Atazanavir sulfate (JAN/USAN)	
+C    Azelnidipine	
+D      D01145  Azelnidipine (JP17/INN)	
+C    Barnidipine [DG:DG00325]	
+D      D07494  Barnidipine (INN)	
+D      D01104  Barnidipine hydrochloride (JAN)	
+C    Benidipine [DG:DG00327]	
+D      D07509  Benidipine (INN)	
+D      D02045  Benidipine hydrochloride (JP17)	
+C    Bepridil [DG:DG00333]	
+D      D07520  Bepridil (INN)	
+D      D00631  Bepridil hydrochloride (USAN)	
+C    Bicalutamide	
+D      D00961  Bicalutamide (JAN/USP/INN)	
+C    Blonanserin	
+D      D01176  Blonanserin (JAN/INN)	
+C    Bosentan [DG:DG00266]	
+D      D07538  Bosentan (INN)	
+D      D01227  Bosentan (USAN)	
+C    Bortezomib	
+D      D03150  Bortezomib (JAN/USAN/INN)	
+C    Bromazepam	
+D      D01245  Bromazepam (JP17/USAN/INN)	
+C    Bromocriptine [DG:DG00452]	
+D      D03165  Bromocriptine (USAN/INN)	
+D      D00780  Bromocriptine mesylate (USP)	
+C    Bromperidol [DG:DG00890]	
+D      D01101  Bromperidol (JAN/USAN/INN)	
+D      D02626  Bromperidol decanoate (USAN)	
+C    Budesonide	
+D      D00246  Budesonide (JAN/USAN/INN)	
+C    Budesonide - formoterol	
+D      D09595  Budesonide - formoterol fumarate dihydrate mixt	
+C    Bupivacaine	
+D      D01450  Bupivacaine hydrochloride (USP)	
+C    Cabergoline	
+D      D00987  Cabergoline (JAN/USAN/INN)	
+C    Caffeine	
+D      D00528  Caffeine (USP)	
+D      D01453  Caffeine hydrate (JP17)	
+C    Candesartan cilexetil - amlodipine besilate	
+D      D07569  Candesartan cilexetil and anmlodipine besylate tablets (JP17)	
+C    Carbamazepine	
+D      D00252  Carbamazepine (JP17/USP/INN)	
+C    Carvedilol [DG:DG00321]	
+D      D00255  Carvedilol (JAN/USAN/INN)	
+D      D03415  Carvedilol phosphate (USAN)	
+C    Cerivastatin [DG:DG00356]	
+D      D07661  Cerivastatin (INN)	
+D      D00889  Cerivastatin sodium (JAN/USAN)	
+C    Cevimeline [DG:DG00993]	
+D      D07667  Cevimeline (INN)	
+D      D00661  Cevimeline hydrochloride (USAN)	
+C    Chloramphenicol [DG:DG00399]	
+D      D00104  Chloramphenicol (JP17/USP/INN)	
+C    Chlorphenamine [DG:DG01099]	
+D      D07398  Chlorphenamine (INN)	
+D      D00665  Chlorpheniramine maleate (JP17/USP)	
+D      D03475  Chlorpheniramine polistirex (USAN)	
+C    Cibenzoline [DG:DG00209]	
+D      D03492  Cifenline (USAN)	
+D      D01455  Cifenline succinate (USAN)	
+C    Ciclesonide	
+D      D01703  Ciclesonide (JAN/USAN/INN)	
+C    Ciclosporin	
+D      D00184  Cyclosporine (USP)	
+C    Cilnidipine	
+D      D01173  Cilnidipine (JP17/INN)	
+C    Cilostazol	
+D      D01896  Cilostazol (JP17/USAN/INN)	
+C    Cimetidine [DG:DG00017]	
+D      D00295  Cimetidine (JP17/USP/INN)	
+D      D03503  Cimetidine hydrochloride (USP)	
+C    Cinacalcet	
+D      D03505  Cinacalcet hydrochloride (JAN/USAN)	
+C    Ciprofloxacin [DG:DG00617]	
+D      D00186  Ciprofloxacin (JP17/USP/INN)	
+D      D02216  Ciprofloxacin hydrochloride (USP)	
+D      D07702  Ciprofloxacin lactate	
+C    Cisapride	
+D      D00274  Cisapride (USAN/INN)	
+D      D02092  Cisapride (JAN)	
+C    Citalopram [DG:DG00943]	
+D      D07704  Citalopram (USP/INN)	
+D      D00822  Citalopram hydrobromide (USAN)	
+D      D07705  Citalopram hydrochloride	
+C    Clarithromycin [DG:DG00605]	
+D      D00276  Clarithromycin (JP17/USP/INN)	
+D      D07710  Clarithromycin lactobionate	
+C    Clobazam	
+D      D01253  Clobazam (JAN/USAN/INN)	
+C    Clomipramine [DG:DG00929]	
+D      D07727  Clomipramine (INN)	
+D      D00811  Clomipramine hydrochloride (JP17/USP)	
+C    Clopidogrel [DG:DG00155]	
+D      D07729  Clopidogrel (USP/INN)	
+D      D00769  Clopidogrel bisulfate (USAN)	
+C    Clozapine	
+D      D00283  Clozapine (JAN/USP/INN)	
+C    Codeine	
+D      D00195  Codeine (USP)	
+D      D02101  Codeine phosphate (USP)	
+D      D03580  Codeine sulfate (USP)	
+D      D07740  Codeine hydrochloride	
+C    Colchicine	
+D      D00570  Colchicine (JP17/USP)	
+C    Colforsin daropate	
+D      D01697  Colforsin daropate hydrochloride (JAN)	
+C    Conjugated estrogens [DG:DG00465]	
+"D      D04070  Estrogens, conjugated (JAN/USP)"	
+"D      D05987  Synthetic conjugated estrogens, B (USAN)"	
+C    Cortisone	
+D      D07749  Cortisone (INN)	
+C    Cyclophosphamide [DG:DG00675]	
+D      D07760  Cyclophosphamide (INN)	
+D      D00287  Cyclophosphamide (USP)	
+C    Dabrafenib	
+D      D10104  Dabrafenib mesylate (USAN)	
+C    Darunavir [DG:DG00659]	
+D      D03656  Darunavir (USAN/INN)	
+D      D06478  Darunavir ethanolate (JAN)	
+C    Delavirdine [DG:DG00662]	
+D      D07782  Delavirdine (INN)	
+D      D00895  Delavirdine mesylate (USAN)	
+C    Dexamethasone [DG:DG00011]	
+D      D00292  Dexamethasone (JP17/USP/INN)	
+D      D00975  Dexamethasone sodium phosphate (JAN/USP)	
+D      D01510  Dexamethasone metasulfobenzoate sodium (JAN)	
+D      D01615  Dexamethasone palmitate (JAN)	
+D      D01632  Dexamethasone dipropionate (USAN)	
+D      D01948  Dexamethasone valerate (JAN)	
+D      D02174  Dexamethasone acetate (JAN/USP)	
+D      D02591  Dexamethasone acefurate (USAN/INN)	
+D      D02592  Dexamethasone beloxil (USAN)	
+D      D07073  Dexamethasone cipecilate (JAN/INN)	
+D      D07796  Dexamethasone 21-acetate	
+D      D07797  Dexamethasone isonicotinate	
+D      D07798  Dexamethasone sodium hemisulfate	
+D      D07799  Dexamethasone 21-tebutate	
+D      D07800  Dexamethasone 21-valerate	
+D      D07801  Dexamethasone phenylpropionate	
+D      D07802  Dexamethasone phosphate	
+C    Dexchlorpheniramine [DG:DG01098]	
+D      D07803  Dexchlorpheniramine (INN)	
+D      D00668  Dexchlorpheniramine maleate (USP)	
+C    Dexlansoprazole	
+D      D08903  Dexlansoprazole (INN/USAN)	
+C    Dexpropranolol	
+D      D03729  Dexpropranolol hydrochloride (USAN)	
+C    Dextromethorphan [DG:DG01078]	
+D      D03742  Dextromethorphan (USP)	
+D      D00848  Dextromethorphan hydrobromide (USP)	
+D      D03744  Dextromethorphan polistirex (USAN)	
+C    Diaphenylsulfone	
+D      D00592  Dapsone (USP)	
+C    Diazepam	
+D      D00293  Diazepam (JP17/USP/INN)	
+C    Dienogest	
+D      D03799  Dienogest (JAN/USAN/INN)	
+C    Diltiazem [DG:DG00331]	
+D      D07845  Diltiazem (INN)	
+D      D00616  Diltiazem hydrochloride (JP17/USP)	
+D      D03830  Diltiazem malate (USAN)	
+C    Disopyramide [DG:DG00194]	
+D      D00303  Disopyramide (JP17/USAN/INN)	
+D      D00637  Disopyramide phosphate (JAN/USP)	
+C    Docetaxel [DG:DG00694]	
+D      D07866  Docetaxel (JAN/INN)	
+D      D02165  Docetaxel (USAN)	
+C    Domperidone [DG:DG00057]	
+D      D01745  Domperidone (JP17/USAN/INN)	
+D      D07868  Domperidone maleate	
+C    Donepezil [DG:DG00983]	
+D      D07869  Donepezil (INN)	
+D      D00670  Donepezil hydrochloride (JP17/USAN)	
+C    Dronabinol	
+D      D00306  Dronabinol (USP/INN)	
+C    Dutasteride	
+D      D03820  Dutasteride (JAN/USAN/INN)	
+C    Efavirenz	
+D      D00896  Efavirenz (JAN/INN)	
+C    Enoxacin [DG:DG00619]	
+D      D00310  Enoxacin (USAN/INN)	
+D      D05461  Enoxacin hydrate (JP17)	
+C    Eplerenone	
+D      D01115  Eplerenone (JP17/USAN/INN)	
+C    Ergometrine [DG:DG00446]	
+D      D07905  Ergometrine (INN)	
+D      D01163  Ergonovine maleate (USP)	
+C    Ergotamine [DG:DG00834]	
+D      D07906  Ergotamine (INN)	
+D      D00679  Ergotamine tartrate (JP17/USP)	
+C    Erlotinib [DG:DG00711]	
+D      D07907  Erlotinib (INN)	
+D      D04023  Erlotinib hydrochloride (JAN/USAN)	
+C    Erythromycin [DG:DG00436]	
+D      D00140  Erythromycin (JP17/USP/INN)	
+D      D00851  Erythromycin estolate (USP)	
+D      D01361  Erythromycin ethylsuccinate (JP17/USP)	
+D      D02009  Erythromycin lactobionate (JP17/USP)	
+D      D02184  Erythromycin stearate (JP17/USP)	
+D      D02523  Erythromycin acistrate (USAN)	
+D      D02524  Erythromycin gluceptate (USP)	
+D      D02525  Erythromycin propionate (USAN)	
+D      D04054  Erythromycin salnacedin (USAN)	
+D      D07909  Erythromycin thiocyanate	
+D      D07910  Erythromycin stinoprate (INN)	
+C    Ethylmorphine	
+D      D02205  Ethylmorphine hydrochloride hydrate (JP17)	
+C    Escitalopram [DG:DG00947]	
+D      D07913  Escitalopram (INN)	
+D      D02567  Escitalopram oxalate (JAN/USAN)	
+C    Esomeprazole [DG:DG00023]	
+D      D07917  Esomeprazole (INN)	
+D      D01984  Esomeprazole magnesium (USAN)	
+D      D04056  Esomeprazole sodium (USAN)	
+D      D09339  Esomeprazole potassium (USAN)	
+C    Estazolam	
+D      D00311  Estazolam (JP17/USAN/INN)	
+C    Ethinylestradiol	
+D      D00554  Ethinyl estradiol (USP)	
+C    Etoposide	
+D      D00125  Etoposide (JP17/USP/INN)	
+C    Etravirine	
+D      D04112  Etravirine (JAN/USAN/INN)	
+C    Exemestane	
+D      D00963  Exemestane (JAN/USP/INN)	
+C    Estradiol [DG:DG00462]	
+D      D00105  Estradiol (JAN/USP/INN)	
+D      D01413  Estradiol valerate (JAN/USP/INN)	
+D      D01617  Estradiol dipropionate (JAN)	
+D      D01953  Estradiol benzoate (JP17)	
+D      D04061  Estradiol acetate (USAN)	
+D      D04063  Estradiol cypionate (USP)	
+D      D04064  Estradiol enanthate (USAN)	
+D      D04065  Estradiol undecylate (USAN/INN)	
+D      D07918  Estradiol hemihydrate	
+D      D07919  Estradiol 17 beta-hemisuccinate	
+"C    Estrogens, esterified"	
+"D      D04071  Estrogens, esterified (USP)"	
+C    Ethosuximide	
+D      D00539  Ethosuximide (JP17/USP/INN)	
+C    Etizolam	
+D      D01514  Etizolam (JP17/INN)	
+C    Ethyl loflazepate	
+D      D01293  Ethyl loflazepate (JAN/INN)	
+C    Felodipine	
+D      D00319  Felodipine (JAN/USP/INN)	
+C    Fentanyl	
+D      D00320  Fentanyl (JAN/USAN/INN)	
+D      D01399  Fentanyl citrate (JP17/USP)	
+"C    Fentanyl, combinations"	
+D      D03852  Droperidol - fentanyl citrate mixt	
+C    Flecainide [DG:DG00201]	
+D      D07962  Flecainide (INN)	
+D      D00638  Flecainide acetate (JP17/USP)	
+C    Fluvastatin [DG:DG00354]	
+D      D07983  Fluvastatin (INN)	
+D      D00892  Fluvastatin sodium (JAN/USAN)	
+C    Fluconazole [DG:DG00371]	
+D      D00322  Fluconazole (JP17/USAN/INN)	
+D      D01429  Fosfluconazole (JAN/INN)	
+C    Finasteride	
+D      D00321  Finasteride (JAN/USP/INN)	
+C    Finasteride	
+D      D00321  Finasteride (JAN/USP/INN)	
+C    Fluvoxamine [DG:DG00946]	
+D      D07984  Fluvoxamine (INN)	
+D      D00824  Fluvoxamine maleate (JP17/USAN)	
+C    Fosamprenavir [DG:DG00656]	
+D      D02497  Fosamprenavir (INN)	
+D      D02867  Fosamprenavir calcium hydrate (JAN)	
+D      D03835  Fosamprenavir calcium (USAN)	
+D      D03837  Fosamprenavir sodium (USAN)	
+C    Gefitinib	
+D      D01977  Gefitinib (JAN/USAN/INN)	
+C    Gemtuzumab	
+D      D03259  Gemtuzumab ozogamicin (USAN)	
+C    Gestodene	
+D      D04316  Gestodene (USAN/INN)	
+C    Haloperidol [DG:DG00885]	
+D      D00136  Haloperidol (JP17/USP/INN)	
+D      D01898  Haloperidol decanoate (JAN/USAN)	
+D      D08035  Haloperidol lactate	
+C    Halothane	
+D      D00542  Halothane (JP17/USP/INN)	
+C    Hydrocortisone [DG:DG00012]	
+D      D00088  Hydrocortisone (JP17/USP/INN)	
+D      D00165  Hydrocortisone acetate (JP17/USP)	
+D      D00976  Hydrocortisone cypionate	
+D      D00977  Hydrocortisone sodium phosphate (JP17/USP)	
+D      D00978  Hydrocortisone sodium succinate (JP17/USP)	
+D      D01442  Hydrocortisone succinate (JP17)	
+D      D01619  Hydrocortisone butyrate (JP17/USP)	
+D      D01886  Hydrocortisone probutate (USAN)	
+D      D02288  Hydrocortisone valerate (USP)	
+D      D04467  Hydrocortisone hemisuccinate (USP)	
+D      D06876  Hydrocortisone aceponate (INN)	
+D      D09796  Hydrocortisone caproate (JAN)	
+C    Hydroquinine	
+D      D08265  Hydroquinine hydrobromide	
+C    Hydroxyzine [DG:DG00912]	
+D      D08054  Hydroxyzine (INN)	
+D      D00672  Hydroxyzine hydrochloride (JP17/USP)	
+D      D01096  Hydroxyzine pamoate (JP17/USP)	
+C    Ifosfamide	
+D      D00343  Ifosfamide (JAN/USP/INN)	
+C    Imidafenacin	
+D      D06273  Imidafenacin (JAN/INN)	
+C    Imipramine [DG:DG00928]	
+D      D08070  Imipramine (INN)	
+D      D00815  Imipramine hydrochloride (JP17/USP)	
+D      D08071  Imipramine pamoate (USP)	
+C    Indinavir	
+D      D03833  Indinavir (USAN)	
+D      D00897  Indinavir sulfate (USAN)	
+D      D02861  Indinavir sulfate ethanolate (JAN)	
+C    Irbesartan and amlodipine	
+D      D10243  Irbesartan - amlodipine besilate mixt	
+C    Isopropylantipyrine - ergotamine tartrate - anhydrous caffeine	
+D      D07585  Isopropylantipyrine - ergotamine tartrate - anhydrous caffeine mixt	
+C    Imatinib [DG:DG00710]	
+D      D08066  Imatinib (INN)	
+D      D01441  Imatinib mesylate (USAN)	
+C    Irinotecan [DG:DG00726]	
+D      D08086  Irinotecan (INN)	
+D      D01061  Irinotecan hydrochloride (USAN)	
+C    Itraconazole	
+D      D00350  Itraconazole (JP17/USAN)	
+C    Josamycin [DG:DG00604]	
+D      D01235  Josamycin (JP17/USAN/INN)	
+D      D05351  Josamycin propionate (JP17)	
+C    Ketoconazole	
+D      D00351  Ketoconazole (JP17/USP)	
+C    Lansoprazole	
+D      D00355  Lansoprazole (JP17/USP/INN)	
+"C    Lansoprazole, amoxicillin and clarithromycin"	
+D      D08774  Amoxicillin hydrate - clarithromycin - lansoprazole mixt	
+C    Lapatinib [DG:DG00715]	
+D      D08108  Lapatinib (INN)	
+D      D04024  Lapatinib ditosylate (USAN)	
+C    Leflunomide	
+D      D00749  Leflunomide (JAN/USAN/INN)	
+C    Lercanidipine [DG:DG00326]	
+D      D08111  Lercanidipine (INN)	
+D      D01849  Lercanidipine hydrochloride (JAN/USAN)	
+C    Letrozole	
+D      D00964  Letrozole (JAN/USP/INN)	
+C    Levacetylmethadol [DG:DG01000]	
+D      D04716  Levomethadyl acetate (USAN)	
+D      D00840  Levomethadyl acetate hydrochloride (USAN)	
+C    Levobupivacaine	
+D      D01287  Levobupivacaine hydrochloride (JAN/USAN)	
+C    Levomethadone [DG:DG01002]	
+D      D08121  Levomethadone (INN)	
+D      D08122  Levomethadone hydrochloride	
+C    Levonorgestrel and estrogen	
+D      D09187  Estradiol - levonorgestrel mixt	
+C    Lidocaine [DG:DG00196]	
+D      D00358  Lidocaine (JP17/USP/INN)	
+D      D02086  Lidocaine hydrochloride (JAN/USP)	
+D      D08127  Lidocaine hydrochloride monohydrate	
+C    Lidocaine hydrochloride - epinephrine bitartrate	
+D      D04813  Lidocaine hydrochloride - epinephrine bitartrate mixt	
+C    Loratadine	
+D      D00364  Loratadine (JAN/USAN/INN)	
+C    Losartan [DG:DG00348]	
+D      D08146  Losartan (INN)	
+D      D00357  Losartan potassium (JP17/USAN)	
+C    Lovastatin	
+D      D00359  Lovastatin (USP/INN)	
+C    Manidipine	
+D      D01553  Manidipine hydrochloride (JP17)	
+C    Meloxicam	
+D      D00969  Meloxicam (JAN/USAN/INN)	
+C    Methylergometrine	
+D      D00680  Methylergonovine maleate (USP)	
+C    Methylprednisolone	
+D      D00407  Methylprednisolone (JP17/USP/INN)	
+D      D00751  Methylprednisolone sodium succinate (JAN/USP)	
+D      D00979  Methylprednisolone acetate (JAN/USP)	
+C    Mexiletine [DG:DG00197]	
+D      D08215  Mexiletine (INN)	
+D      D00639  Mexiletine hydrochloride (JP17/USP)	
+C    Miconazole [DG:DG00004]	
+D      D00416  Miconazole (JP17/USP/INN)	
+D      D00882  Miconazole nitrate (JP17/USP)	
+C    Mometasone	
+D      D08227  Mometasone (INN)	
+D      D00690  Mometasone furoate (JAN/USP)	
+C    Nateglinide	
+D      D01111  Nateglinide (JP17/USAN/INN)	
+C    Methadone [DG:DG00999]	
+D      D08195  Methadone (BAN)	
+D      D02102  Methadone hydrochloride (JAN/USP)	
+C    Methoxyflurane	
+D      D00544  Methoxyflurane (USP/INN)	
+C    Mexazolam	
+D      D01316  Mexazolam (JAN/INN)	
+C    Mianserin [DG:DG00951]	
+D      D08216  Mianserin (INN)	
+D      D01358  Mianserin hydrochloride (JAN/USAN)	
+C    Midazolam [DG:DG00920]	
+D      D00550  Midazolam (JAN/USP/INN)	
+D      D00696  Midazolam hydrochloride (USAN)	
+D      D05028  Midazolam maleate (USAN)	
+C    Mirtazapine	
+D      D00563  Mirtazapine (JAN/USAN/INN)	
+C    Modafinil	
+D      D01832  Modafinil (JAN/USAN/INN)	
+C    Montelukast [DG:DG01066]	
+D      D08229  Montelukast (INN)	
+D      D00529  Montelukast sodium (JP17/USAN)	
+C    Mosapride	
+D      D08236  Mosapride (INN)	
+D      D01994  Mosapride citrate hydrate (JP17)	
+C    Mozavaptane	
+D      D01855  Mozavaptane hydrochloride (JAN)	
+C    Nalfurafine	
+D      D06405  Nalfurafine hydrochloride (JAN/USAN)	
+C    Nelfinavir [DG:DG00655]	
+D      D08259  Nelfinavir (INN)	
+D      D00899  Nelfinavir mesylate (USAN/INN)	
+C    Naratriptan [DG:DG00837]	
+D      D08255  Naratriptan (INN)	
+D      D00674  Naratriptan hydrochloride (JAN/USAN)	
+C    Nilotinib [DG:DG00716]	
+D      D08953  Nilotinib (USAN/INN)	
+D      D06413  Nilotinib hydrochloride hydrate (JAN)	
+C    Nordazepam	
+D      D08283  Nordazepam (INN)	
+C    Norfloxacin [DG:DG00620]	
+D      D00210  Norfloxacin (JP17/USP/INN)	
+C    Nicardipine [DG:DG00323]	
+D      D08270  Nicardipine (INN)	
+D      D00617  Nicardipine hydrochloride (JP17/USAN)	
+C    Nifedipine	
+D      D00437  Nifedipine (JP17/USP/INN)	
+C    Nilvadipine	
+D      D01908  Nilvadipine (JP17/USAN/INN)	
+C    Nimodipine	
+D      D00438  Nimodipine (USAN/INN)	
+C    Nisoldipine	
+D      D00618  Nisoldipine (JAN/USAN/INN)	
+C    Nitrendipine	
+D      D00629  Nitrendipine (JP17/USAN/INN)	
+C    Ofloxacin [DG:DG00616]	
+D      D00453  Ofloxacin (JP17/USP/INN)	
+D      D08291  Ofloxacin hydrochloride	
+C    Olmesartan medoxomil - azelnidipine	
+D      D09594  Olmesartan medoxomil - azelnidipine mixt	
+C    Omeprazole	
+D      D00455  Omeprazole (JP17/USP/INN)	
+D      D01207  Omeprazole sodium (USAN)	
+D      D05259  Omeprazole magnesium (USAN)	
+D      D05261  Omeprazole sodium injection (JAN)	
+C    Ondansetron [DG:DG00060]	
+D      D00456  Ondansetron (JAN/USP/INN)	
+D      D00678  Ondansetron hydrochloride hydrate (JAN/USP)	
+C    Oxycodone	
+D      D05312  Oxycodone (USAN/INN)	
+D      D00847  Oxycodone hydrochloride (USP)	
+D      D03783  Oxycodone terephthalate (USP)	
+D      D05462  Oxycodone hydrochloride hydrate (JP17)	
+C    Paclitaxel	
+D      D00491  Paclitaxel (JAN/USP/INN)	
+C    Palonosetron [DG:DG00064]	
+D      D07175  Palonosetron (INN)	
+D      D05343  Palonosetron hydrochloride (JAN/USAN)	
+C    Paracetamol	
+D      D00217  Acetaminophen (JP17/USP)	
+C    Perospirone	
+D      D02372  Perospirone hydrochloride hydrate (JAN)	
+C    Pimozide	
+D      D00560  Pimozide (JP17/USP/INN)	
+C    Piroxicam [DG:DG00752]	
+D      D00127  Piroxicam (JP17/USP/INN)	
+C    Pranlukast [DG:DG01065]	
+D      D08408  Pranlukast (INN)	
+D      D02732  Pranlukast hydrate (JP17)	
+C    Pravastatin [DG:DG00353]	
+D      D08410  Pravastatin (INN)	
+D      D00893  Pravastatin sodium (JP17/USAN)	
+C    Praziquantel	
+D      D00471  Praziquantel (JAN/USP/INN)	
+C    Progesterone	
+D      D00066  Progesterone (JP17/USP/INN)	
+C    Propranolol [DG:DG00305]	
+D      D08443  Propranolol (INN)	
+D      D00483  Propranolol hydrochloride (JP17/USP)	
+C    Propafenone [DG:DG00200]	
+D      D08435  Propafenone (INN)	
+D      D00640  Propafenone hydrochloride (JP17/USP)	
+C    Propiverine [DG:DG00479]	
+D      D08441  Propiverine (INN)	
+D      D01007  Propiverine hydrochloride (JP17)	
+C    Propranolol [DG:DG00305]	
+D      D08443  Propranolol (INN)	
+D      D00483  Propranolol hydrochloride (JP17/USP)	
+C    Quinidine [DG:DG00192]	
+D      D08458  Quinidine (BAN)	
+D      D00642  Quinidine gluconate (USP)	
+D      D00643  Quinidine polygalacturonate	
+D      D02272  Quinidine sulfate (USP)	
+D      D08459  Quinidine phenylethylbarbiturate	
+C    Quinine [DG:DG01019]	
+D      D08460  Quinine (BAN)	
+D      D02261  Quinine hydrochloride hydrate (JP17)	
+D      D02262  Quinine sulfate (USP)	
+D      D05681  Quinine ascorbate (USAN)	
+D      D08461  Quinine dihydrochloride	
+C    Quinupristin/dalfopristin	
+D      D00854  Quinupristin - dalfopristin mixt	
+C    Quazepam	
+D      D00457  Quazepam (JAN/USP/INN)	
+C    Quetiapine	
+D      D08456  Quetiapine (INN)	
+D      D00458  Quetiapine fumarate (JP17/USAN)	
+C    Rabeprazole [DG:DG00022]	
+D      D00724  Rabeprazole sodium (JP17/USAN)	
+D      D08463  Rabeprazole (INN)	
+C    Ramelteon	
+D      D02689  Ramelteon (JAN/USAN/INN)	
+C    Rifabutin	
+D      D00424  Rifabutin (JAN/USP/INN)	
+C    Rifampicin [DG:DG00639]	
+D      D00211  Rifampin (USP)	
+D      D08479  Rifampicin sodium	
+C    Risperidone	
+D      D00426  Risperidone (JP17/USAN/INN)	
+C    Ritonavir	
+D      D00427  Ritonavir (JAN/USAN/INN)	
+C    Rivaroxaban	
+D      D07086  Rivaroxaban (JAN/USAN/INN)	
+C    Roxithromycin	
+D      D01710  Roxithromycin (JP17/USAN/INN)	
+C    Salmeterol [DG:DG01051]	
+D      D05792  Salmeterol (USAN/INN)	
+D      D00687  Salmeterol xinafoate (JAN/USAN)	
+C    Salmeterol - fluticasone	
+D      D08699  Salmeterol xinafoate - fluticasone propionate mixt	
+C    Saquinavir [DG:DG00653]	
+D      D00429  Saquinavir (JAN/USP/INN)	
+D      D01160  Saquinavir mesylate (USP)	
+C    Sarpogrelate	
+D      D08508  Sarpogrelate (INN)	
+D      D01624  Sarpogrelate hydrochloride (JP17)	
+C    Selegiline [DG:DG00864]	
+D      D03731  Selegiline (USAN/INN)	
+D      D00785  Selegiline hydrochloride (JAN/USP)	
+C    Sevoflurane	
+D      D00547  Sevoflurane (JP17/USAN/INN)	
+C    Sertraline [DG:DG00945]	
+D      D02360  Sertraline (INN)	
+D      D00825  Sertraline hydrochloride (JAN/USAN)	
+C    Sildenafil [DG:DG00484]	
+D      D08514  Sildenafil (INN)	
+D      D02229  Sildenafil citrate (JAN/USAN)	
+C    Simvastatin	
+D      D00434  Simvastatin (JP17/USP/INN)	
+C    Solifenacin	
+D      D01269  Solifenacin succinate (JAN/USAN/INN)	
+C    Sorafenib [DG:DG00713]	
+D      D06272  Sorafenib tosylate (USAN)	
+C    Stiripentol	
+D      D05928  Stiripentol (JAN/USAN/INN)	
+C    Sunitinib	
+D      D06402  Sunitinib malate (JAN/USAN)	
+C    Tacrolimus	
+D      D08556  Tacrolimus (INN)	
+D      D00107  Tacrolimus (USAN/INN)	
+C    Tadalafil	
+D      D02008  Tadalafil (JAN/USAN/INN)	
+C    Tamibarotene	
+D      D01418  Tamibarotene (JAN/INN)	
+C    Tamoxifen [DG:DG00734]	
+D      D08559  Tamoxifen (INN)	
+D      D00966  Tamoxifen citrate (JP17/USP)	
+C    Tandospirone	
+D      D08561  Tandospirone (INN)	
+D      D01992  Tandospirone citrate (JAN/USAN)	
+C    Temazepam	
+D      D00370  Temazepam (USP/INN)	
+C    Telithromycin	
+D      D01078  Telithromycin (JAN/USAN/INN)	
+C    Telmisartan and amlodipine	
+D      D09743  Telmisartan - amlodipine besilate mixt	
+C    Temsirolimus	
+D      D06068  Temsirolimus (JAN/USAN/INN)	
+C    Teniposide	
+D      D02698  Teniposide (USAN/INN)	
+C    Terbinafine [DG:DG00375]	
+D      D02375  Terbinafine (USAN/INN)	
+D      D02219  Terbinafine hydrochloride (JP17/USP)	
+C    Terfenadine	
+D      D00521  Terfenadine (JAN/USAN/INN)	
+C    Testosterone [DG:DG00460]	
+D      D00075  Testosterone (JAN/USP)	
+D      D00957  Testosterone cypionate (USP)	
+D      D00958  Testosterone enanthate (JP17/USP)	
+D      D00959  Testosterone propionate (JP17/USP)	
+D      D06085  Testosterone ketolaurate (USAN/INN)	
+D      D06086  Testosterone phenylacetate (USAN)	
+D      D06087  Testosterone undecanoate (USAN)	
+D      D08573  Testosterone decanoate	
+D      D08574  Testosterone phenylpropionate	
+C    Tofisopam	
+D      D01254  Tofisopam (JP17/INN)	
+C    Tolterodine [DG:DG00480]	
+D      D00646  Tolterodine (USAN/INN)	
+D      D01148  Tolterodine tartrate (JAN/USAN)	
+C    Topiramate	
+D      D00537  Topiramate (JAN/USAN/INN)	
+C    Toremifene [DG:DG00735]	
+D      D08620  Toremifene (INN)	
+D      D00967  Toremifene citrate (JAN/USAN)	
+C    Tramadol [DG:DG00824]	
+D      D01355  Tramadol hydrochloride (JAN/USAN)	
+C    Trazodone [DG:DG00952]	
+D      D08626  Trazodone (INN)	
+D      D00820  Trazodone hydrochloride (JAN/USP)	
+C    Triazolam	
+D      D00387  Triazolam (JAN/USP/INN)	
+C    Trimethadione	
+D      D00392  Trimethadione (JP17/INN)	
+C    Troleandomycin	
+D      D01322  Troleandomycin (USP/INN)	
+C    Valproic acid [DG:DG00849]	
+D      D00399  Valproic acid (USP)	
+D      D00710  Valproate sodium (USAN)	
+D      D08667  Calcium valproate	
+C    Valsartan and amlodipine	
+D      D09745  Valsartan - amlodipine besilate mixt	
+C    Verapamil [DG:DG00329]	
+D      D02356  Verapamil (USAN/INN)	
+D      D00619  Verapamil hydrochloride (JP17/USP)	
+C    Vinblastine [DG:DG00689]	
+D      D08675  Vinblastine (INN)	
+D      D01068  Vinblastine sulfate (JP17/USP)	
+C    Vincristine [DG:DG00690]	
+D      D08679  Vincristine (INN)	
+D      D02197  Vincristine sulfate (JP17/USP)	
+C    Vindesine [DG:DG00691]	
+D      D06304  Vindesine (USAN/INN)	
+D      D01769  Vindesine sulfate (JAN/USAN)	
+C    Vinorelbine [DG:DG00692]	
+D      D08680  Vinorelbine (INN)	
+D      D01935  Vinorelbine tartrate (USP)	
+C    Voriconazole	
+D      D00578  Voriconazole (JP17/USAN/INN)	
+C    Zonisamide	
+D      D00538  Zonisamide (JAN/USAN/INN)	
+C    Zaleplon	
+D      D00530  Zaleplon (JAN/USAN/INN)	
+C    Ziprasidone [DG:DG00892]	
+D      D08687  Ziprasidone (INN)	
+D      D01939  Ziprasidone hydrochloride (USAN)	
+D      D02100  Ziprasidone mesylate (USAN)	
+C    Zolpidem [DG:DG00922]	
+D      D08690  Zolpidem (INN)	
+D      D00706  Zolpidem tartrate (JP17/USAN)	
+C    Zopiclone	
+D      D01372  Zopiclone (JAN/INN)	
+C    Zotepine	
+D      D01321  Zotepine (JAN/INN)	
+B  CYP3A5 [HSA:1577]	
+C    Amlodipine [DG:DG00322]	
+D      D07450  Amlodipine (USAN/INN)	
+D      D00615  Amlodipine besylate (USAN)	
+D      D02914  Amlodipine maleate (USAN)	
+C    Apixaban	
+D      D03213  Apixaban (JAN/USAN/INN)	
+C    Aprepitant [DG:DG00066]	
+D      D02968  Aprepitant (JAN/USAN/INN)	
+D      D06597  Fosaprepitant dimeglumine (USAN)	
+C    Astemizole	
+D      D00234  Astemizole (JAN/USP/INN)	
+C    Axitinib	
+D      D03218  Axitinib (JAN/USAN)	
+C    Caffeine	
+D      D00528  Caffeine (USP)	
+D      D01453  Caffeine hydrate (JP17)	
+C    Chlorphenamine [DG:DG01099]	
+D      D07398  Chlorphenamine (INN)	
+D      D00665  Chlorpheniramine maleate (JP17/USP)	
+D      D03475  Chlorpheniramine polistirex (USAN)	
+C    Ciclosporin	
+D      D00184  Cyclosporine (USP)	
+C    Cortisone	
+D      D07749  Cortisone (INN)	
+C    Cisapride	
+D      D00274  Cisapride (USAN/INN)	
+D      D02092  Cisapride (JAN)	
+C    Dexamethasone [DG:DG00011]	
+D      D00292  Dexamethasone (JP17/USP/INN)	
+D      D00975  Dexamethasone sodium phosphate (JAN/USP)	
+D      D01510  Dexamethasone metasulfobenzoate sodium (JAN)	
+D      D01615  Dexamethasone palmitate (JAN)	
+D      D01632  Dexamethasone dipropionate (USAN)	
+D      D01948  Dexamethasone valerate (JAN)	
+D      D02174  Dexamethasone acetate (JAN/USP)	
+D      D02591  Dexamethasone acefurate (USAN/INN)	
+D      D02592  Dexamethasone beloxil (USAN)	
+D      D07073  Dexamethasone cipecilate (JAN/INN)	
+D      D07796  Dexamethasone 21-acetate	
+D      D07797  Dexamethasone isonicotinate	
+D      D07798  Dexamethasone sodium hemisulfate	
+D      D07799  Dexamethasone 21-tebutate	
+D      D07800  Dexamethasone 21-valerate	
+D      D07801  Dexamethasone phenylpropionate	
+D      D07802  Dexamethasone phosphate	
+C    Dexchlorpheniramine [DG:DG01098]	
+D      D07803  Dexchlorpheniramine (INN)	
+D      D00668  Dexchlorpheniramine maleate (USP)	
+C    Dexpropranolol	
+D      D03729  Dexpropranolol hydrochloride (USAN)	
+C    Diltiazem [DG:DG00331]	
+D      D07845  Diltiazem (INN)	
+D      D00616  Diltiazem hydrochloride (JP17/USP)	
+D      D03830  Diltiazem malate (USAN)	
+C    Domperidone [DG:DG00057]	
+D      D01745  Domperidone (JP17/USAN/INN)	
+D      D07868  Domperidone maleate	
+C    Dutasteride	
+D      D03820  Dutasteride (JAN/USAN/INN)	
+C    Eplerenone	
+D      D01115  Eplerenone (JP17/USAN/INN)	
+C    Erythromycin [DG:DG00436]	
+D      D00140  Erythromycin (JP17/USP/INN)	
+D      D00851  Erythromycin estolate (USP)	
+D      D02009  Erythromycin lactobionate (JP17/USP)	
+D      D02184  Erythromycin stearate (JP17/USP)	
+D      D02523  Erythromycin acistrate (USAN)	
+D      D02524  Erythromycin gluceptate (USP)	
+D      D02525  Erythromycin propionate (USAN)	
+D      D04054  Erythromycin salnacedin (USAN)	
+D      D07909  Erythromycin thiocyanate	
+D      D07910  Erythromycin stinoprate (INN)	
+C    Felodipine	
+D      D00319  Felodipine (JAN/USP/INN)	
+C    Fentanyl	
+D      D00320  Fentanyl (JAN/USAN/INN)	
+D      D01399  Fentanyl citrate (JP17/USP)	
+C    Hydrocortisone [DG:DG00012]	
+D      D00088  Hydrocortisone (JP17/USP/INN)	
+D      D00165  Hydrocortisone acetate (JP17/USP)	
+D      D00976  Hydrocortisone cypionate	
+D      D00977  Hydrocortisone sodium phosphate (JP17/USP)	
+D      D00978  Hydrocortisone sodium succinate (JP17/USP)	
+D      D01442  Hydrocortisone succinate (JP17)	
+D      D01619  Hydrocortisone butyrate (JP17/USP)	
+D      D01886  Hydrocortisone probutate (USAN)	
+D      D02288  Hydrocortisone valerate (USP)	
+D      D04467  Hydrocortisone hemisuccinate (USP)	
+D      D06876  Hydrocortisone aceponate (INN)	
+D      D09796  Hydrocortisone caproate (JAN)	
+C    Hydroquinine	
+D      D08265  Hydroquinine hydrobromide	
+C    Haloperidol [DG:DG00885]	
+D      D00136  Haloperidol (JP17/USP/INN)	
+D      D01898  Haloperidol decanoate (JAN/USAN)	
+D      D08035  Haloperidol lactate	
+C    Hydroxyzine [DG:DG00912]	
+D      D08054  Hydroxyzine (INN)	
+D      D00672  Hydroxyzine hydrochloride (JP17/USP)	
+D      D01096  Hydroxyzine pamoate (JP17/USP)	
+C    Imatinib [DG:DG00710]	
+D      D08066  Imatinib (INN)	
+D      D01441  Imatinib mesylate (USAN)	
+C    Indinavir	
+D      D03833  Indinavir (USAN)	
+D      D00897  Indinavir sulfate (USAN)	
+D      D02861  Indinavir sulfate ethanolate (JAN)	
+C    Irinotecan [DG:DG00726]	
+D      D08086  Irinotecan (INN)	
+D      D01061  Irinotecan hydrochloride (USAN)	
+C    Lapatinib [DG:DG00715]	
+D      D08108  Lapatinib (INN)	
+D      D04024  Lapatinib ditosylate (USAN)	
+C    Lercanidipine [DG:DG00326]	
+D      D08111  Lercanidipine (INN)	
+D      D01849  Lercanidipine hydrochloride (JAN/USAN)	
+C    Lovastatin	
+D      D00359  Lovastatin (USP/INN)	
+C    Midazolam [DG:DG00920]	
+D      D00550  Midazolam (JAN/USP/INN)	
+D      D00696  Midazolam hydrochloride (USAN)	
+D      D05028  Midazolam maleate (USAN)	
+C    Naratriptan [DG:DG00837]	
+D      D08255  Naratriptan (INN)	
+D      D00674  Naratriptan hydrochloride (JAN/USAN)	
+C    Nateglinide	
+D      D01111  Nateglinide (JP17/USAN/INN)	
+C    Nifedipine	
+D      D00437  Nifedipine (JP17/USP/INN)	
+C    Nitrendipine	
+D      D00629  Nitrendipine (JP17/USAN/INN)	
+C    Pimozide	
+D      D00560  Pimozide (JP17/USP/INN)	
+C    Propranolol [DG:DG00305]	
+D      D08443  Propranolol (INN)	
+D      D00483  Propranolol hydrochloride (JP17/USP)	
+C    Quetiapine	
+D      D08456  Quetiapine (INN)	
+D      D00458  Quetiapine fumarate (JP17/USAN)	
+C    Quinine [DG:DG01019]	
+D      D08460  Quinine (BAN)	
+D      D02261  Quinine hydrochloride hydrate (JP17)	
+D      D02262  Quinine sulfate (USP)	
+D      D05681  Quinine ascorbate (USAN)	
+D      D08461  Quinine dihydrochloride	
+C    Rivaroxaban	
+D      D07086  Rivaroxaban (JAN/USAN/INN)	
+C    Salmeterol [DG:DG01051]	
+D      D05792  Salmeterol (USAN/INN)	
+D      D00687  Salmeterol xinafoate (JAN/USAN)	
+C    Saquinavir [DG:DG00653]	
+D      D00429  Saquinavir (JAN/USP/INN)	
+D      D01160  Saquinavir mesylate (USP)	
+C    Sildenafil [DG:DG00484]	
+D      D08514  Sildenafil (INN)	
+D      D02229  Sildenafil citrate (JAN/USAN)	
+C    Tacrolimus	
+D      D08556  Tacrolimus (INN)	
+D      D00107  Tacrolimus (USAN/INN)	
+C    Telithromycin	
+D      D01078  Telithromycin (JAN/USAN/INN)	
+C    Terfenadine	
+D      D00521  Terfenadine (JAN/USAN/INN)	
+C    Testosterone [DG:DG00460]	
+D      D00075  Testosterone (JAN/USP)	
+D      D00957  Testosterone cypionate (USP)	
+D      D00958  Testosterone enanthate (JP17/USP)	
+D      D00959  Testosterone propionate (JP17/USP)	
+D      D06085  Testosterone ketolaurate (USAN/INN)	
+D      D06086  Testosterone phenylacetate (USAN)	
+D      D06087  Testosterone undecanoate (USAN)	
+D      D08573  Testosterone decanoate	
+D      D08574  Testosterone phenylpropionate	
+C    Trazodone [DG:DG00952]	
+D      D08626  Trazodone (INN)	
+D      D00820  Trazodone hydrochloride (JAN/USP)	
+C    Verapamil [DG:DG00329]	
+D      D02356  Verapamil (USAN/INN)	
+D      D00619  Verapamil hydrochloride (JP17/USP)	
+C    Zaleplon	
+D      D00530  Zaleplon (JAN/USAN/INN)	
+C    Ziprasidone [DG:DG00892]	
+D      D08687  Ziprasidone (INN)	
+D      D01939  Ziprasidone hydrochloride (USAN)	
+D      D02100  Ziprasidone mesylate (USAN)	
+C    Zolpidem [DG:DG00922]	
+D      D08690  Zolpidem (INN)	
+D      D00706  Zolpidem tartrate (JP17/USAN)	
+B  CYP3A7 [HSA:1551]	
+C    Amlodipine [DG:DG00322]	
+D      D07450  Amlodipine (USAN/INN)	
+D      D00615  Amlodipine besylate (USAN)	
+D      D02914  Amlodipine maleate (USAN)	
+C    Aprepitant [DG:DG00066]	
+D      D02968  Aprepitant (JAN/USAN/INN)	
+D      D06597  Fosaprepitant dimeglumine (USAN)	
+C    Astemizole	
+D      D00234  Astemizole (JAN/USP/INN)	
+C    Caffeine	
+D      D00528  Caffeine (USP)	
+D      D01453  Caffeine hydrate (JP17)	
+C    Chlorphenamine [DG:DG01099]	
+D      D07398  Chlorphenamine (INN)	
+D      D00665  Chlorpheniramine maleate (JP17/USP)	
+D      D03475  Chlorpheniramine polistirex (USAN)	
+C    Ciclosporin	
+D      D00184  Cyclosporine (USP)	
+C    Cisapride	
+D      D00274  Cisapride (USAN/INN)	
+D      D02092  Cisapride (JAN)	
+C    Dexamethasone [DG:DG00011]	
+D      D00292  Dexamethasone (JP17/USP/INN)	
+D      D00975  Dexamethasone sodium phosphate (JAN/USP)	
+D      D01510  Dexamethasone metasulfobenzoate sodium (JAN)	
+D      D01615  Dexamethasone palmitate (JAN)	
+D      D01632  Dexamethasone dipropionate (USAN)	
+D      D01948  Dexamethasone valerate (JAN)	
+D      D02174  Dexamethasone acetate (JAN/USP)	
+D      D02591  Dexamethasone acefurate (USAN/INN)	
+D      D02592  Dexamethasone beloxil (USAN)	
+D      D07073  Dexamethasone cipecilate (JAN/INN)	
+D      D07796  Dexamethasone 21-acetate	
+D      D07797  Dexamethasone isonicotinate	
+D      D07798  Dexamethasone sodium hemisulfate	
+D      D07799  Dexamethasone 21-tebutate	
+D      D07800  Dexamethasone 21-valerate	
+D      D07801  Dexamethasone phenylpropionate	
+D      D07802  Dexamethasone phosphate	
+C    Dexchlorpheniramine [DG:DG01098]	
+D      D07803  Dexchlorpheniramine (INN)	
+D      D00668  Dexchlorpheniramine maleate (USP)	
+C    Dexpropranolol	
+D      D03729  Dexpropranolol hydrochloride (USAN)	
+C    Domperidone [DG:DG00057]	
+D      D01745  Domperidone (JP17/USAN/INN)	
+D      D07868  Domperidone maleate	
+C    Diltiazem [DG:DG00331]	
+D      D07845  Diltiazem (INN)	
+D      D00616  Diltiazem hydrochloride (JP17/USP)	
+D      D03830  Diltiazem malate (USAN)	
+C    Eplerenone	
+D      D01115  Eplerenone (JP17/USAN/INN)	
+C    Erythromycin [DG:DG00436]	
+D      D00140  Erythromycin (JP17/USP/INN)	
+D      D00851  Erythromycin estolate (USP)	
+D      D01361  Erythromycin ethylsuccinate (JP17/USP)	
+D      D02009  Erythromycin lactobionate (JP17/USP)	
+D      D02184  Erythromycin stearate (JP17/USP)	
+D      D02523  Erythromycin acistrate (USAN)	
+D      D02524  Erythromycin gluceptate (USP)	
+D      D02525  Erythromycin propionate (USAN)	
+D      D04054  Erythromycin salnacedin (USAN)	
+D      D07909  Erythromycin thiocyanate	
+D      D07910  Erythromycin stinoprate (INN)	
+C    Felodipine	
+D      D00319  Felodipine (JAN/USP/INN)	
+C    Fentanyl	
+D      D00320  Fentanyl (JAN/USAN/INN)	
+D      D01399  Fentanyl citrate (JP17/USP)	
+C    Haloperidol [DG:DG00885]	
+D      D00136  Haloperidol (JP17/USP/INN)	
+D      D01898  Haloperidol decanoate (JAN/USAN)	
+D      D08035  Haloperidol lactate	
+C    Hydrocortisone [DG:DG00012]	
+D      D00088  Hydrocortisone (JP17/USP/INN)	
+D      D00165  Hydrocortisone acetate (JP17/USP)	
+D      D00976  Hydrocortisone cypionate	
+D      D00977  Hydrocortisone sodium phosphate (JP17/USP)	
+D      D00978  Hydrocortisone sodium succinate (JP17/USP)	
+D      D01442  Hydrocortisone succinate (JP17)	
+D      D01619  Hydrocortisone butyrate (JP17/USP)	
+D      D01886  Hydrocortisone probutate (USAN)	
+D      D02288  Hydrocortisone valerate (USP)	
+D      D04467  Hydrocortisone hemisuccinate (USP)	
+D      D06876  Hydrocortisone aceponate (INN)	
+D      D09796  Hydrocortisone caproate (JAN)	
+C    Hydroquinine	
+D      D08265  Hydroquinine hydrobromide	
+C    Indinavir	
+D      D03833  Indinavir (USAN)	
+D      D00897  Indinavir sulfate (USAN)	
+D      D02861  Indinavir sulfate ethanolate (JAN)	
+C    Irinotecan [DG:DG00726]	
+D      D08086  Irinotecan (INN)	
+D      D01061  Irinotecan hydrochloride (USAN)	
+C    Lercanidipine [DG:DG00326]	
+D      D08111  Lercanidipine (INN)	
+D      D01849  Lercanidipine hydrochloride (JAN/USAN)	
+C    Lovastatin	
+D      D00359  Lovastatin (USP/INN)	
+C    Midazolam [DG:DG00920]	
+D      D00550  Midazolam (JAN/USP/INN)	
+D      D00696  Midazolam hydrochloride (USAN)	
+D      D05028  Midazolam maleate (USAN)	
+C    Nateglinide	
+D      D01111  Nateglinide (JP17/USAN/INN)	
+C    Nitrendipine	
+D      D00629  Nitrendipine (JP17/USAN/INN)	
+C    Pimozide	
+D      D00560  Pimozide (JP17/USP/INN)	
+C    Propranolol [DG:DG00305]	
+D      D08443  Propranolol (INN)	
+D      D00483  Propranolol hydrochloride (JP17/USP)	
+C    Quetiapine	
+D      D08456  Quetiapine (INN)	
+D      D00458  Quetiapine fumarate (JP17/USAN)	
+C    Quinine [DG:DG01019]	
+D      D08460  Quinine (BAN)	
+D      D02261  Quinine hydrochloride hydrate (JP17)	
+D      D02262  Quinine sulfate (USP)	
+D      D05681  Quinine ascorbate (USAN)	
+D      D08461  Quinine dihydrochloride	
+C    Salmeterol [DG:DG01051]	
+D      D05792  Salmeterol (USAN/INN)	
+D      D00687  Salmeterol xinafoate (JAN/USAN)	
+C    Saquinavir [DG:DG00653]	
+D      D00429  Saquinavir (JAN/USP/INN)	
+D      D01160  Saquinavir mesylate (USP)	
+C    Sildenafil [DG:DG00484]	
+D      D08514  Sildenafil (INN)	
+D      D02229  Sildenafil citrate (JAN/USAN)	
+C    Tacrolimus	
+D      D08556  Tacrolimus (INN)	
+D      D00107  Tacrolimus (USAN/INN)	
+C    Telithromycin	
+D      D01078  Telithromycin (JAN/USAN/INN)	
+C    Terfenadine	
+D      D00521  Terfenadine (JAN/USAN/INN)	
+C    Testosterone [DG:DG00460]	
+D      D00075  Testosterone (JAN/USP)	
+D      D00957  Testosterone cypionate (USP)	
+D      D00958  Testosterone enanthate (JP17/USP)	
+D      D00959  Testosterone propionate (JP17/USP)	
+D      D06085  Testosterone ketolaurate (USAN/INN)	
+D      D06086  Testosterone phenylacetate (USAN)	
+D      D06087  Testosterone undecanoate (USAN)	
+D      D08573  Testosterone decanoate	
+D      D08574  Testosterone phenylpropionate	
+C    Trazodone [DG:DG00952]	
+D      D08626  Trazodone (INN)	
+D      D00820  Trazodone hydrochloride (JAN/USP)	
+C    Verapamil [DG:DG00329]	
+D      D02356  Verapamil (USAN/INN)	
+D      D00619  Verapamil hydrochloride (JP17/USP)	
+C    Ziprasidone [DG:DG00892]	
+D      D08687  Ziprasidone (INN)	
+D      D01939  Ziprasidone hydrochloride (USAN)	
+D      D02100  Ziprasidone mesylate (USAN)	
+C    Zolpidem [DG:DG00922]	
+D      D08690  Zolpidem (INN)	
+D      D00706  Zolpidem tartrate (JP17/USAN)	
+C    Zaleplon	
+D      D00530  Zaleplon (JAN/USAN/INN)	
+B  CYP3A [HSA:1576 1577 1551]	
+C    Alfentanil	Sensitive (in vivo) / Narrow therapeutic range (in vivo)
+D      D07122  Alfentanil (INN)	
+D      D00835  Alfentanil hydrochloride (USP)	
+C    Alprazolam	
+D      D00225  Alprazolam (JP17/USP/INN)	
+C    Aprepitant [DG:DG00066]	Sensitive (in vivo)
+D      D02968  Aprepitant (JAN/USAN/INN)	
+D      D06597  Fosaprepitant dimeglumine (USAN)	
+C    Astemizole	Narrow therapeutic range (in vivo)
+D      D00234  Astemizole (JAN/USP/INN)	
+C    Amobarbital [DG:DG00916]	
+D      D00555  Amobarbital (JP17/INN)	
+D      D02252  Amobarbital sodium (JAN/USP)	
+C    Atorvastatin [DG:DG00355]	
+D      D07474  Atorvastatin (INN)	
+D      D00887  Atorvastatin calcium anhydorous	
+D      D02258  Atorvastatin calcium (USP)	
+C    Azelnidipine	
+D      D01145  Azelnidipine (JP17/INN)	
+C    Barbiturates in combination with other drugs	
+D      D02615  Chlorpromazine hydrochloride - promethazine hydrochloride - phenobarbital mixt	
+C    Blonanserin	
+D      D01176  Blonanserin (JAN/INN)	
+C    Budesonide	Sensitive (in vivo)
+D      D00246  Budesonide (JAN/USAN/INN)	
+C    Buspirone	Sensitive (in vivo)
+D      D07593  Buspirone (INN)	
+D      D00702  Buspirone hydrochloride (USP)	
+C    Cisapride [DG:DG00056]	Narrow therapeutic range (in vivo)
+D      D00274  Cisapride (USAN/INN)	
+D      D02092  Cisapride (JAN)	
+C    Colchicine	
+D      D00570  Colchicine (JP17/USP)	
+C    Conivaptan	Sensitive (in vivo)
+D      D07748  Conivaptan (INN)	
+D      D01236  Conivaptan hydrochloride (JAN/USAN)	
+C    Cyclosporine	Narrow therapeutic range (in vivo)
+D      D00184  Cyclosporine (USP)	
+C    Dihydroergotamine [DG:DG00833]	Narrow therapeutic range (in vivo)
+D      D07837  Dihydroergotamine (INN)	
+D      D02211  Dihydroergotamine mesylate (USP)	
+D      D07838  Dihydroergotamine tartrate	
+C    Digitoxin	
+D      D00297  Digitoxin (JP17/USP/INN)	
+C    Darifenacin	Sensitive (in vivo)
+D      D03654  Darifenacin (USAN/INN)	
+D      D01699  Darifenacin hydrobromide (JAN/USAN)	
+C    Darunavir [DG:DG00659]	Sensitive (in vivo)
+D      D03656  Darunavir (USAN/INN)	
+D      D06478  Darunavir ethanolate (JAN)	
+C    Dasatinib	Sensitive (in vivo)
+D      D03658  Dasatinib (INN)	
+D      D06414  Dasatinib (USAN)	
+C    Dronedarone	Sensitive (in vivo)
+D      D02537  Dronedarone (INN)	
+D      D03914  Dronedarone hydrochloride (USAN)	
+C    Eletriptan	Sensitive (in vivo)
+D      D07887  Eletriptan (INN)	
+D      D01973  Eletriptan hydrobromide (JAN/USAN)	
+C    Eplerenone	
+D      D01115  Eplerenone (JP17/USAN/INN)	
+C    Ergotamine [DG:DG00834]	Narrow therapeutic range (in vivo)
+D      D07906  Ergotamine (INN)	
+D      D00679  Ergotamine tartrate (JP17/USP)	
+C    Everolimus	Sensitive (in vivo)
+D      D02714  Everolimus (JAN/USAN/INN)	
+C    Felodipine	Sensitive (in vivo)
+D      D00319  Felodipine (JAN/USP/INN)	
+C    Fentanyl [DG:DG00791]	Narrow therapeutic range (in vivo)
+D      D00320  Fentanyl (JAN/USAN/INN)	
+D      D01399  Fentanyl citrate (JP17/USP)	
+C    Fluticasone [DG:DG00420]	Sensitive (in vivo)
+D      D07981  Fluticasone (INN)	
+D      D01708  Fluticasone propionate (JAN/USAN)	
+D      D06315  Fluticasone furoate (JAN/USAN/INN)	
+C    Indinavir [DG:DG00654]	Sensitive (in vivo)
+D      C07051  Indinavir	
+D      D03833  Indinavir (USAN)	
+D      D00897  Indinavir sulfate (USAN)	
+D      D02861  Indinavir sulfate ethanolate (JAN)	
+C    Lopinavir	Sensitive (in vivo)
+D      D01425  Lopinavir (JAN/USAN/INN)	
+C    Lovastatin	Sensitive (in vivo)
+D      D00359  Lovastatin (USP/INN)	
+C    Lurasidone	Sensitive (in vivo)
+D      D04820  Lurasidone hydrochloride (JAN/USAN)	
+C    Maraviroc	Sensitive (in vivo)
+D      D06670  Maraviroc (JAN/INN)	
+C    Midazolam [DG:DG00920]	Sensitive (in vivo)
+D      D00550  Midazolam (JAN/USP/INN)	
+D      D00696  Midazolam hydrochloride (USAN)	
+D      D05028  Midazolam maleate (USAN)	
+C    Mefloquine	
+D      D00831  Mefloquine hydrochloride (JP17/USP)	
+C    Nisoldipine	Sensitive (in vivo)
+D      D00618  Nisoldipine (JAN/USAN/INN)	
+C    Prednisolone	
+D      D00472  Prednisolone (JP17/USP/INN)	
+C    Phenobarbital [DG:DG00845]	
+D      D00506  Phenobarbital (JP17/USP/INN)	
+D      D00701  Phenobarbital sodium (JAN/USP/INN)	
+D      D08356  Phenobarbital diethylamine	
+C    Phenytoin [DG:DG00846]	
+D      D00512  Phenytoin (JP17/USP/INN)	
+D      D02103  Phenytoin sodium (USP)	
+"C    Phenytoin, combinations"	
+D      D07583  Phenytoin - phenobarbital mixt	
+D      D03844  Phenytoin - phenobarbital - caffeine and sodium benzoate	
+C    Pimozide	Narrow therapeutic range (in vivo)
+D      D00560  Pimozide (JP17/USP/INN)	
+C    Proxyphylline and adrenergics	
+D      D04307  Proxyphylline - ephedrine hydrochloride - phenobarbital mixt	
+C    Quetiapine [DG:DG00899]	Sensitive (in vivo)
+D      D08456  Quetiapine (INN)	
+D      D00458  Quetiapine fumarate (JP17/USAN)	
+C    Quinidine [DG:DG00192]	Narrow therapeutic range (in vivo)
+D      D08458  Quinidine (BAN)	
+D      D00642  Quinidine gluconate (USP)	
+D      D00643  Quinidine polygalacturonate	
+D      D02272  Quinidine sulfate (USP)	
+D      D08459  Quinidine phenylethylbarbiturate	
+C    Rilpivirine [DG:DG00663]	
+D      D09720  Rilpivirine (USAN/INN)	
+D      D09958  Rilpivirine hydrochloride (JAN/USAN)	
+C    Rivaroxaban	
+D      D07086  Rivaroxaban (JAN/USAN/INN)	
+C    Rosuvastatin [DG:DG00357]	
+D      D08492  Rosuvastatin (INN)	
+D      D01915  Rosuvastatin calcium (JAN/USAN)	
+C    Saquinavir [DG:DG00653]	Sensitive (in vivo)
+D      D00429  Saquinavir (JAN/USP/INN)	
+D      D01160  Saquinavir mesylate (USP)	
+C    Sildenafil	Sensitive (in vivo)
+D      D08514  Sildenafil (INN)	
+D      D02229  Sildenafil citrate (JAN/USAN)	
+C    Simvastatin	Sensitive (in vivo)
+D      D00434  Simvastatin (JP17/USP/INN)	
+C    Sirolimus	Sensitive (in vivo) / Narrow therapeutic range (in vivo)
+D      D00753  Sirolimus (JAN/USAN/INN)	
+C    Tacrolimus [DG:DG00439]	Narrow therapeutic range (in vivo)
+D      D08556  Tacrolimus (INN)	
+D      D00107  Tacrolimus (USAN/INN)	
+C    Tadalafil	
+D      D02008  Tadalafil (JAN/USAN/INN)	
+C    Terfenadine	Narrow therapeutic range (in vivo)
+D      D00521  Terfenadine (JAN/USAN/INN)	
+C    Ticagrelor	Sensitive (in vivo)
+D      D09017  Ticagrelor (USAN/INN)	
+C    Tipranavir [DG:DG00658]	Sensitive (in vivo)
+D      D08605  Tipranavir (INN)	
+D      D03843  Tipranavir disodium (USAN)	
+C    Tolvaptan	Sensitive (in vivo)
+D      D01213  Tolvaptan (JAN/USAN/INN)	
+C    Triazolam	
+D      D00387  Triazolam (JAN/USP/INN)	
+C    Vardenafil [DG:DG00487]	Sensitive (in vivo)
+D      D08668  Vardenafil (INN)	
+D      D02731  Vardenafil dihydrochoride (USAN)	
+D      D03260  Vardenafil hydrochloride hydrate (JAN)	
+D      D09989  Vardenafil hydrochloride (USAN)	
+B  CYP4B1 [HSA:1580]	
+C    Midazolam [DG:DG00920]	
+D      D00550  Midazolam (JAN/USP/INN)	
+D      D00696  Midazolam hydrochloride (USAN)	
+D      D05028  Midazolam maleate (USAN)	
