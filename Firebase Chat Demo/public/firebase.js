@@ -119,14 +119,22 @@ function LogOut(){
 
 
 function save(){
-	var user = firebase.auth().currentUser;
-	var MessageText = document.getElementById("msg").value;
-	var newMessage = {date: new Date().toString(), message: MessageText, user: user.displayName, photoURL: user.photoURL };		
-	
-	messageRef.push().set(newMessage);
-	
-	riot.update();
-};
+		var user = firebase.auth().currentUser;
+		var MessageText = document.getElementById("msg").value;
+		
+		if(MessageText.length > 0){
+		
+			var newMessage = {date: new Date().toString(), message: MessageText, user: user.displayName, photoURL: user.photoURL };		
+		
+			messageRef.push().set(newMessage);
+		
+			riot.update();
+		}
+		
+		else{
+			alert("No message provided");
+		}
+	};
 
 riot.mount('mychat');
 riot.mount('profileSetting');
