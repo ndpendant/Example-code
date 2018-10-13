@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Welcome to Firebase Hosting</title>
+	<!-- update the version number as needed -->
+	<script src="https://www.gstatic.com/firebasejs/5.5.3/firebase-app.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/5.5.3/firebase-auth.js"></script>
+    <!-- include only the Firebase features as you need -->
+    <!-- <script defer src="/__/firebase/5.5.3/firebase-auth.js"></script> -->
+	<script src="https://www.gstatic.com/firebasejs/5.5.3/firebase-database.js"></script>
+    <!-- <script defer src="/__/firebase/5.5.3/firebase-messaging.js"></script> -->
+    <!-- <script defer src="/__/firebase/5.5.3/firebase-storage.js"></script> -->
+    <!-- initialize the SDK after all desired features are loaded -->
+    <!-- <script defer src="/__/firebase/init.js"></script> -->
+	<!-- <script src="riot+compiler.js"></script> -->
+	<!-- <script src="riot.js"></script> -->
+	<script src="https://cdn.firebase.com/js/client/2.4.2/firebase.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/riot/3.3.0/riot+compiler.min.js"></script>
+	<script type="riot/tag" src="mytags.tag"></script>
+
+	<script>
+	  // Initialize Firebase
+	  var config = {
+		apiKey: "AIzaSyAtcsHe3P9DN8rmdsDUdewHwI2hRarQwiw",
+		authDomain: "fir-realtime-chat-4873f.firebaseapp.com",
+		databaseURL: "https://fir-realtime-chat-4873f.firebaseio.com",
+		projectId: "fir-realtime-chat-4873f",
+		storageBucket: "fir-realtime-chat-4873f.appspot.com",
+		messagingSenderId: "459056855975"
+	  };
+	  firebase.initializeApp(config);
+	</script>
+	
+	
+    <style media="screen">
+      body { background: white; color: rgba(0,0,0,0.87); font-family: Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; }
+      #message { background: white; max-width: 360px; margin: 100px auto 16px; padding: 32px 24px; border-radius: 3px; }
+      #message h2 { color: #ffa100; font-weight: bold; font-size: 16px; margin: 0 0 8px; }
+      #message h1 { font-size: 22px; font-weight: 300; color: rgba(0,0,0,0.6); margin: 0 0 16px;}
+      #message p { line-height: 140%; margin: 16px 0 24px; font-size: 14px; }
+      #message a { display: block; text-align: center; background: #039be5; text-transform: uppercase; text-decoration: none; color: white; padding: 16px; border-radius: 4px; }
+      #message, #message a { box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); }
+      #load { color: rgba(0,0,0,0.4); text-align: center; font-size: 13px; }
+      @media (max-width: 600px) {
+        body, #message { margin-top: 0; background: white; box-shadow: none; }
+        body { border-top: 16px solid #ffa100; }
+      }
+    </style>
+  </head>
+  <body>
+	
+	<div id = "newUser" class = "base-div" style="display:block">
+		<h2>Welcome to Fire Chat. Create an account to begin.</h2>
+		<br/>
+		<b>Email</b>
+		<input id = "newEmail" type = "email" placeholder="ex. user@example.com"/>
+		<br/>
+		<b>Password</b>
+		<input id = "newPassword" type="password"  />
+		<br/>
+		<b>Display Name</b>
+		<input id = "displayName" type = "text" placeholder = "ex. noob" />
+		<br/>
+		<button class = "btnBlue" onclick="Login(0)">Login</button>
+		<br/>
+		<button class = "btnRed" onclick="newToExistingUser()">Existing User</button>
+
+	</div>
+	<div id = "existingUser" class = "base-div" style="display:none">
+		<h2>Welcome Back!</h2>
+		<br/>
+		<b>Email</b>
+		<input id = "existEmail" type = "email" placeholder="ex. user@example.com"/>
+		<br/>
+		<b>Password</b>
+		<input id = "existPassword" type="password"  />
+		<br/>
+		<button class = "btnBlue" onclick="Login(1)">Login</button>
+		<br/>
+		<button class = "btnRed" onclick="existToNewUser()">New User</button>
+	</div>
+
+	<div id = "loggedIn" style="display: none" >
+		<div class = "left">			
+			<div style = "height:30px;">			
+		</div>
+
+		</div>
+		<div class = "center">
+			<div class = "title">
+				<h1>Fire Chat</h1>
+			</div>
+			<mychat></mychat>
+			<div class = "footer">
+				<input id = "msg" type = "text" placeholder = "Message here" style="width:80%;height:4vh;border:none;"/>
+				<button id = "submit" class = "btnSubmit" onclick = "save()">Submit</button>
+			</div>
+		</div>
+		<div class = "right" >
+			<profileSetting></profileSetting>
+		</div>
+    </div>
+	<script>
+      document.addEventListener('DOMContentLoaded', function() {
+        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+        // // The Firebase SDK is initialized and available here!
+        //
+        // firebase.auth().onAuthStateChanged(user => { });
+        // firebase.database().ref('/path/to/ref').on('value', snapshot => { });
+        // firebase.messaging().requestPermission().then(() => { });
+        // firebase.storage().ref('/path/to/ref').getDownloadURL().then(() => { });
+        //
+        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+
+        try {
+          let app = firebase.app();
+          let features = ['auth', 'database', 'messaging', 'storage'].filter(feature => typeof app[feature] === 'function');
+          <!-- document.getElementById('load').innerHTML = `Firebase SDK loaded with ${features.join(', ')}`; -->
+        } catch (e) {
+          console.error(e);
+          <!-- document.getElementById('load').innerHTML = 'Error loading the Firebase SDK, check the console.'; -->
+        }
+      });
+    </script>
+	<script>
+		
+	var provider = new firebase.auth.GoogleAuthProvider();
+	var messageRef = firebase.database().ref("messages");
+	var userRef = firebase.database().ref("user");
+	var loggedIn = firebase.auth().currentUser;
+	
+	var loginCheck = function() {
+		var loggedIn = firebase.auth().currentUser;
+		
+		if(!loggedIn){
+			alert("You are not logged in. Please sign in to access the firechat.");
+		}
+	}
+	
+	var styleObserver = new MutationObserver(loginCheck);
+	
+	var hold = document.getElementById("loggedIn");
+	
+	styleObserver.observe(hold, { attributes : true, attributeFilter : ['style'] });
+		
+	messageRef.on("child_added", snapshot => {
+		this.messages.push(
+		{
+			date: snapshot.child("date").val(),
+			message: snapshot.child("message").val(),
+			user: snapshot.child("user").val(),
+			photoURL: snapshot.child("photoURL").val()
+		});
+		
+		riot.update();
+	});
+	
+	userRef.on("child_added", snapshot => {
+		this.users.push(
+		{
+			name: snapshot.child("name").val(),
+			email: snapshot.child("email").val(),
+			photoURL: snapshot.child("photoURL").val() 
+		});
+		
+		if(duplicate())
+		{
+			userRef.child(snapshot.key).remove();
+		}
+		this.users = [ ...new Set(this.users)];
+		
+		riot.update();
+	});
+	
+	<!-- var blah = reference.child("users"); -->
+	this.messages = [];
+	this.users = [];
+	this.currentUser;
+
+	
+	firebase.auth().onAuthStateChanged(function(user) {
+	  if (user) {
+		this.actor = user;
+		var displayName = document.getElementById("displayName").value;
+		
+		if(!user.displayName){
+			user.updateProfile({
+				displayName: displayName,
+			})
+		}
+		if(!user.photoURL){
+			user.updateProfile({
+				photoURL: "profile-blank.png"
+			})
+				
+		}
+		
+		var newUser = {name:user.displayName,email:user.email,photoURL: user.photoURL}
+		userRef.push().set(newUser);
+		Proceed();
+		
+		
+	  } 
+	  else {
+		// No user is signed in.
+		console.log("no one arrived yet");
+	  }
+	});
+
+	
+	
+	function existToNewUser(){
+		var exist = document.getElementById("existingUser");
+		var newUser = document.getElementById("newUser");
+		
+		exist.style.display = "none";
+		newUser.style.display = "block";
+		
+	}
+	
+	function newToExistingUser(){
+		var exist = document.getElementById("existingUser");
+		var newUser = document.getElementById("newUser");
+		
+		newUser.style.display = "none";
+		exist.style.display = "block";
+		
+	}
+	
+	function Login(existing){
+		if(existing == 1){
+			var email = document.getElementById("existEmail").value;
+			var password = document.getElementById("existPassword").value;
+			
+			firebase.auth().signInWithEmailAndPassword(email, password)
+				.catch(function(error){ alert(error.message);});
+		}
+		else{
+			var email = document.getElementById("newEmail").value;
+			var password = document.getElementById("newPassword").value;
+			var displayName = document.getElementById("displayName").value;
+			
+			if(displayName.length > 1){
+			firebase.auth().createUserWithEmailAndPassword(email, password)
+				.catch(function(error){ alert(error.message);});
+			}
+			else{
+				alert("displayName must be provided.");
+			}
+		}
+	}
+	
+	function Proceed(){
+		var exist = document.getElementById("existingUser");
+		var newUser = document.getElementById("newUser");
+		var access = document.getElementById("loggedIn");
+		
+		newUser.style.display = "none";
+		exist.style.display = "none";
+		access.style.display = "block";
+	}
+	
+	
+	function duplicate(){
+		var user = firebase.auth().currentUser;
+		
+		if(user){
+			this.currentUser = {name: user.displayName,email: user.email,photoURL: user.photoURL}
+		}
+		for(var i = 0; i < this.users.length; i++)
+		{
+			if(this.users[i] == this.currentUser)
+			{
+				return true;
+			}
+		}
+		return false;
+	};
+	
+	function LogOut(){
+		firebase.auth().signOut()
+			.then(function(){
+				
+				var exist = document.getElementById("existingUser");
+				var newUser = document.getElementById("newUser");
+				var access = document.getElementById("loggedIn");
+				
+				newUser.style.display = "none";
+				exist.style.display = "block";
+				access.style.display = "none";
+			});
+	}
+	
+	
+	function save(){
+		var user = firebase.auth().currentUser;
+		var MessageText = document.getElementById("msg").value;
+		var newMessage = {date: new Date().toString(), message: MessageText, user: user.displayName, photoURL: user.photoURL };		
+		
+		messageRef.push().set(newMessage);
+		
+		riot.update();
+	};
+  	
+	riot.mount('mychat');
+	riot.mount('profileSetting');
+	</script>
+  </body>
+  
+
+  <style>
+  
+.left {
+	float: left;
+	width: 20%;
+	height: 100vh;
+	background-color: #428bca;
+	padding-left: 5px;
+
+}  
+
+.center{
+	float: left;
+	width: 55%;
+	height: 100vh;
+	padding-left: 30px;
+}
+
+.right{
+	background: black;
+	float: left;
+	width: 20%;
+	height: 100vh;
+	padding-left:40px;
+}
+.collapsable {
+    background-color: #B9FA78;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    transition: 0.4s;
+}
+    <!-- font-size: 15px; -->
+
+.active, .collapsable:hover {
+    background-color: #A3DC69; 
+}
+
+.panel {
+    padding: 0 18px;
+    display: none;
+    background-color: white;
+    overflow: hidden;
+}
+
+.chat {
+	height: 85vh;
+	max-height: 90vh;
+    border-bottom: 3px #EAEBE8 solid;
+    border-width: 1px;
+	overflow: auto;
+}
+
+.msg{
+	width: 100%;
+	border-top: 1px;
+}
+
+.title{
+	height: 5vh;
+}
+
+.footer {
+	bottom: 0;
+}
+
+.btnRed {
+	display:block;
+	width:100%;
+	color: white;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+	padding: 15px;
+	font-size: 15px;
+}
+
+.btnBlue {
+	display:block;
+	width:100%;
+	color: white;
+    background-color: #428bca;
+    border-color: #357ebd;
+	padding: 15px;
+    font-size: 15px;
+}
+
+.btnSubmit {
+	color: white;
+    background-color: #428bca;
+    border-color: #357ebd;
+	padding: 10px;
+    font-size: 15px;
+}
+
+.base-div {
+	width: 25%;
+	margin: 0px auto;
+	margin-top: 150px;
+	padding: 20px;
+}
+
+.base-div input {
+	display: block;
+	padding: 15px;
+	border: 1px solid #ccc;
+	background: white;
+	outline: none;
+	width: 93%;
+}
+
+
+::-webkit-scrollbar {
+    width: 10px;
+	background:
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+ 
+::-webkit-scrollbar-thumb {
+    background: #428bca; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #357ebd; 
+}
+
+</style>
+</html>
