@@ -104,7 +104,7 @@
     </div>
 	<script>
       document.addEventListener('DOMContentLoaded', function() {
-        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+        // // ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥
         // // The Firebase SDK is initialized and available here!
         //
         // firebase.auth().onAuthStateChanged(user => { });
@@ -112,7 +112,7 @@
         // firebase.messaging().requestPermission().then(() => { });
         // firebase.storage().ref('/path/to/ref').getDownloadURL().then(() => { });
         //
-        // // 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+        // // ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥ðŸ”¥
 
         try {
           let app = firebase.app();
@@ -174,7 +174,6 @@
 		riot.update();
 	});
 	
-	<!-- var blah = reference.child("users"); -->
 	this.messages = [];
 	this.users = [];
 	this.currentUser;
@@ -297,11 +296,19 @@
 	function save(){
 		var user = firebase.auth().currentUser;
 		var MessageText = document.getElementById("msg").value;
-		var newMessage = {date: new Date().toString(), message: MessageText, user: user.displayName, photoURL: user.photoURL };		
 		
-		messageRef.push().set(newMessage);
+		if(MessageText.length > 0){
 		
-		riot.update();
+			var newMessage = {date: new Date().toString(), message: MessageText, user: user.displayName, photoURL: user.photoURL };		
+		
+			messageRef.push().set(newMessage);
+		
+			riot.update();
+		}
+		
+		else{
+			alert("No message provided");
+		}
 	};
   	
 	riot.mount('mychat');
@@ -386,6 +393,7 @@
 	color: white;
     background-color: #d9534f;
     border-color: #d43f3a;
+	border-radius: 5px;
 	padding: 15px;
 	font-size: 15px;
 }
@@ -396,6 +404,7 @@
 	color: white;
     background-color: #428bca;
     border-color: #357ebd;
+	border-radius: 5px;
 	padding: 15px;
     font-size: 15px;
 }
