@@ -1,5 +1,5 @@
 <mychat>
-	<div class = "chat">
+	<div class = "chat" id="messages">
 		<p each={i in messages}>
 			<img src="{i.photoURL}" />
 			<h>
@@ -51,11 +51,22 @@
 			</h3>
 		</p>
 	</div>
-	
+	<br/>
+	<br/>
+	<h3>Members</h3>
+	<div class = "members">		
+		<p each = {j in users}>
+			<img src="{j.photoURL}" style="width:25px;height:25px;"/>
+			<b>
+				{j.name}
+			</b>
+			<br/>
+		</p>
+		
+	</div>
 	<script>
 		this.username = "test";
 		this.pic = "profile_blank.png";
-	
 		firebase.auth().onAuthStateChanged(function(user) {
 		});
 		
@@ -86,14 +97,18 @@
 		h3{
 			width: 60%;
 			display: inline-block;
+			color: white;
 		}
 		
 		p{
 			display: inline-block;
-			width: 40%;
 		}
 		a{
 			color:white;
+		}
+		
+		h{
+			color: white;
 		}
 	</style>
 </profileSetting>
