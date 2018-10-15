@@ -154,22 +154,26 @@
 			photoURL: snapshot.child("photoURL").val()
 		});
 		
+		
 		riot.update();
 	});
 	
 	userRef.on("child_added", snapshot => {
-		this.users.push(
-		{
-			name: snapshot.child("name").val(),
-			email: snapshot.child("email").val(),
-			photoURL: snapshot.child("photoURL").val() 
-		});
+		var user = {	
+						name:snapshot.child("name").val(),
+						email: snapshot.child("email").val(),
+						photoURL: snapshot.child("photoURL").val() 
+					}
 		
-		if(duplicate())
+		var checkit = this.users.findIndex(i => i.email == user.email);
+		
+		if(checkit >= 0)
 		{
 			userRef.child(snapshot.key).remove();
 		}
-		this.users = [ ...new Set(this.users)];
+		else{
+			this.users.push(user);
+		}
 		
 		riot.update();
 	});
@@ -260,24 +264,7 @@
 		exist.style.display = "none";
 		access.style.display = "block";
 	}
-	
-	
-	function duplicate(){
-		var user = firebase.auth().currentUser;
 		
-		if(user){
-			this.currentUser = {name: user.displayName,email: user.email,photoURL: user.photoURL}
-		}
-		for(var i = 0; i < this.users.length; i++)
-		{
-			if(this.users[i] == this.currentUser)
-			{
-				return true;
-			}
-		}
-		return false;
-	};
-	
 	function LogOut(){
 		firebase.auth().signOut()
 			.then(function(){
@@ -292,11 +279,11 @@
 			});
 	}
 	
-	
 	function save(){
 		var user = firebase.auth().currentUser;
 		var MessageText = document.getElementById("msg").value;
-		
+		var scrollDown = document.getElementById("messages");
+		var count = 0;
 		if(MessageText.length > 0){
 		
 			var newMessage = {date: new Date().toString(), message: MessageText, user: user.displayName, photoURL: user.photoURL };		
@@ -304,13 +291,16 @@
 			messageRef.push().set(newMessage);
 		
 			riot.update();
+					
+			scrollDown.scrollTop = scrollDown.scrollHeight;
 		}
-		
+				
 		else{
 			alert("No message provided");
 		}
 	};
   	
+	
 	riot.mount('mychat');
 	riot.mount('profileSetting');
 	</script>
@@ -374,6 +364,11 @@
 	overflow: auto;
 }
 
+.members{
+	height: 50vh;
+	overflow: auto;
+
+}
 .msg{
 	width: 100%;
 	border-top: 1px;
