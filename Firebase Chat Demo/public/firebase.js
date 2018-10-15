@@ -18,21 +18,24 @@ messageRef.on("child_added", snapshot => {
 });
 
 userRef.on("child_added", snapshot => {
-	this.users.push(
-	{
-		name: snapshot.child("name").val(),
-		email: snapshot.child("email").val(),
-		photoURL: snapshot.child("photoURL").val() 
+		var user = {	
+						name:snapshot.child("name").val(),
+						email: snapshot.child("email").val(),
+						photoURL: snapshot.child("photoURL").val() 
+					}
+		
+		var checkit = this.users.findIndex(i => i.email == user.email);
+		
+		if(checkit >= 0)
+		{
+			userRef.child(snapshot.key).remove();
+		}
+		else{
+			this.users.push(user);
+		}
+		
+		riot.update();
 	});
-	
-	if(duplicate())
-	{
-		userRef.child(snapshot.key).remove();
-	}
-	this.users = [ ...new Set(this.users)];
-	
-	riot.update();
-});
 
 
 function existToNewUser(){
@@ -129,6 +132,9 @@ function save(){
 			messageRef.push().set(newMessage);
 		
 			riot.update();
+			
+			scrollDown.scrollTop = scrollDown.scrollHeight;
+
 		}
 		
 		else{
